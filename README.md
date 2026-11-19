@@ -1,13 +1,14 @@
 # Movie-Scraper
 
-A small Python scraper that collects public movie-card metadata from `http://103.203.93.2/`.
+Collects movie metadata from every page of the public movie catalog at `http://103.203.93.2/movies`.
 
-Each record in `movies.json` contains:
+## Current collection
 
-- `thumbnail`: thumbnail image URL
-- `title`: full movie title
-- `detail_url`: link to the movie's detail page
-- `published_date`: the site's displayed upload/publish timestamp
+- **12,200 unique movie items collected** across **407 catalog pages** in the latest run.
+- The first lines of `movies.json` show the list title, total item count, source URL, pages scanned, and collection time.
+- Every movie record contains its thumbnail URL, full title, detail-page URL, and the site's published/upload timestamp.
+
+The catalog can change, so the total is recalculated on every run.
 
 ## Run locally
 
@@ -16,10 +17,10 @@ python -m pip install -r requirements.txt
 python scraper.py
 ```
 
-Set `MOVIE_SITE_URL` to use a different listing URL, or `OUTPUT_FILE` to change the output path.
+Set `MOVIE_SITE_URL` to change the site's base URL, `OUTPUT_FILE` to change the output file, or `SCRAPER_WORKERS` to adjust page-fetch concurrency (1–8, default 4).
 
 ## GitHub Actions
 
-The workflow can be run manually from the Actions tab and also runs every day at 00:15 UTC. It updates `movies.json` and commits the file when its contents change. The repository's Actions settings must allow workflows to write repository contents.
+The workflow can be started manually from the Actions tab and also runs daily at 00:15 UTC. It scans every page linked by the catalog's pagination, updates `movies.json`, and commits the file if it changed. In repository Settings → Actions → General, workflow permissions must allow write access to repository contents.
 
-The scraper requests only the public listing page and collects metadata; it does not download movie files.
+This collects public listing metadata only; it does not download movie files.
