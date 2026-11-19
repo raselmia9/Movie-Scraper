@@ -122,7 +122,17 @@ def scrape_all() -> tuple[list[dict[str, str]], int]:
                 if completed % 25 == 0 or completed == total_pages:
                     print(f"Scanned {completed}/{total_pages} catalog pages", flush=True)
 
-    movies = list(movies_by_url.values())
+    def publication_time(movie: dict[str, str]) -> datetime:
+        value = movie.get("published_date", "")
+        if not value:
+            return datetime.min
+        return datetime.strptime(
+            value.lower().replace(" ", ""),
+            "%d-%b-%Y%I:%M:%S%p",
+        )
+
+    # Keep the newest published items at the top; undated items naturally sort last.
+    movies = sorted(movies_by_url.values(), key=publication_time, reverse=True)
     if not movies:
         raise RuntimeError("No movie cards were found; output was not changed.")
     return movies, total_pages
