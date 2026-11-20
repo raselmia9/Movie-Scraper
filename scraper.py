@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect movie metadata and card timestamps from catalog pages only.
+"""Collect catalog metadata and prefer homepage card timestamps by movie ID.
 
 Detail-page URLs are stored as data; the scraper never requests them.
 """
@@ -13,7 +13,7 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -22,8 +22,9 @@ from urllib3.util.retry import Retry
 
 SITE_URL = os.getenv("MOVIE_SITE_URL", "http://103.203.93.2/").rstrip("/") + "/"
 MOVIES_URL = urljoin(SITE_URL, "movies")
+HOME_URL = SITE_URL
 OUTPUT_FILE = Path(os.getenv("OUTPUT_FILE", "movies.json"))
-MAX_WORKERS = max(1, min(int(os.getenv("SCRAPER_WORKERS", "4")), 8))
+MAX_WORKERS = max(1, min(int(os.getenv("SCRAPER_WORKERS", "8")), 8))
 DATE_PATTERN = re.compile(
     r"\b\d{1,2}-[A-Za-z]{3}-\d{4}\s+\d{1,2}:\d{2}:\d{2}\s*[AaPp][Mm]\b"
 )
@@ -47,17 +48,41 @@ def make_session() -> requests.Session:
     return session
 
 
-def fetch_page(page_number: int) -> tuple[int, BeautifulSoup]:
-    # This is the only HTTP fetch site in the scraper: listing pages only.
-    # Never fetch any movie's detail_url.
+def fetch_url(url: str, *, page_number: int | None = None) -> BeautifulSoup:
+    # Only the homepage and catalog pages are requested. Movie detail URLs are never fetched.
     with make_session() as session:
         response = session.get(
-            MOVIES_URL,
-            params={"page": page_number},
+            url,
+            params={"page": page_number} if page_number is not None else None,
             timeout=(20, 90),
         )
         response.raise_for_status()
-    return page_number, BeautifulSoup(response.text, "html.parser")
+    return BeautifulSoup(response.text, "html.parser")
+
+
+def movie_id_from_url(url: str) -> str:
+    match = re.search(r"/video-details/(\d+)(?:[/?#]|$)", urlparse(url).path)
+    return match.group(1) if match else ""
+
+
+def homepage_publication_dates(soup: BeautifulSoup) -> dict[str, str]:
+    """Map homepage card IDs to their displayed publication date/time."""
+    dates: dict[str, str] = {}
+    for card in soup.select(".card"):
+        link = card.select_one("h3.item-title a[href]")
+        if not link:
+            continue
+        movie_id = movie_id_from_url(urljoin(HOME_URL, link["href"].strip()))
+        published_date = parse_card_published_date(card)
+        if movie_id and published_date:
+            dates[movie_id] = published_date
+    if not dates:
+        raise RuntimeError("No dated movie cards found on the homepage; output was not changed.")
+    return dates
+
+
+def fetch_page(page_number: int) -> tuple[int, BeautifulSoup]:
+    return page_number, fetch_url(MOVIES_URL, page_number=page_number)
 
 
 def max_page_from(soup: BeautifulSoup) -> int:
@@ -70,7 +95,7 @@ def max_page_from(soup: BeautifulSoup) -> int:
 
 
 def parse_card_published_date(card: BeautifulSoup) -> str:
-    """Read the displayed publish date/time directly from a listing card."""
+    """Read the displayed publish date/time directly from a card."""
     date_element = card.select_one(".item-designation small")
     if not date_element:
         return ""
@@ -87,7 +112,28 @@ def parse_card_published_date(card: BeautifulSoup) -> str:
     return published_date
 
 
-def parse_movies(soup: BeautifulSoup) -> list[dict[str, str]]:
+def load_previous_publication_dates() -> dict[str, str]:
+    """Keep stored dates for items absent from the homepage's limited card set."""
+    if not OUTPUT_FILE.is_file():
+        return {}
+    try:
+        previous = json.loads(OUTPUT_FILE.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    dates: dict[str, str] = {}
+    for movie in previous.get("movies", []):
+        movie_id = movie_id_from_url(movie.get("detail_url", ""))
+        value = movie.get("published_date", "")
+        if movie_id and value:
+            dates[movie_id] = value
+    return dates
+
+
+def parse_movies(
+    soup: BeautifulSoup,
+    home_dates: dict[str, str],
+    previous_dates: dict[str, str],
+) -> list[dict[str, str]]:
     records: list[dict[str, str]] = []
     for card in soup.select(".card"):
         title_link = card.select_one("h3.item-title a[href]")
@@ -101,9 +147,11 @@ def parse_movies(soup: BeautifulSoup) -> list[dict[str, str]]:
         if not title:
             continue
 
-        # The card itself contains the displayed publication date and time.
-        # Keep detail_url for the output, but never send a request to it.
-        published_date = parse_card_published_date(card)
+        # The all-catalog card supplies metadata only. Use the timestamp from the
+        # homepage card with the same movie ID; do not trust the catalog timestamp.
+        movie_id = movie_id_from_url(detail_url)
+        # Preserve the previous saved value for IDs not present on the homepage.
+        published_date = home_dates.get(movie_id) or previous_dates.get(movie_id, "")
 
         records.append(
             {
@@ -116,19 +164,21 @@ def parse_movies(soup: BeautifulSoup) -> list[dict[str, str]]:
     return records
 
 
-def scrape_all() -> tuple[list[dict[str, str]], int]:
+def scrape_all() -> tuple[list[dict[str, str]], int, int]:
+    home_dates = homepage_publication_dates(fetch_url(HOME_URL))
     _, first_page = fetch_page(1)
     total_pages = max_page_from(first_page)
     movies_by_url: dict[str, dict[str, str]] = {}
 
     def save_page(soup: BeautifulSoup) -> None:
-        for movie in parse_movies(soup):
+        for movie in parse_movies(soup, home_dates, previous_dates):
             # Categories can repeat the same title; the all-movies catalog is unique by detail URL.
             movies_by_url[movie["detail_url"]] = movie
 
     save_page(first_page)
     if total_pages > 1:
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
+            print(f"Fetching catalog pages with up to {MAX_WORKERS} parallel requests", flush=True)
             futures = {pool.submit(fetch_page, page): page for page in range(2, total_pages + 1)}
             completed = 1
             for future in as_completed(futures):
@@ -151,19 +201,27 @@ def scrape_all() -> tuple[list[dict[str, str]], int]:
     movies = sorted(movies_by_url.values(), key=publication_time, reverse=True)
     if not movies:
         raise RuntimeError("No movie cards were found; output was not changed.")
-    return movies, total_pages
+    return movies, total_pages, len(home_dates)
 
 
 def main() -> int:
     try:
-        movies, pages_scanned = scrape_all()
+        movies, pages_scanned, homepage_date_count = scrape_all()
         result = {
             "title": f"Complete Movie List | {len(movies)} items collected",
             "description": (
                 f"Collected {len(movies)} unique movie items from all "
-                f"{pages_scanned} pages of the site's movie catalog."
+                f"{pages_scanned} pages of the site's movie catalog. "
+                f"Refreshed {refreshed_count} publication timestamps from homepage cards; "
+                f"preserved {preserved_count} previously saved timestamps for items "
+                f"not shown on the homepage."
             ),
             "source_url": MOVIES_URL,
+            "published_date_source_url": HOME_URL,
+            "published_date_match_method": "movie ID in homepage card detail URL",
+            "homepage_dated_cards": refreshed_count,
+            "published_dates_refreshed_from_homepage": refreshed_count,
+            "published_dates_preserved_from_previous_list": preserved_count,
             "pages_scanned": pages_scanned,
             "total_items": len(movies),
             "collected_at_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
