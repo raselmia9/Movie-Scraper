@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Collect every public movie card from the site's paginated movie catalog."""
+"""Collect movie metadata and card timestamps from catalog pages only.
+
+Detail-page URLs are stored as data; the scraper never requests them.
+"""
 
 from __future__ import annotations
 
@@ -45,6 +48,8 @@ def make_session() -> requests.Session:
 
 
 def fetch_page(page_number: int) -> tuple[int, BeautifulSoup]:
+    # This is the only HTTP fetch site in the scraper: listing pages only.
+    # Never fetch any movie's detail_url.
     with make_session() as session:
         response = session.get(
             MOVIES_URL,
@@ -64,6 +69,24 @@ def max_page_from(soup: BeautifulSoup) -> int:
     return max(page_numbers)
 
 
+def parse_card_published_date(card: BeautifulSoup) -> str:
+    """Read the displayed publish date/time directly from a listing card."""
+    date_element = card.select_one(".item-designation small")
+    if not date_element:
+        return ""
+
+    match = DATE_PATTERN.search(date_element.get_text(" ", strip=True))
+    if not match:
+        return ""
+
+    published_date = match.group(0)
+    datetime.strptime(
+        published_date.lower().replace(" ", ""),
+        "%d-%b-%Y%I:%M:%S%p",
+    )
+    return published_date
+
+
 def parse_movies(soup: BeautifulSoup) -> list[dict[str, str]]:
     records: list[dict[str, str]] = []
     for card in soup.select(".card"):
@@ -78,16 +101,9 @@ def parse_movies(soup: BeautifulSoup) -> list[dict[str, str]]:
         if not title:
             continue
 
-        published_date = ""
-        date_element = card.select_one(".item-designation small")
-        if date_element:
-            match = DATE_PATTERN.search(date_element.get_text(" ", strip=True))
-            if match:
-                published_date = match.group(0)
-                datetime.strptime(
-                    published_date.lower().replace(" ", ""),
-                    "%d-%b-%Y%I:%M:%S%p",
-                )
+        # The card itself contains the displayed publication date and time.
+        # Keep detail_url for the output, but never send a request to it.
+        published_date = parse_card_published_date(card)
 
         records.append(
             {
