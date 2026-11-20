@@ -181,25 +181,28 @@ def scrape_all() -> tuple[list[dict[str, str]], int, int, int, int]:
         with ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
             print(f"Fetching catalog pages with up to {MAX_WORKERS} parallel requests", flush=True)
             futures = {pool.submit(fetch_page, page): page for page in range(2, total_pages + 1)}
+            pages_by_number: dict[int, BeautifulSoup] = {}
             completed = 1
             for future in as_completed(futures):
                 page_number, soup = future.result()
-                save_page(soup)
+                pages_by_number[page_number] = soup
                 completed += 1
                 if completed % 25 == 0 or completed == total_pages:
                     print(f"Scanned {completed}/{total_pages} catalog pages", flush=True)
+            # Preserve the site's catalog order, regardless of request completion order.
+            for page_number in range(2, total_pages + 1):
+                save_page(pages_by_number[page_number])
 
-    def publication_time(movie: dict[str, str]) -> datetime:
-        value = movie.get("published_date", "")
-        if not value:
-            return datetime.min
-        return datetime.strptime(
-            value.lower().replace(" ", ""),
-            "%d-%b-%Y%I:%M:%S%p",
-        )
-
-    # Keep the newest published items at the top; undated items naturally sort last.
-    movies = sorted(movies_by_url.values(), key=publication_time, reverse=True)
+    # Homepage movies appear first in the same order as their homepage cards.
+    # Keep every remaining movie in the catalog's listed page/card order.
+    homepage_order = {movie_id: rank for rank, movie_id in enumerate(home_dates)}
+    movies = sorted(
+        movies_by_url.values(),
+        key=lambda movie: (
+            0 if movie_id_from_url(movie["detail_url"]) in homepage_order else 1,
+            homepage_order.get(movie_id_from_url(movie["detail_url"]), 0),
+        ),
+    )
     if not movies:
         raise RuntimeError("No movie cards were found; output was not changed.")
     refreshed_count = sum(1 for movie in movies if movie_id_from_url(movie["detail_url"]) in home_dates)
