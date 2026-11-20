@@ -1,6 +1,6 @@
 {
   "title": "Complete Movie List | 12200 items collected",
-  "description": "Collected 12200 unique movie items from all 407 pages of the site's movie catalog.",
+  "description": "Collected 12200 unique movie items from all 407 pages of the site's movie catalog. Refreshed 200 publication timestamps from homepage cards; preserved previously saved timestamps for 12000 items not currently shown on the homepage.",
   "source_url": "http://103.203.93.2/movies",
   "pages_scanned": 407,
   "total_items": 12200,
@@ -1057,12 +1057,6 @@
       "published_date": "20-Nov-2026 06:56:38am"
     },
     {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Beast.2026.Dual.720p.HEVC/7NrvUI3vnW8H3rD7ExKcTL7KRcQ-185x278.jpg",
-      "title": "Beast.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1727963",
-      "published_date": "20-Nov-2026 06:56:25am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bangla Dubbed(Any Movie)/2025/Poseidon Rex (2025)/Capture.JPG6.JPG",
       "title": "Poseidon Rex (2025)",
       "detail_url": "http://103.203.93.2/video-details/1743929",
@@ -1657,12 +1651,6 @@
       "published_date": "20-Nov-2026 06:52:23am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point S05E129-134 Bengali BongoBD 720p/bachelor-point-2025-s05e129-13_DCbXqNVt.jpg",
-      "title": "Bachelor Point S05E129-134 Bengali BongoBD 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744915",
-      "published_date": "20-Nov-2026 06:52:18am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/The.Internship.2026.Dual.720p/fYqSOkix4rbDiZW0ACNnvZCpT6X-185x278 (1).jpg",
       "title": "The.Internship.2026.Dual.720p",
       "detail_url": "http://103.203.93.2/video-details/1728090",
@@ -2207,12 +2195,6 @@
       "title": "THITTAM IRANDU (2021) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD5.1 - 448Kbps & AAC 2.0) - 2.4GB - ESub",
       "detail_url": "http://103.203.93.2/video-details/1737935",
       "published_date": "20-Nov-2026 06:51:29am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/A.Love.Story.of.Assassin.2024.720p.WEB-DL.HIN.x265/a29kiriUqflbDlbcI1xd9s8aXZd-185x278.jpg",
-      "title": "A.Love.Story.of.Assassin.2024.720p.WEB-DL.HIN.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736380",
-      "published_date": "20-Nov-2026 06:51:28am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2022/Kangaroo.Valley.2022.WEB-DL.Hindi.English.720p/hHuMfr2TZGAx1Il4QvPHazyxAkg-185x278.jpg",
@@ -3007,12 +2989,6 @@
       "published_date": "20-Nov-2026 06:45:19am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Primetime.2026.720p.10bit.WEBRip.6CH.x265.HEVC/lmrulvLbmaejTix1YaMxo1oGhH1-185x278.jpg",
-      "title": "Primetime.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1735907",
-      "published_date": "20-Nov-2026 06:45:16am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2013/Biriyani 2013 720p UNCUT BluRay x264/",
       "title": "Biriyani 2013 720p UNCUT BluRay x264",
       "detail_url": "http://103.203.93.2/video-details/1737227",
@@ -3035,12 +3011,6 @@
       "title": "Retta.Thala.2025.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735923",
       "published_date": "20-Nov-2026 06:43:53am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/The.Snake.Girl.2025.720p.WEB-DL.HIN-Ch.x265/eTeVgBuyecQH5A7VLxpVjGNqxBJ-185x278.jpg",
-      "title": "The.Snake.Girl.2025.720p.WEB-DL.HIN-Ch.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745907",
-      "published_date": "20-Nov-2026 06:43:51am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2021/Finch.2021.720p.WEBRip.x264.AAC-[YTS.MX]/Finch.2021.720p.WEBRip.x264.AAC-[YTS.MX].jpg",
@@ -3505,12 +3475,6 @@
       "published_date": "20-Nov-2026 06:42:24am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Haati Haati Paa Paa (2025) Bengali Zee5 720p/MV5BODhmMjc5NjUtNmIyMy00MjIzLWJhZGYtZDU2ZjcyM2ZmZjUyXkEyXkFqcGc@._V1_SX300.jpg",
-      "title": "Haati Haati Paa Paa (2025) Bengali Zee5 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746223",
-      "published_date": "20-Nov-2026 06:42:23am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Enola.Holmes.2.2022.Dual.720p.HEVC/tegBpjM5ODoYoM1NjaiHVLEA0QM-185x278.jpg",
       "title": "Enola.Holmes.2.2022.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735793",
@@ -3631,12 +3595,6 @@
       "published_date": "20-Nov-2026 06:42:19am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Drive.-.The.Pretenders.2026.Dual.720p.HEVC/c6Gx7JTc8pYyW2WH7yLWj5Rx66I-185x278.jpg",
-      "title": "Drive.-.The.Pretenders.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1735789",
-      "published_date": "20-Nov-2026 06:42:18am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2016/Ignatius Of Loyola/g8aEK9XPpnTk7aPF3Lr4Npzsb2p.jpg",
       "title": "Ignatius Of Loyola",
       "detail_url": "http://103.203.93.2/video-details/1726736",
@@ -3701,12 +3659,6 @@
       "title": "ZombieReddy (2021)",
       "detail_url": "http://103.203.93.2/video-details/1737951",
       "published_date": "20-Nov-2026 06:42:10am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/PAW.Patrol-The.Dino.Movie.2026.720p.WEB-DL.Hindi-English.ESub.x265/qnin56Syy5rbG7KCaxWY7SPuy6p-185x278.jpg",
-      "title": "PAW.Patrol-The.Dino.Movie.2026.720p.WEB-DL.Hindi-English.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1744704",
-      "published_date": "20-Nov-2026 06:42:09am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Splitsville.2025.Dual.720p.HEVC/feIZSdwJxoFsN55506xdzJBUQx3-185x278.jpg",
@@ -3809,12 +3761,6 @@
       "title": "What Now",
       "detail_url": "http://103.203.93.2/video-details/1731662",
       "published_date": "20-Nov-2026 06:42:00am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/DAVID.2025.Dual.720p.HEVC/ypNk8Dc0WY72y2qJHn6gshhrT44-185x278.jpg",
-      "title": "DAVID.2025.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744688",
-      "published_date": "20-Nov-2026 06:41:58am"
     },
     {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2025/Homebound.2025.720p.HEVC/vs0HtPigPb52oUMG9nWPMfoSzTC-185x278.jpg",
@@ -3997,12 +3943,6 @@
       "published_date": "20-Nov-2026 06:41:47am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Raas (2025)  Bengali WEB-DL 720p/MV5BMWNlY2E4ZmEtMTgwMy00YjZkLTgxNTQtZmU5NTc0MTJmNDAzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "title": "Raas (2025)  Bengali WEB-DL 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746254",
-      "published_date": "20-Nov-2026 06:41:46am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Pennum.Porattum.2026.Dual.720p.HEVC/m9WNMd4pQFOB3l6GudBw2YwVsN9-185x278.jpg",
       "title": "Pennum.Porattum.2026.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1738825",
@@ -4085,12 +4025,6 @@
       "title": "Keeper.2025.720p.WEB-DL.x265",
       "detail_url": "http://103.203.93.2/video-details/1735565",
       "published_date": "20-Nov-2026 06:41:40am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/DeSu7 (2026) Bengali HDTC 720p/MV5BZWYzNGY0YmEtNWYwNC00YzkyLTk4M2YtZDIxMTgxZWM3OGJmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UY563_CR172,0,1000,563_.jpg",
-      "title": "DeSu7 (2026) Bengali HDTC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746218",
-      "published_date": "20-Nov-2026 06:41:39am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2014/Animal/fanart.jpg",
@@ -4357,12 +4291,6 @@
       "published_date": "20-Nov-2026 06:41:16am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Milky.Subway.The.Galactic.Limited.Express.-.the.Movie.2026.Multi.720p.HEVC/2PzHbEOfCaC2fS8uCfeylySnaUG-185x278.jpg",
-      "title": "Milky.Subway.The.Galactic.Limited.Express.-.the.Movie.2026.Multi.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744698",
-      "published_date": "20-Nov-2026 06:41:15am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2023/The Abyss 2023 Dual 1080p HEVC/685xLjwk9H5uZaPiioO4Oi81mHh-185x278.jpg",
       "title": "The Abyss 2023 Dual 1080p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735251",
@@ -4445,12 +4373,6 @@
       "title": "Door In The Woods",
       "detail_url": "http://103.203.93.2/video-details/1733467",
       "published_date": "20-Nov-2026 06:41:12am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/The.100.2025.Dual.720p.HEVC/vY7OxwSmJdrdcNWVyimkly12ufe-185x278.jpg",
-      "title": "The.100.2025.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738867",
-      "published_date": "20-Nov-2026 06:41:09am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2023/Hypnotic.2023.Dual.ORG.1080p.HEVC/zvRpZ2l1Ve7uBIBut6KGsd9XMqV-185x278.jpg",
@@ -4631,12 +4553,6 @@
       "title": "A Spark Story",
       "detail_url": "http://103.203.93.2/video-details/1734389",
       "published_date": "20-Nov-2026 06:40:42am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Little.Amelie.or.the.Character.of.Rain.2026.Dual.720p.HEVC/qoqDvTUVPoZJWw24AjGDt3J4tZN-185x278.jpg",
-      "title": "Little.Amelie.or.the.Character.of.Rain.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744697",
-      "published_date": "20-Nov-2026 06:40:41am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/My.Lord.2026.Dual.720p.HEVC/4KeSDSdO327dOYcjbkeQPJ9c73I-185x278.jpg",
@@ -4871,12 +4787,6 @@
       "title": "Nishir Daak (2025) S01 Bengali Amazon 720p",
       "detail_url": "http://103.203.93.2/video-details/1746153",
       "published_date": "20-Nov-2026 06:37:13am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Jailer-2.2026.720p.V2-HDTC.Hindi.x265/upwdEyhhYZ7pT2hD535fr2MGfpx-185x278.jpg",
-      "title": "Jailer-2.2026.720p.V2-HDTC.Hindi.x265",
-      "detail_url": "http://103.203.93.2/video-details/1738743",
-      "published_date": "20-Nov-2026 06:36:56am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2021/Decrypted/Decrypted.2021.720p.WEBRip.x264.AAC-[YTS.MX].jpg",
@@ -5665,12 +5575,6 @@
       "published_date": "20-Nov-2026 06:26:25am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Crawlers.2026.720p.BluRay.HIN-ENG.x264/lNXeEpg4yLSRwXwOeR5lbPgwbqL-185x278.jpg",
-      "title": "Crawlers.2026.720p.BluRay.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1735773",
-      "published_date": "20-Nov-2026 06:26:24am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2013/The Hobbit The Desolation of Smaug/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
       "title": "The Hobbit The Desolation of Smaug",
       "detail_url": "http://103.203.93.2/video-details/1726470",
@@ -5851,12 +5755,6 @@
       "published_date": "20-Nov-2026 06:26:05am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Alal Dulal (2026)/Capture.JPG",
-      "title": "Alal Dulal (2026)",
-      "detail_url": "http://103.203.93.2/video-details/1744905",
-      "published_date": "20-Nov-2026 06:26:05am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Gaulywood (Franch)/2016/Brice 3/1P06g8zu5lbFnRL0isHyxF6mW7J.jpg",
       "title": "Brice 3",
       "detail_url": "http://103.203.93.2/video-details/1736855",
@@ -5927,12 +5825,6 @@
       "title": "The twisted son",
       "detail_url": "http://103.203.93.2/video-details/1733956",
       "published_date": "20-Nov-2026 06:26:03am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Insaaf (2025) Bengali Utshob 720p/insaaf-2025-bengali-utshob-web_LmOsNjPY.jpg",
-      "title": "Insaaf (2025) Bengali Utshob 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744938",
-      "published_date": "20-Nov-2026 06:25:57am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2022/The.Menu.2022.WEB-DL.1080p/v31MsWhF9WFh7Qooq6xSBbmJxoG-185x278.jpg",
@@ -6071,12 +5963,6 @@
       "title": "The Last Legion",
       "detail_url": "http://103.203.93.2/video-details/1726320",
       "published_date": "20-Nov-2026 06:25:50am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Boonie.Bears.Future.Reborn.2025.Dual.720p.HEVC/2KQMmKP76xJs2aZyTQIJ1Xm2gny-185x278.jpg",
-      "title": "Boonie.Bears.Future.Reborn.2025.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744684",
-      "published_date": "20-Nov-2026 06:25:43am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2025/Ground Zero (2025)/x5YK8MkjL1vVsXxnGWifEOK2tJl-200x300.jpg",
@@ -6319,12 +6205,6 @@
       "published_date": "20-Nov-2026 06:25:19am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Malik (2026)  Bengali Utshob WEB-Rip 1080p/malik-2026-bengali-utshob-web-_9i4k1IkO.jpg",
-      "title": "Malik (2026)  Bengali Utshob WEB-Rip 1080p",
-      "detail_url": "http://103.203.93.2/video-details/1744944",
-      "published_date": "20-Nov-2026 06:25:04am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Wicked.For.Good.2025.Dual.720p.HEVC/w04YxcQHGhTUgHPGGCjSIaya0V4-185x278.jpg",
       "title": "Wicked.For.Good.2025.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1736049",
@@ -6451,18 +6331,6 @@
       "published_date": "20-Nov-2026 06:25:02am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/BB Bakshi (2026) Bengali Fridaay 720p/bb-bakshi-2026-bengali-fridaay_bIT4HbN5.jpg",
-      "title": "BB Bakshi (2026) Bengali Fridaay 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746200",
-      "published_date": "20-Nov-2026 06:25:01am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The.Bodyguard.2024.720p.WEB-DL.HIN-ENG.x264/xbMFxU9EeAmOFAByonIGFYD9szx-185x278.jpg",
-      "title": "The.Bodyguard.2024.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1736435",
-      "published_date": "20-Nov-2026 06:25:01am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Shell.2024.Dual.720p/2XBNS8DxMFP7qOoTOY7cc8OYFwI-185x278.jpg",
       "title": "Shell.2024.Dual.720p",
       "detail_url": "http://103.203.93.2/video-details/1735947",
@@ -6515,12 +6383,6 @@
       "title": "The Honor Farm",
       "detail_url": "http://103.203.93.2/video-details/1732460",
       "published_date": "20-Nov-2026 06:25:01am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Ghost Train (2024) Dual 720p/rOTXYy5ScOHdaC2YMQowVwQex5s-185x278.jpg",
-      "title": "Ghost Train (2024) Dual 720p",
-      "detail_url": "http://103.203.93.2/video-details/1745096",
-      "published_date": "20-Nov-2026 06:25:00am"
     },
     {
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bonolota Express (2026)/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_SX300.jpg",
@@ -7081,12 +6943,6 @@
       "published_date": "20-Nov-2026 06:18:00am"
     },
     {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Awarapan-2.2026.720p.HDTC.Hindi-LiNE.x265/image-2026-08-14T170926.338.png",
-      "title": "Awarapan-2.2026.720p.HDTC.Hindi-LiNE.x265",
-      "detail_url": "http://103.203.93.2/video-details/1727959",
-      "published_date": "20-Nov-2026 06:17:59am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2015/Dilwale/pYgPu6hhOr61knwbestTx4vSdMb.jpg",
       "title": "Dilwale",
       "detail_url": "http://103.203.93.2/video-details/1726564",
@@ -7109,12 +6965,6 @@
       "title": "Anthaka Mundu Aa Tarvatha 2013 Telugu",
       "detail_url": "http://103.203.93.2/video-details/1737221",
       "published_date": "20-Nov-2026 06:17:57am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Lifeline (2026) Bengali Chorki WEB-DL H264 AAC 720p/lifeline-2026-bengali-chorki-w_3XibU9kL.jpg",
-      "title": "Lifeline (2026) Bengali Chorki WEB-DL H264 AAC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744942",
-      "published_date": "20-Nov-2026 06:17:56am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2025/Mirai.2025.WEB.DL.Hindi.Line-Telugu.720p.HEVC/28mjgY8UHW96JtOmpgc9lZt5ZFq-185x278.jpg",
@@ -7159,22 +7009,10 @@
       "published_date": "20-Nov-2026 06:17:53am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Gold.Land/ixBHQ96ryMa8Q0uIOFdUCjqRyy8-185x278.jpg",
-      "title": "Gold.Land",
-      "detail_url": "http://103.203.93.2/video-details/1745099",
-      "published_date": "20-Nov-2026 06:17:53am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2010/Bolt 2008/clearlogo.png",
       "title": "Bolt 2008",
       "detail_url": "http://103.203.93.2/video-details/1731272",
       "published_date": "20-Nov-2026 06:17:51am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Snake 5 Monster City (2026) Dual 720p/zNylFqyrmXiCSQ8x62ezq702wsV-185x278.jpg",
-      "title": "Snake 5 Monster City (2026) Dual 720p",
-      "detail_url": "http://103.203.93.2/video-details/1736425",
-      "published_date": "20-Nov-2026 06:17:48am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2017/Afwaah/MV5BOGM1ZmI5NTctNWRhNi00ZjEyLTgzNjgtOGY5ZjBkMWFjZjE2XkEyXkFqcGc@._V1_.jpg",
@@ -7255,18 +7093,6 @@
       "published_date": "20-Nov-2026 06:17:43am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/The.Dark.Heaven.2026.Dual.720p.HEVC/xFr0Q7j2JmOwBJnvImIgTAWBk4U-185x278.jpg",
-      "title": "The.Dark.Heaven.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738868",
-      "published_date": "20-Nov-2026 06:17:41am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Omanush Holo Manush (2026) Bengali EW WEB-DL H264 AAC 720p/omanush-holo-manush-2026-benga_we6g0fwh.jpg",
-      "title": "Omanush Holo Manush (2026) Bengali EW WEB-DL H264 AAC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744951",
-      "published_date": "20-Nov-2026 06:17:41am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2025/How Sweet (2025) WEB-DL [Bengali] BongoBD 720p/Screenshot 2025-09-22 192142.jpg",
       "title": "How Sweet (2025) WEB-DL [Bengali] BongoBD 720p",
       "detail_url": "http://103.203.93.2/video-details/1744865",
@@ -7319,12 +7145,6 @@
       "title": "Alien Domicile",
       "detail_url": "http://103.203.93.2/video-details/1731986",
       "published_date": "20-Nov-2026 06:17:36am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Srinivasa.Mangapuram.2026.Dual.720p.HEVC/7KnqSoNWrmPSSatvAnIGrTmJS3Q-185x278.jpg",
-      "title": "Srinivasa.Mangapuram.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745869",
-      "published_date": "20-Nov-2026 06:17:35am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Ustaad.Bhagat.Singh.2026.Dual.720p.HEVC/clkojbDyqCwiMxw0yY5MBjKiqZL-185x278.jpg",
@@ -7381,12 +7201,6 @@
       "published_date": "20-Nov-2026 06:17:28am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Pyaar.Prema.Kalyanam.2026.Dual.720p.HEVC/image-2026-08-21T191612.968-185x240.png",
-      "title": "Pyaar.Prema.Kalyanam.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745827",
-      "published_date": "20-Nov-2026 06:17:27am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Haiwaan.2026.720p.HDTC.Hindi-LiNE.HC-ESub.x264/yAUT0Fz3OoDE8K8DjcZ2VMqAGaN-185x278.jpg",
       "title": "Haiwaan.2026.720p.HDTC.Hindi-LiNE.HC-ESub.x264",
       "detail_url": "http://103.203.93.2/video-details/1744431",
@@ -7432,12 +7246,6 @@
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Ekti Khuner Biboron (2026) Bengali BongoBD WEB-DL H264 AAC 720p/Capture.JPG",
       "title": "Ekti Khuner Biboron (2026) Bengali BongoBD WEB-DL H264 AAC 720p",
       "detail_url": "http://103.203.93.2/video-details/1744932",
-      "published_date": "20-Nov-2026 06:17:26am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Colony.Gunche.2026.KOR.PRE-HD.720p/image-2026-05-25T152632.313-185x278.png",
-      "title": "Colony.Gunche.2026.KOR.PRE-HD.720p",
-      "detail_url": "http://103.203.93.2/video-details/1745095",
       "published_date": "20-Nov-2026 06:17:26am"
     },
     {
@@ -7753,12 +7561,6 @@
       "published_date": "20-Nov-2026 06:16:57am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Tum.Mere.Ho.2026.720p.HDTC.Hindi.x264/iQyd8w6xPjTrOeYImdt70EEQ0zv-185x278.jpg",
-      "title": "Tum.Mere.Ho.2026.720p.HDTC.Hindi.x264",
-      "detail_url": "http://103.203.93.2/video-details/1744541",
-      "published_date": "20-Nov-2026 06:16:56am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2021/Pachchis (2021) (Hindi + Telugu) Dual 720p HEVC/qKQo1JpsRWvcoBwZW80YGtJzzZn-185x278.jpg",
       "title": "Pachchis (2021) (Hindi + Telugu) Dual 720p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1727341",
@@ -7781,12 +7583,6 @@
       "title": "Maahan.2022.1080p.WEB-DL.Hindi.HQ-Dub.ESub.x264",
       "detail_url": "http://103.203.93.2/video-details/1734793",
       "published_date": "20-Nov-2026 06:16:56am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Meethe.Mein.Kya.Hai.2026.720p.Hindi.WEB-DL.ESub.x265/xTJYIPjyuCbkc7zEtfAFJfVDSV5-185x278.jpg",
-      "title": "Meethe.Mein.Kya.Hai.2026.720p.Hindi.WEB-DL.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1744472",
-      "published_date": "20-Nov-2026 06:16:55am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2025/Five.Nights.at.Freddys.2.2025.Dual.720p.HEVC/udAxQEORq2I5wxI97N2TEqdhzBE-185x278.jpg",
@@ -7897,12 +7693,6 @@
       "published_date": "20-Nov-2026 06:16:45am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Daimukti (2025)  Bengali EW WEB-DL 720p/Capture.JPG",
-      "title": "Daimukti (2025)  Bengali EW WEB-DL 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744928",
-      "published_date": "20-Nov-2026 06:16:43am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2022/Scare.Package.II.Rad.Chads.Revenge.2022.720p.WEBRip/iqwnVR1qJaB1VP9i4p4APsK7Tna-185x278.jpg",
       "title": "Scare.Package.II.Rad.Chads.Revenge.2022.720p.WEBRip",
       "detail_url": "http://103.203.93.2/video-details/1734865",
@@ -7945,12 +7735,6 @@
       "published_date": "20-Nov-2026 06:16:40am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Cocoons.2026.Dual.720p.HEVC/r0bpIupxdEk64Qm4kDbttQ8OQf8-185x278.jpg",
-      "title": "Cocoons.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738686",
-      "published_date": "20-Nov-2026 06:16:39am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2015/Paayum Puli/owX3oNiVgmPHILhPc5jjljcqUvE.jpg",
       "title": "Paayum Puli",
       "detail_url": "http://103.203.93.2/video-details/1726626",
@@ -7967,12 +7751,6 @@
       "title": "The Yan Dragon",
       "detail_url": "http://103.203.93.2/video-details/1734329",
       "published_date": "20-Nov-2026 06:16:39am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Aroopi.2026.Dual.720p.HEVC/yLDuHm2QgsNHuENoBvOlDKRwMyF-185x278.jpg",
-      "title": "Aroopi.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745642",
-      "published_date": "20-Nov-2026 06:16:38am"
     },
     {
       "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2025/Moana 2/vE0YnxFhWO1Ik52JYln2TXyOmx9-185x278.jpg",
@@ -8113,12 +7891,6 @@
       "published_date": "20-Nov-2026 06:16:08am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point [S05E113-120]/812255402_958026590015784_6384042262925488223_n-240x300.jpg",
-      "title": "Bachelor Point [S05E113-120]",
-      "detail_url": "http://103.203.93.2/video-details/1744918",
-      "published_date": "20-Nov-2026 06:16:07am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bangla Dubbed(Any Movie)/2026/Pallichattambi (2026) Dual Audio [Bengali ORG-Hindi] SonyLIV WEB-DL H264 AAC 720p/pallichattambi-2026-dual-audio_3onJUM8k.jpg",
       "title": "Pallichattambi (2026) Dual Audio [Bengali ORG-Hindi] SonyLIV WEB-DL H264 AAC 720p",
       "detail_url": "http://103.203.93.2/video-details/1744022",
@@ -8171,24 +7943,6 @@
       "title": "Alpha",
       "detail_url": "http://103.203.93.2/video-details/1732612",
       "published_date": "20-Nov-2026 06:16:07am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Vijaynagarer Hirey (2026) Bengali Hoichoi WEB-Rip 720p/MV5BM2VkNjEzOTUtYzJjYi00NjgyLWIyMjQtZWE3MGJmZDBjZjY1XkEyXkFqcGc@._V1_SX300.jpg",
-      "title": "Vijaynagarer Hirey (2026) Bengali Hoichoi WEB-Rip 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746273",
-      "published_date": "20-Nov-2026 06:16:06am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Heartin.2026.720p.DS4K.WEB-DL.Hindi-Tamil.ESub.x265/7xvMocNLZov64aOU1X3BRWawjD7-185x278.jpg",
-      "title": "Heartin.2026.720p.DS4K.WEB-DL.Hindi-Tamil.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745715",
-      "published_date": "20-Nov-2026 06:16:06am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Bury.The.Devil.2026.720p.WEB-DL.HIN-ENG.x264/oTwwCsmWvHxj2olhCB2VEGcDUXD-185x278.jpg",
-      "title": "Bury.The.Devil.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1745657",
-      "published_date": "20-Nov-2026 06:16:06am"
     },
     {
       "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2025/Bagha Jatin/Capture.JPG2.JPG",
@@ -8419,12 +8173,6 @@
       "published_date": "20-Nov-2026 06:16:01am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Mahendragiri.Vaaraahi.2026.Dual.720p.HEVC/hYfu1SIE1wViNVPT0zdlqTwpPeb-185x278.jpg",
-      "title": "Mahendragiri.Vaaraahi.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738785",
-      "published_date": "20-Nov-2026 06:16:00am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2025/Avatar The Way Of Water (2025) Dual ORG 720p HEVC/lE9KpVwgeWHMwgwkNaeH5nEFh20-185x278.jpg",
       "title": "Avatar The Way Of Water (2025) Dual ORG 720p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1727803",
@@ -8503,12 +8251,6 @@
       "published_date": "20-Nov-2026 05:47:16am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Ramayana.2026.1080p.HEVC.HDTC.Hindi-LiNE.x265/hX94xNPYwazKOVGGqL1GiwMSNuY-185x278.jpg",
-      "title": "Ramayana.2026.1080p.HEVC.HDTC.Hindi-LiNE.x265",
-      "detail_url": "http://103.203.93.2/video-details/1744503",
-      "published_date": "20-Nov-2026 05:43:31am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Karikaada.2026.Dual.720p.HEVC/tL0skwRWivuNZHQD89baWynksct-185x278.jpg",
       "title": "Karikaada.2026.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1728006",
@@ -8525,12 +8267,6 @@
       "title": "Send.Help.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1728068",
       "published_date": "20-Nov-2026 05:32:18am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Racharikam.2025.Dual.720p.HEVC/pkFcU2Y3gEWPrm5QXCPlBE0PErq-185x278.jpg",
-      "title": "Racharikam.2025.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738832",
-      "published_date": "20-Nov-2026 05:29:13am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2025/Phullwanti.2024.Dual.720p.HEVC/1vZBlfnbFAiwedoBTBohJH2LD9O-185x278.jpg",
@@ -8573,12 +8309,6 @@
       "title": "Santosh (2024) 720p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1744505",
       "published_date": "20-Nov-2026 05:21:27am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Boonie.Bears.The.Hidden.Protector.2026.720p.HEVC-AMZN.WEB-DL-[HIN-ENG]/sB9XfdUgWuqxMRUFtQ1m2HEpmZV-185x278.jpg",
-      "title": "Boonie.Bears.The.Hidden.Protector.2026.720p.HEVC-AMZN.WEB-DL-[HIN-ENG]",
-      "detail_url": "http://103.203.93.2/video-details/1744685",
-      "published_date": "20-Nov-2026 05:21:26am"
     },
     {
       "thumbnail": "http://103.203.93.19/War Movie/2024/Captain Miller 2024 AMZN Hindi (ORG 5.1) 720p WEB-DL x264 ESubs/Capture.JP.JPG",
@@ -8632,12 +8362,6 @@
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Street.Fighter.2026.720p.HEVC.V2-HDTC.Hindi.CLEAN-English.ORG.x265/pwUb3gdkSrlyMZWs0MFOQg3N5s7-185x278.jpg",
       "title": "Street.Fighter.2026.720p.HEVC.V2-HDTC.Hindi.CLEAN-English.ORG.x265",
       "detail_url": "http://103.203.93.2/video-details/1735961",
-      "published_date": "20-Nov-2026 05:21:24am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point (2025) S05E105-112/Capture.JPG",
-      "title": "Bachelor Point (2025) S05E105-112",
-      "detail_url": "http://103.203.93.2/video-details/1744912",
       "published_date": "20-Nov-2026 05:21:24am"
     },
     {
@@ -9361,12 +9085,6 @@
       "published_date": "20-Nov-2026 05:20:15am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Fury.in.the.Shadows.2026.720p.WEB-DL.HIN-CHI.x264/emcP62P8kycuf5h3oovM3wwlt8n-185x278.jpg",
-      "title": "Fury.in.the.Shadows.2026.720p.WEB-DL.HIN-CHI.x264",
-      "detail_url": "http://103.203.93.2/video-details/1736398",
-      "published_date": "20-Nov-2026 05:20:14am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bangla Dubbed(Any Movie)/2025/Mumbaikar (2023) WEB-DL [Bengali ORG] JHS 720p HEVC ESub/MV5BZjhjNDU4ZDMtNmM5MS00NzRmLTlhODctMTMzZGI0ZTk1YTFiXkEyXkFqcGc@._V1_.jpg",
       "title": "Mumbaikar (2023) WEB-DL [Bengali ORG] JHS 720p HEVC ESub",
       "detail_url": "http://103.203.93.2/video-details/1743921",
@@ -9425,18 +9143,6 @@
       "title": "Daniel Isn't Real",
       "detail_url": "http://103.203.93.2/video-details/1733439",
       "published_date": "20-Nov-2026 05:20:09am"
-    },
-    {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Frequency.of.Fear.2026.720p.WEB-DL.HIN-ENG.x264/zzxWBdkOWDzOhUD7BdpKKlylAMn-185x278.jpg",
-      "title": "Frequency.of.Fear.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1735809",
-      "published_date": "20-Nov-2026 05:20:08am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Ip.Man.Kung.Fu.Legend.2026.720p.WEB-DL.Hindi-Chinese.ESub.x265/m3Low6jJrKXHSYFpXNkmYsG1Q6I-185x278.jpg",
-      "title": "Ip.Man.Kung.Fu.Legend.2026.720p.WEB-DL.Hindi-Chinese.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736406",
-      "published_date": "20-Nov-2026 05:20:08am"
     },
     {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2018/Kirrak Party (2018) Dual ORG 1080p/screenshot2018-12-05-13_00_43-185x278.jpg",
@@ -9553,12 +9259,6 @@
       "published_date": "20-Nov-2026 05:20:00am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Nameless.Gangster.Rules.of.the.Time.2012.Dual.720p.HEVC/RZSZwHXLdhZA3WmSVrSbqUmfq9-185x278.jpg",
-      "title": "Nameless.Gangster.Rules.of.the.Time.2012.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745107",
-      "published_date": "20-Nov-2026 05:19:54am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Domm ( দম ) Bangla Movi  Afran Nisho/MV5BMDY5MTJmNDEtMjM5Zi00NmEwLWI5YjgtMzc2MmRhYTYyMDRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "title": "Domm ( দম ) Bangla Movi  Afran Nisho",
       "detail_url": "http://103.203.93.2/video-details/1744931",
@@ -9587,12 +9287,6 @@
       "title": "Monster Trucks",
       "detail_url": "http://103.203.93.2/video-details/1726758",
       "published_date": "20-Nov-2026 05:19:54am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Bring.It.On.Ghost.S01.Dual.720p.10bit.Hindi.Kor.HEVC/688EQM9Z4IPnditsRG4oAZdMa0b-185x278.jpg",
-      "title": "Bring.It.On.Ghost.S01.Dual.720p.10bit.Hindi.Kor.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745092",
-      "published_date": "20-Nov-2026 05:19:53am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2025/Thammudu (2025) Dual 720p HEVC/5rhjx4KLaLrZNxzsBY8j8U6Pntu-185x278.jpg",
@@ -9679,12 +9373,6 @@
       "published_date": "20-Nov-2026 05:19:49am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Your.Mother.Your.Mother.Your.Mother.2026.720p.10bit.WEBRip.6CH.x265.HEVC/4KaPZSKnInnArErTTgy9Oy14leR-185x278.jpg",
-      "title": "Your.Mother.Your.Mother.Your.Mother.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1736058",
-      "published_date": "20-Nov-2026 05:19:40am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2018/The Mirror of the Soul of the Soul/poster.jpg",
       "title": "The Mirror of the Soul of the Soul",
       "detail_url": "http://103.203.93.2/video-details/1733178",
@@ -9719,12 +9407,6 @@
       "title": "King Aurthur",
       "detail_url": "http://103.203.93.2/video-details/1732247",
       "published_date": "20-Nov-2026 05:19:39am"
-    },
-    {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Punisher-One.Last.Kill.2026.720p.DS4K.WEB-DL.Hindi.Studio-Dub-English.ESub.x265/gArZbIMADv6PIxwp3lQyvONAp3N-185x278.jpg",
-      "title": "The.Punisher-One.Last.Kill.2026.720p.DS4K.WEB-DL.Hindi.Studio-Dub-English.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736008",
-      "published_date": "20-Nov-2026 05:19:38am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/The.Wild.Blade.of.Strangers.2024.Dual.720p.HEVC/jtQgQPjug9iWKTwXpbs6qKyQwBO-185x278.jpg",
@@ -9785,12 +9467,6 @@
       "title": "Detective Chinatown Vol 2",
       "detail_url": "http://103.203.93.2/video-details/1732774",
       "published_date": "20-Nov-2026 05:19:37am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Bohurupi The Golden Daku (2026) Bengali HDTC 720p.mkv/bohurupi-the-golden-daku-2026-_2udQLsfz.jpg",
-      "title": "Bohurupi The Golden Daku (2026) Bengali HDTC 720p.mkv",
-      "detail_url": "http://103.203.93.2/video-details/1746209",
-      "published_date": "20-Nov-2026 05:19:36am"
     },
     {
       "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2025/KPop.Demon.Hunters.Sing-Along.2025.Multi.720p.HEVC/Image-53-1-185x250.png",
@@ -9923,12 +9599,6 @@
       "title": "Little Singham in Multiverse (2024)",
       "detail_url": "http://103.203.93.2/video-details/1744576",
       "published_date": "20-Nov-2026 05:19:19am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/The.WONDERfools/pO8ePeDVLZDoSRaZoFuUV5hjeTp-185x278.jpg",
-      "title": "The.WONDERfools",
-      "detail_url": "http://103.203.93.2/video-details/1745120",
-      "published_date": "20-Nov-2026 05:19:17am"
     },
     {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2025/Tehran.2025.720p.HEVC/qIaeq4Q8VIBvwO5I23ge3t13lJa-185x278.jpg",
@@ -10171,12 +9841,6 @@
       "published_date": "20-Nov-2026 05:18:56am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point [S05E97-100]/727613483_1598578934963425_5427869328090750633_n-240x300.jpg",
-      "title": "Bachelor Point [S05E97-100]",
-      "detail_url": "http://103.203.93.2/video-details/1744921",
-      "published_date": "20-Nov-2026 05:18:55am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Yeti.2025.Dual.720p/zaqEfoKcWkVni2eONhJ7DRhMO8Q-185x278.jpg",
       "title": "The.Yeti.2025.Dual.720p",
       "detail_url": "http://103.203.93.2/video-details/1736024",
@@ -10253,12 +9917,6 @@
       "title": "Holy.Heist.2022.720p.WEBRip.x264.AAC-[YTS.MX]",
       "detail_url": "http://103.203.93.2/video-details/1734742",
       "published_date": "20-Nov-2026 05:18:54am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Ultorath (2026) Bengali Fridaay 720p/Capture.JPG",
-      "title": "Ultorath (2026) Bengali Fridaay 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746270",
-      "published_date": "20-Nov-2026 05:18:52am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Mr. X (2026) Tamil PRE-HD HC-ESUB 720p/tS4p8Msi7xSjUczlkPE2Dpqa9CR-185x278.jpg",
@@ -10429,12 +10087,6 @@
       "published_date": "20-Nov-2026 05:14:00am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Oh.Sukumari.2026.Dual.720p.HEVC/jTJ7ML9wtt4AGaJHCNxFqwU4MJI-185x278.jpg",
-      "title": "Oh.Sukumari.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738810",
-      "published_date": "20-Nov-2026 05:13:57am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2022/Mad.Heidi.2022.720p.WEBRip/wA0ZX8BC6AB6IimmKyMWT0PzUov-185x278.jpg",
       "title": "Mad.Heidi.2022.720p.WEBRip",
       "detail_url": "http://103.203.93.2/video-details/1734794",
@@ -10445,12 +10097,6 @@
       "title": "The Goldfinch",
       "detail_url": "http://103.203.93.2/video-details/1733873",
       "published_date": "20-Nov-2026 05:13:56am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Ashirbad (2026) Bengali EW WEB-DL H264 AAC 720p/ashirbad-2026-bengali-ew-web-d_I02b1KA1.jpg",
-      "title": "Ashirbad (2026) Bengali EW WEB-DL H264 AAC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744910",
-      "published_date": "20-Nov-2026 05:13:55am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2010/Legion/ykocDqwg5PRUopnBVb1x1DWnEJF.jpg",
@@ -10507,22 +10153,10 @@
       "published_date": "20-Nov-2026 05:13:50am"
     },
     {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/SpiderMan-Brand.New.Day.2026.V3.HDTC.Dual.720p.HEVC/e5Tizwvtp6mTsnywfLOVyK34gCe-185x278.jpg",
-      "title": "SpiderMan-Brand.New.Day.2026.V3.HDTC.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1728077",
-      "published_date": "20-Nov-2026 05:13:48am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Rabbit Trap (2025) Dual 720p HEVC/3PMUpSXo3d83GEWpSrmEJnjCnzh-185x278.jpg",
       "title": "Rabbit Trap (2025) Dual 720p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735913",
       "published_date": "20-Nov-2026 05:13:48am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Green Card (2024) Bengali WEBRip 720p/MV5BZDcxMzQxZWItZmMxOS00YmQ0LWFkYzgtODM0ZWE2YTk5MmEzXkEyXkFqcGc@._V1_.jpg",
-      "title": "Green Card (2024) Bengali WEBRip 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744934",
-      "published_date": "20-Nov-2026 05:13:47am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2016/X-Men Apocalypse/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
@@ -10657,12 +10291,6 @@
       "published_date": "20-Nov-2026 05:13:39am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Mirzapur.The.Movie.2026.WEB-DL.720p.HEVC/duaKd6Hx13P633GCmF9njjG0DfA-185x278.jpg",
-      "title": "Mirzapur.The.Movie.2026.WEB-DL.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744474",
-      "published_date": "20-Nov-2026 05:13:37am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2010/Inception/8IB2e4r4oVhHnANbnm7O3Tj6tF8.jpg",
       "title": "Inception",
       "detail_url": "http://103.203.93.2/video-details/1726355",
@@ -10681,12 +10309,6 @@
       "published_date": "20-Nov-2026 05:13:36am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Gajab.Raat.2026.720p.Hindi.WEB-DL.ESub.x265/e4N7M52cBbyi24xLga8yI6yt1u1-185x278.jpg",
-      "title": "Gajab.Raat.2026.720p.Hindi.WEB-DL.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1744417",
-      "published_date": "20-Nov-2026 05:13:34am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2010/The.King's.Speech.2010.1080p.BluRay.x264-[YTS.AM]/clearlogo.png",
       "title": "The.King's.Speech.2010.1080p.BluRay.x264-[YTS.AM]",
       "detail_url": "http://103.203.93.2/video-details/1731320",
@@ -10703,12 +10325,6 @@
       "title": "The Last Days",
       "detail_url": "http://103.203.93.2/video-details/1737049",
       "published_date": "20-Nov-2026 05:13:32am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Absolute.Value.of.Romance/qi2VEZXNKMWmJTHOklkNZFmThpw-185x278.jpg",
-      "title": "Absolute.Value.of.Romance",
-      "detail_url": "http://103.203.93.2/video-details/1745089",
-      "published_date": "20-Nov-2026 05:13:31am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2020/The Siege/hVh4hMzkXNLnScudbid6hDvjMPk.jpg",
@@ -10747,12 +10363,6 @@
       "published_date": "20-Nov-2026 05:13:28am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Love.Story.Abhimanyu.Ki.2026.720p.HQ.HDTC.Hindi.x265/9Rvc5PqPJKOGv71Gg07TI7M1LD0-185x278.jpg",
-      "title": "Love.Story.Abhimanyu.Ki.2026.720p.HQ.HDTC.Hindi.x265",
-      "detail_url": "http://103.203.93.2/video-details/1744459",
-      "published_date": "20-Nov-2026 05:13:27am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Noise.2024.Dual.720p.HEVC/uU3NXe7QqjJNxVpYPdz8dscFWlj-185x278.jpg",
       "title": "Noise.2024.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1745109",
@@ -10787,12 +10397,6 @@
       "title": "Living Space",
       "detail_url": "http://103.203.93.2/video-details/1733631",
       "published_date": "20-Nov-2026 05:13:27am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Chennai.Love.Story.2026.Dual.720p.HEVC/hACM25xigqIYeRgylB0epf34hmk-185x278.jpg",
-      "title": "Chennai.Love.Story.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745662",
-      "published_date": "20-Nov-2026 05:13:24am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2022/Dragon Ball Super - Super Hero 2022 BRRip Hindi (Clean) 1080p/apL0srqe9emB7DpmFRtR6UrEXwZ-185x278.jpg",
@@ -10841,12 +10445,6 @@
       "title": "The Legend of Hallowaiian",
       "detail_url": "http://103.203.93.2/video-details/1727097",
       "published_date": "20-Nov-2026 05:13:21am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/The Paradise 2026 Dual ORG 720p HEVC/b77d08RzTAg26wKGu5f0Q073gc5-185x278.jpg",
-      "title": "The Paradise 2026 Dual ORG 720p HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738866",
-      "published_date": "20-Nov-2026 05:13:20am"
     },
     {
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Fire Esho Boshonto (2026) Bengali BongoBD WEB-DL H264 AAC 720p/bd3d497b-150f-4893-b3dd-6b47f5fb9e95.jpg",
@@ -11209,12 +10807,6 @@
       "published_date": "20-Nov-2026 05:12:52am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Forgotten.Island.2026.720p.WEB-DL.HIN-ENG.x264/myd1K3gefdNAWFsGNRDdMeiK9Qg-185x278.jpg",
-      "title": "Forgotten.Island.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1744692",
-      "published_date": "20-Nov-2026 05:12:50am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Witchboard 2024 Dual 720p/8RcN5FHkJVNJdOaL6WtTePU7CyF-185x278.jpg",
       "title": "Witchboard 2024 Dual 720p",
       "detail_url": "http://103.203.93.2/video-details/1736051",
@@ -11230,12 +10822,6 @@
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Vadam.2026.UNCUT.720p.WEB-DL.Hindi.ORG-Tamil.ESub.x265/79kxXKaBAWjt7GbtkAVT9CqB0Hm-185x278.jpg",
       "title": "Vadam.2026.UNCUT.720p.WEB-DL.Hindi.ORG-Tamil.ESub.x265",
       "detail_url": "http://103.203.93.2/video-details/1738880",
-      "published_date": "20-Nov-2026 05:12:46am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/A.Magnificent.Life.2025.Dual.720p/mnYryuWqCGPBggGDNHeY6dI6AWQ-185x278.jpg",
-      "title": "A.Magnificent.Life.2025.Dual.720p",
-      "detail_url": "http://103.203.93.2/video-details/1744680",
       "published_date": "20-Nov-2026 05:12:46am"
     },
     {
@@ -11389,12 +10975,6 @@
       "published_date": "20-Nov-2026 05:12:34am"
     },
     {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Kattalan.2026.720p.DS4K.WEB-DL.Hindi.LiNE-Malayalam.ESub.x265/wT6qCmzLhYJ2ZZ4pxXRaTKxt1tu-185x278.jpg",
-      "title": "Kattalan.2026.720p.DS4K.WEB-DL.Hindi.LiNE-Malayalam.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1728009",
-      "published_date": "20-Nov-2026 05:12:28am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Maiin Haan (2026) Dual 720p/1S58eWt1O8SqQi5oSlIUyu0xkIf-185x278.jpg",
       "title": "Maiin Haan (2026) Dual 720p",
       "detail_url": "http://103.203.93.2/video-details/1745762",
@@ -11435,12 +11015,6 @@
       "title": "Skiptrace",
       "detail_url": "http://103.203.93.2/video-details/1726774",
       "published_date": "20-Nov-2026 05:12:26am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/The.Death.of.Robin.Hood.2026.720p.WEB-DL.HIN-ENG.x265/wOszWFRpvF3zipqoNA9wURRQZEc-185x278.jpg",
-      "title": "The.Death.of.Robin.Hood.2026.720p.WEB-DL.HIN-ENG.x265",
-      "detail_url": "http://103.203.93.2/video-details/1728084",
-      "published_date": "20-Nov-2026 05:12:21am"
     },
     {
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2025/Sharey Showlo/MV5BYjcxYjc5ZGMtOTIwMy00NzViLWE2M2YtZGNlMDc0ZTdiZTc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -11687,12 +11261,6 @@
       "title": "The Directive",
       "detail_url": "http://103.203.93.2/video-details/1733855",
       "published_date": "20-Nov-2026 05:12:03am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Ghost.Mansion.2021.Dual.720p.HEVC/kxkgDPfk4cAR3EoFZOAGLve5nzm-185x278.jpg",
-      "title": "Ghost.Mansion.2021.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745097",
-      "published_date": "20-Nov-2026 05:12:01am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2022/Ghislaine.Maxwell.-.Filthy.Rich.(2022).Dual.1080p.HEVC/i9vl0FxtPQaiTOMRoKYhEuu9xw3-185x278.jpg",
@@ -12019,12 +11587,6 @@
       "published_date": "20-Nov-2026 05:11:38am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Colony.2026.Multi.720p.HEVC/image-2026-05-25T152632.313-185x278.png",
-      "title": "Colony.2026.Multi.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745094",
-      "published_date": "20-Nov-2026 05:11:36am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2025/Dhurandhar 2025 Hindi HDTC 720p/xqyyOSF2OB6LsgeV6X2ACFTkvf-185x278.jpg",
       "title": "Dhurandhar 2025 Hindi HDTC 720p",
       "detail_url": "http://103.203.93.2/video-details/1727820",
@@ -12055,12 +11617,6 @@
       "published_date": "20-Nov-2026 05:11:36am"
     },
     {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Beast.Race.aka.Corrida.Dos.Bichos.2026.720p.WEB-DL.HIN-ENG.x264/mwmfEqWXZG6HmAUuN5SjO8s7UNV-185x278.jpg",
-      "title": "Beast.Race.aka.Corrida.Dos.Bichos.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1727964",
-      "published_date": "20-Nov-2026 05:09:25am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2015/Detective Byomkesh Bakshy!/7IvuZioWIvj8UAIWJhGtLsqwwt.jpg",
       "title": "Detective Byomkesh Bakshy!",
       "detail_url": "http://103.203.93.2/video-details/1726562",
@@ -12077,12 +11633,6 @@
       "title": "Confession.2022.720p.WEBRip.x264.AAC-[YTS.MX]",
       "detail_url": "http://103.203.93.2/video-details/1734662",
       "published_date": "20-Nov-2026 05:09:25am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/LENiN.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265/image-2026-08-19T213128.803-185x278.png",
-      "title": "LENiN.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1728013",
-      "published_date": "20-Nov-2026 05:09:23am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Vaazha II Biopic of a Billion Bros (2026) Dual 720p HEVC/1yLZ7kExd0UGGbaZW4LxmYD4OIf-185x278.jpg",
@@ -12137,12 +11687,6 @@
       "title": "Taxi 2",
       "detail_url": "http://103.203.93.2/video-details/1726223",
       "published_date": "20-Nov-2026 05:09:13am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Bhai Tera Star Hai 2026 WEB-DL 720p HEVC/qx7PVlFrbgrEihr7P6KQOgQnDTG-185x278.jpg",
-      "title": "Bhai Tera Star Hai 2026 WEB-DL 720p HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744375",
-      "published_date": "20-Nov-2026 05:09:12am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Passenger.2026.PRE-HD.720p/cpZZRm2luo2rEH5jxOl2JP3PTYU-185x278.jpg",
@@ -12265,12 +11809,6 @@
       "published_date": "20-Nov-2026 05:08:55am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Apocalypse.Z.New.World.2026.720p.WEB-DL.HIN-ENG.x264/plu8tTviVZDO5jP7nzNXsDHLu8P-185x278.jpg",
-      "title": "Apocalypse.Z.New.World.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1735748",
-      "published_date": "20-Nov-2026 05:08:54am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Gaulywood (Franch)/2022/The.Last.Queen.2022.1080p.BluRay.x264.6CH-[Mkvking.com]/download.jpg",
       "title": "The.Last.Queen.2022.1080p.BluRay.x264.6CH-[Mkvking.com]",
       "detail_url": "http://103.203.93.2/video-details/1737029",
@@ -12379,12 +11917,6 @@
       "published_date": "20-Nov-2026 05:08:49am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Nakhrewaalii (2026) Hindi HDTC 720p x265/oC8kSyOdioegcXl8OfcG6uctyK2-185x278.jpg",
-      "title": "Nakhrewaalii (2026) Hindi HDTC 720p x265",
-      "detail_url": "http://103.203.93.2/video-details/1744478",
-      "published_date": "20-Nov-2026 05:08:41am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2018/22 July/fanart.jpg",
       "title": "22 July",
       "detail_url": "http://103.203.93.2/video-details/1732572",
@@ -12491,12 +12023,6 @@
       "title": "Killing Jesus",
       "detail_url": "http://103.203.93.2/video-details/1731557",
       "published_date": "20-Nov-2026 05:08:25am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Pressure Cooker (2026)  Bengali Hoichoi WEB-Rip 720p/pressure-cooker-2026-bengali-h_WUODsEYl.jpg",
-      "title": "Pressure Cooker (2026)  Bengali Hoichoi WEB-Rip 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744955",
-      "published_date": "20-Nov-2026 05:08:24am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Killer.Whale.2026.Dual.720p.HEVC/cqbXxAw9sUr4tJ5ffEwtnz6IL9o-185x278.jpg",
@@ -12647,12 +12173,6 @@
       "title": "The Quake",
       "detail_url": "http://103.203.93.2/video-details/1727406",
       "published_date": "20-Nov-2026 05:08:06am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Nooru.Kodi.Vaanavil.2026.720p.WEB-DL.Hindi-Tamil.ESub.x265/gSJodOp12s5qFU3pO9Cz1sjQSYZ-185x278.jpg",
-      "title": "Nooru.Kodi.Vaanavil.2026.720p.WEB-DL.Hindi-Tamil.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1738807",
-      "published_date": "20-Nov-2026 05:08:05am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2024/The.Greatest.Of.All.Time.2024.720p.HEVC.HDRip.Hindi (Clear) + Tamil (Clear).x265.HE.ESubs.SkymoviesHD.chat/MV5BYjc1NDJmMjAtMTJmYi00ZGJmLWFhZTItNThmOTQyMzU4MGM3XkEyXkFqcGc@._V1_.jpg",
@@ -12847,12 +12367,6 @@
       "published_date": "20-Nov-2026 05:07:32am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Jailer-2.2026/upwdEyhhYZ7pT2hD535fr2MGfpx-185x278.jpg",
-      "title": "Jailer-2.2026",
-      "detail_url": "http://103.203.93.2/video-details/1745728",
-      "published_date": "20-Nov-2026 05:07:31am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2025/Haikyu!! The Dumpster Battle (2024) WEB-DL [Hin-Eng-Jap] 720p ESub/MV5BZWFiNmRkY2MtN2ViZC00MzhhLWI0YWYtNzVlZWFmZDI3ZjE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "title": "Haikyu!! The Dumpster Battle (2024) WEB-DL [Hin-Eng-Jap] 720p ESub",
       "detail_url": "http://103.203.93.2/video-details/1744618",
@@ -12881,12 +12395,6 @@
       "title": "Avatar",
       "detail_url": "http://103.203.93.2/video-details/1731379",
       "published_date": "20-Nov-2026 05:07:31am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/NIPPON.SANGOKU-The.Three.Nations.of.the.Crimson.Sun.S01E01.720p.HIN-ENG.JAP/hjihUw4UPndUxklecJxz1qCbcjT-185x278.jpg",
-      "title": "NIPPON.SANGOKU-The.Three.Nations.of.the.Crimson.Sun.S01E01.720p.HIN-ENG.JAP",
-      "detail_url": "http://103.203.93.2/video-details/1744701",
-      "published_date": "20-Nov-2026 05:07:30am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2025/Take Cover.2024/1wzEnvllHBjRBx4O2cRAlbT4qtf-185x278.jpg",
@@ -12935,12 +12443,6 @@
       "title": "After Darkness",
       "detail_url": "http://103.203.93.2/video-details/1733332",
       "published_date": "20-Nov-2026 05:07:29am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Johnny Jumper 2026 720p HEVC/vD6Q8CPglohe3KFj2DJRUHyp6Ql-185x278.jpg",
-      "title": "Johnny Jumper 2026 720p HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1728002",
-      "published_date": "20-Nov-2026 05:07:28am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2015/Daagdi Chaawl 2015 WebRip 1080p Hindi DD 5.1 x264 ESub/MV5BZGFkZjZmODUtZGY4Mi00M2YxLWE1N2UtMGQ4YjQyYTNjZDVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -13039,12 +12541,6 @@
       "published_date": "20-Nov-2026 05:07:16am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Collision.Course.2026.720p.WEB-DL.HIN-ENG.x264/s2eAK0uiODjlNUSIiOBwdp3at2u-185x278.jpg",
-      "title": "Collision.Course.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1735770",
-      "published_date": "20-Nov-2026 05:07:15am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/War Movie/2016/USS Indianapolis Men of Courage/aREeJV7avhlLnCicVG3fBjXiaW1.jpg",
       "title": "USS Indianapolis Men of Courage",
       "detail_url": "http://103.203.93.2/video-details/1728207",
@@ -13087,12 +12583,6 @@
       "published_date": "20-Nov-2026 05:07:07am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/All.That.We.Never.Were.2026.720p.WEB-DL.HIN-SPA.x264/zqxIT48mWFsC4NSjGEHAcp1pjEo-185x278.jpg",
-      "title": "All.That.We.Never.Were.2026.720p.WEB-DL.HIN-SPA.x264",
-      "detail_url": "http://103.203.93.2/video-details/1735739",
-      "published_date": "20-Nov-2026 05:07:06am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2022/Operation Mincemeat (2022) Dual 1080p/8nqmynyrp48wcaE2kRSx24Jf1KJ-185x278.jpg",
       "title": "Operation Mincemeat (2022) Dual 1080p",
       "detail_url": "http://103.203.93.2/video-details/1734830",
@@ -13103,12 +12593,6 @@
       "title": "The Show",
       "detail_url": "http://103.203.93.2/video-details/1732497",
       "published_date": "20-Nov-2026 05:07:06am"
-    },
-    {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Dog.Stars.2026.720p.10bit.WEBRip.6CH.x265.HEVC/5O616X9vmRzQdB68PHzBewPittd-185x278.jpg",
-      "title": "The.Dog.Stars.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1735984",
-      "published_date": "20-Nov-2026 05:07:05am"
     },
     {
       "thumbnail": "http://103.203.93.18/IMDb Top 250 Movies/All/Alns.(1986).Dl.Ad.Hnd.720p.BlRy.x264.ESbs.(2)/download.jpg",
@@ -13177,12 +12661,6 @@
       "published_date": "20-Nov-2026 05:07:02am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Mongoose.2026.720p.WEB-DL.HIN-ENG.x264/eSS5mvSG84UUuvtbHel5Yu3Wik4-185x278.jpg",
-      "title": "The.Mongoose.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1736005",
-      "published_date": "20-Nov-2026 05:06:52am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/One Two Cha Cha Chaa 2026 Hindi HDTC 720p/cWfX0Pog0ZHgTKY3glhIjvkWxgB-185x278.jpg",
       "title": "One Two Cha Cha Chaa 2026 Hindi HDTC 720p",
       "detail_url": "http://103.203.93.2/video-details/1744485",
@@ -13199,12 +12677,6 @@
       "title": "Elemental",
       "detail_url": "http://103.203.93.2/video-details/1744556",
       "published_date": "20-Nov-2026 05:06:52am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/The.Vvaan.2026.720p.DS4K.Hindi.WEB-DL.ESub..x265/zBkOqt65B1MPUCSa6t2d9IzmICN-185x278.jpg",
-      "title": "The.Vvaan.2026.720p.DS4K.Hindi.WEB-DL.ESub..x265",
-      "detail_url": "http://103.203.93.2/video-details/1744533",
-      "published_date": "20-Nov-2026 05:06:51am"
     },
     {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2025/Thambi (My Brother Vicky) (2019) Dual ORG 720p HEVC/thambi-my-brother-vicky-2020-hindi-dubbed-full-movie-watch-online-hd-free-download.jpg",
@@ -13235,12 +12707,6 @@
       "title": "Ivide (2015) Malayalam DVDRip x264 AAC 5.1 E-Subs-MBRHDRG",
       "detail_url": "http://103.203.93.2/video-details/1737377",
       "published_date": "20-Nov-2026 05:06:50am"
-    },
-    {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Sense.and.Sensibility.2026.720p.10bit.WEB-DL.ENG.x265/ySkfsMQxSVokn5zYavQByFDrzsy-185x278.jpg",
-      "title": "Sense.and.Sensibility.2026.720p.10bit.WEB-DL.ENG.x265",
-      "detail_url": "http://103.203.93.2/video-details/1735944",
-      "published_date": "20-Nov-2026 05:06:49am"
     },
     {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2025/Khakee.The.Bengal.Chapter.S01/Image-6-2-185x278.png",
@@ -13321,12 +12787,6 @@
       "published_date": "20-Nov-2026 05:06:47am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Anakapalli.2026.720p.WEB-DL.Hindi.ORG-Telugu.ESub.x265/ApPj1Gj7FhO10YUF3axKMhkjuTT-185x278.jpg",
-      "title": "Anakapalli.2026.720p.WEB-DL.Hindi.ORG-Telugu.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1738656",
-      "published_date": "20-Nov-2026 05:06:46am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Epic-First.Semester.2026.720p.DS4K.WEB-DL.Hindi-Telugu.ESub.x265/pXf3VlwaCgxvS7kvQlQ3QBwjZpy-185x278.jpg",
       "title": "Epic-First.Semester.2026.720p.DS4K.WEB-DL.Hindi-Telugu.ESub.x265",
       "detail_url": "http://103.203.93.2/video-details/1738715",
@@ -13343,12 +12803,6 @@
       "title": "Rabid Dogs",
       "detail_url": "http://103.203.93.2/video-details/1726637",
       "published_date": "20-Nov-2026 05:06:46am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Scene.2026.720p.HDTC.Tamil.Clean.x264/kfc4w3OX8QsFm8f9MPUdmGheNl3-185x278.jpg",
-      "title": "Scene.2026.720p.HDTC.Tamil.Clean.x264",
-      "detail_url": "http://103.203.93.2/video-details/1738849",
-      "published_date": "20-Nov-2026 05:06:45am"
     },
     {
       "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Panda.Plan.2.The.Magical.Tribe.2026.Dual.720p/cgZoGnkFVkTC8NUJgodkOOjQPwQ-185x278.jpg",
@@ -13375,28 +12829,10 @@
       "published_date": "20-Nov-2026 05:06:45am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Dilwali.Diwali.2026.720p.NF.WEB-DL.Hindi.DDP2.0.H.265/cV31QO65DA6mk4Hd6S7QncVq85T-185x278.jpg",
-      "title": "Dilwali.Diwali.2026.720p.NF.WEB-DL.Hindi.DDP2.0.H.265",
-      "detail_url": "http://103.203.93.2/video-details/1744403",
-      "published_date": "20-Nov-2026 05:06:44am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2023/Rudrangi (2023) HQ HDRip - 720p - HEVC/mqls4AP0wQ5x3OjzCfRDUrHVWbd-185x278.jpg",
       "title": "Rudrangi (2023) HQ HDRip - 720p - HEVC",
       "detail_url": "http://103.203.93.2/video-details/1738280",
       "published_date": "20-Nov-2026 05:06:42am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Last.Man.In.Tower.2026.WEB-DL.720p.HEVC/hbsXYxMLJbMFgaCZ1deFpGiMUI1-185x278.jpg",
-      "title": "Last.Man.In.Tower.2026.WEB-DL.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744456",
-      "published_date": "20-Nov-2026 05:06:37am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Batwara 1947 (2026) Hindi HDTC 720p x265/u4qctwtUwTEnA1gqQhM84MUygXp-185x278.jpg",
-      "title": "Batwara 1947 (2026) Hindi HDTC 720p x265",
-      "detail_url": "http://103.203.93.2/video-details/1727962",
-      "published_date": "20-Nov-2026 05:06:37am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2025/The Conjuring Last Rites (2025) Dual ORG WEB-DL 720p/jvOsWFWKioyJ8U2x9haZlM16W0c-185x278.jpg",
@@ -13441,12 +12877,6 @@
       "published_date": "20-Nov-2026 05:06:33am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Happily Married (2026)  Bengali Chorki WEB-Rip 720p/happily-married-2026-bengali-c_dyGNuRAe.jpg",
-      "title": "Happily Married (2026)  Bengali Chorki WEB-Rip 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744936",
-      "published_date": "20-Nov-2026 05:06:11am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Operation Safed Sagar The Untold Story of the Kargil War (2026) S01 EP (01-06) TRUE WEB-DL - 720p/f56PHAGbUFPmHMRippWWNpRgSao-185x278.jpg",
       "title": "Operation Safed Sagar The Untold Story of the Kargil War (2026) S01 EP (01-06) TRUE WEB-DL - 720p",
       "detail_url": "http://103.203.93.2/video-details/1744488",
@@ -13457,18 +12887,6 @@
       "title": "Thoongaavanam 2015 Dual 1080p",
       "detail_url": "http://103.203.93.2/video-details/1738145",
       "published_date": "20-Nov-2026 05:06:11am"
-    },
-    {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Godzilla.Minus.Zero.2026.PRE-HD.ENG.720p/hSmIJluOJmTWvJs4d7kHRxjc8s8-185x278.jpg",
-      "title": "Godzilla.Minus.Zero.2026.PRE-HD.ENG.720p",
-      "detail_url": "http://103.203.93.2/video-details/1735814",
-      "published_date": "20-Nov-2026 05:06:10am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/7 Dogs (2026) HIndi HDTC 720p x265/image-2026-08-22T165410.852-185x278.png",
-      "title": "7 Dogs (2026) HIndi HDTC 720p x265",
-      "detail_url": "http://103.203.93.2/video-details/1727952",
-      "published_date": "20-Nov-2026 05:06:10am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2025/Diablo.2025.Dual.720p.HEVC/qhHXBt9y24YHJOkmtfsmB7JtTBp-185x278.jpg",
@@ -13519,21 +12937,9 @@
       "published_date": "20-Nov-2026 05:06:10am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Odyssey.2026.720p.iMAX.BluRay.HIN-Line-English.ORG.ESubs.x265/5rhTDKUhPYvpdQIijFIs5VoWsON-185x278.jpg",
-      "title": "The.Odyssey.2026.720p.iMAX.BluRay.HIN-Line-English.ORG.ESubs.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736007",
-      "published_date": "20-Nov-2026 05:06:09am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Surviving.Hurricane.Otis.2026.720p.WEB-DL.HIN-ENG.x264/tW3etvnzQjRSCnRb8e1fDAvt6S6-185x278.jpg",
       "title": "Surviving.Hurricane.Otis.2026.720p.WEB-DL.HIN-ENG.x264",
       "detail_url": "http://103.203.93.2/video-details/1735965",
-      "published_date": "20-Nov-2026 05:06:09am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Welcome.to.The.Jungle.2026.Hindi.WEB-DL.720p.HEVC/1JlfUuvvX5xLP2LIDah4JhWUtTx-185x278.jpg",
-      "title": "Welcome.to.The.Jungle.2026.Hindi.WEB-DL.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1728109",
       "published_date": "20-Nov-2026 05:06:09am"
     },
     {
@@ -13561,21 +12967,9 @@
       "published_date": "20-Nov-2026 05:06:09am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Im.Game.2026.Dual.720p.HEVC/80Ift3zuYFz3iDpI2TqytWMPHJe-185x278.jpg",
-      "title": "Im.Game.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744444",
-      "published_date": "20-Nov-2026 05:06:08am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/TOXiC.2026.720p.HEVC.HDTC.Hindi-Line.HC-ESub.x265/fJBAfLiNfovSAb6KjkIndpF3Sm7-185x278.jpg",
       "title": "TOXiC.2026.720p.HEVC.HDTC.Hindi-Line.HC-ESub.x265",
       "detail_url": "http://103.203.93.2/video-details/1744513",
-      "published_date": "20-Nov-2026 05:06:08am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Creation.of.the.Gods.I.Kingdom.of.Storms.2023.Dual.720p.HEVC/dfUCs5HNtGu4fofh83uiE2Qcy3v-185x278.jpg",
-      "title": "Creation.of.the.Gods.I.Kingdom.of.Storms.2023.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1736386",
       "published_date": "20-Nov-2026 05:06:08am"
     },
     {
@@ -13613,30 +13007,6 @@
       "title": "Trainwreck",
       "detail_url": "http://103.203.93.2/video-details/1731649",
       "published_date": "20-Nov-2026 05:06:08am"
-    },
-    {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Heart.of.the.Beast.2026.720p.DS4K.WEB-DL.Hindi-English.ESub.x265/6sYemVUn79UPKz1ZsSG6kPU4RVy-185x278.jpg",
-      "title": "Heart.of.the.Beast.2026.720p.DS4K.WEB-DL.Hindi-English.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1735822",
-      "published_date": "20-Nov-2026 05:06:07am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/ZOMBEID.2026.WEB-DL.720p.HEVC/gy8Y1TELd0guAYcBP5QHnI7Xp6V-185x278.jpg",
-      "title": "ZOMBEID.2026.WEB-DL.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744549",
-      "published_date": "20-Nov-2026 05:06:07am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Cafe Umbrella (2026) Bengali iScreen 720p/cafe-umbrella-2026-bengali-isc_5H1Qa8JR.jpg",
-      "title": "Cafe Umbrella (2026) Bengali iScreen 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744924",
-      "published_date": "20-Nov-2026 05:06:07am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/7 Dogs (2026) HIndi HDTC 720p x265/image-2026-08-22T165410.852-185x278.png",
-      "title": "7 Dogs (2026) HIndi HDTC 720p x265",
-      "detail_url": "http://103.203.93.2/video-details/1745626",
-      "published_date": "20-Nov-2026 05:06:07am"
     },
     {
       "thumbnail": "http://103.203.93.6/Gaulywood (Franch)/2008/JCVD/8fdLq1X9n770THGtGDx2e74ETvE.jpg",
@@ -13681,24 +13051,6 @@
       "published_date": "20-Nov-2026 05:06:07am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Godzilla.Minus.One.2023.Dual.720p.HEVC/2piGWfFpOAVnw8IVUGczYAOTKYk-185x278.jpg",
-      "title": "Godzilla.Minus.One.2023.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1736399",
-      "published_date": "20-Nov-2026 05:06:06am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Udta Teer (2026) Hindi HDTC 720p x265/tvICKypVlW7Iio4KVs7NousbSKi-185x278.jpg",
-      "title": "Udta Teer (2026) Hindi HDTC 720p x265",
-      "detail_url": "http://103.203.93.2/video-details/1744542",
-      "published_date": "20-Nov-2026 05:06:06am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point [S05E121-128]/98964ef3d8bcd886bdb6b41535242b77.jpg",
-      "title": "Bachelor Point [S05E121-128]",
-      "detail_url": "http://103.203.93.2/video-details/1744919",
-      "published_date": "20-Nov-2026 05:06:06am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Happy Raj (2026) Dual 720p HEVC/image-2026-05-01T212039.613-185x251.png",
       "title": "Happy Raj (2026) Dual 720p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1745714",
@@ -13735,12 +13087,6 @@
       "published_date": "20-Nov-2026 05:06:05am"
     },
     {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Evil.Dead.Burn.720p.DS4K.WEB-DL.Hindi.LiNE-English.ESub.x265/snv0valEqljnwh0Su5qlH4fEbL-185x278.jpg",
-      "title": "Evil.Dead.Burn.720p.DS4K.WEB-DL.Hindi.LiNE-English.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1727985",
-      "published_date": "20-Nov-2026 05:06:05am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Chinawood (China)/2021/Rurouni.Kenshin.The.Final.P1.2021.JAPANESE.720p.WEBRip/rODS466qSdrwMlGdbUwPENhDN2c.jpg",
       "title": "Rurouni.Kenshin.The.Final.P1.2021.JAPANESE.720p.WEBRip",
       "detail_url": "http://103.203.93.2/video-details/1736163",
@@ -13751,30 +13097,6 @@
       "title": "Oversize.Love.2020.720p.AMZN.WEB-DL.H.264",
       "detail_url": "http://103.203.93.2/video-details/1736129",
       "published_date": "20-Nov-2026 05:06:05am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Street Fighter (2026)/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
-      "title": "Street Fighter (2026)",
-      "detail_url": "http://103.203.93.2/video-details/1745871",
-      "published_date": "20-Nov-2026 05:06:03am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Doraemon.New.Nobita.and.the.Castle.of.the.Undersea.Devil.2026.720p.BluRay.Hindi.LiNE-Japanese.x264/gdllrWFb9ffvGkCDQAflrdnTaAg-185x278.jpg",
-      "title": "Doraemon.New.Nobita.and.the.Castle.of.the.Undersea.Devil.2026.720p.BluRay.Hindi.LiNE-Japanese.x264",
-      "detail_url": "http://103.203.93.2/video-details/1744691",
-      "published_date": "20-Nov-2026 05:06:03am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Mutny.2026.720p.WEB-DL.x265/pu2VxGlpGwffOx292w18b1tv96j-185x278.jpg",
-      "title": "Mutny.2026.720p.WEB-DL.x265",
-      "detail_url": "http://103.203.93.2/video-details/1728037",
-      "published_date": "20-Nov-2026 05:06:03am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Somebody.2025.720p.WEB-DL.HIN-KOR.x264/9pNlDKn3TX67u8hHEZH4zkXPkTL-185x278.jpg",
-      "title": "Somebody.2025.720p.WEB-DL.HIN-KOR.x264",
-      "detail_url": "http://103.203.93.2/video-details/1745116",
-      "published_date": "20-Nov-2026 05:06:03am"
     },
     {
       "thumbnail": "http://103.203.93.19/War Movie/2005/D the Company/yKPr5DbUZRPsdT1gOhUnTVsnplg.jpg",
@@ -13829,12 +13151,6 @@
       "title": "Apex.2026.Dual.720p",
       "detail_url": "http://103.203.93.2/video-details/1727957",
       "published_date": "20-Nov-2026 04:55:16am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Matchless.Hero.Fang.Shiyu.2019.720p.10Bit.WEB-DL.Hindi-Chinese.HEVC.x265/wiYK5H7Ws9GA5iZ1jcl8gFecmMP-185x278.jpg",
-      "title": "Matchless.Hero.Fang.Shiyu.2019.720p.10Bit.WEB-DL.Hindi-Chinese.HEVC.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736411",
-      "published_date": "20-Nov-2026 04:55:15am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2025/G.Zombie.2021.Dual.720p.HEVC/Image-2025-11-20T220548.835-185x278.png",
@@ -14893,12 +14209,6 @@
       "published_date": "20-Nov-2026 04:34:36am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Pilot.2024.Dual.720p.HEVC/lqyXcutZbbTsBrETstMl7XLMgOF-185x278.jpg",
-      "title": "Pilot.2024.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745112",
-      "published_date": "20-Nov-2026 04:34:33am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bangla Dubbed(Any Movie)/2025/Family Secret (2025)/Capture.JPG",
       "title": "Family Secret (2025)",
       "detail_url": "http://103.203.93.2/video-details/1743879",
@@ -15367,12 +14677,6 @@
       "published_date": "20-Nov-2026 04:33:50am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Sumo Didi 2023 720p HEVC/5OyBiBCntjiMYJTPAObvfeRWVzV-185x278.jpg",
-      "title": "Sumo Didi 2023 720p HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744510",
-      "published_date": "20-Nov-2026 04:33:49am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2025/Tornado.2025.Dual.720p.HEVC/vRCXxDdAQPjPrJgxKyDyxkb0dDt-185x278.jpg",
       "title": "Tornado.2025.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735699",
@@ -15551,12 +14855,6 @@
       "title": "The Ghost Beyond",
       "detail_url": "http://103.203.93.2/video-details/1733145",
       "published_date": "20-Nov-2026 04:33:31am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Alaap (2024)  Bengali Hoichoi 720p/alaap-2024-bengali-hoichoi-web_GJZeFw87.jpg",
-      "title": "Alaap (2024)  Bengali Hoichoi 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746199",
-      "published_date": "20-Nov-2026 04:33:30am"
     },
     {
       "thumbnail": "http://103.203.93.18/IMDb Top 250 Movies/All/M (1931) BluRay 720p/AqE126KXLcT3wwmeM3HtlKqyGze.jpg",
@@ -15997,12 +15295,6 @@
       "published_date": "20-Nov-2026 04:32:52am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Yowayowa_Sensei-S01E01-720p-HEVC-Uncensored-[HIN-JAP]/tCiicc9WYg51bgR1kSpwgUq2hiE-185x278.jpg",
-      "title": "Yowayowa_Sensei-S01E01-720p-HEVC-Uncensored-[HIN-JAP]",
-      "detail_url": "http://103.203.93.2/video-details/1744711",
-      "published_date": "20-Nov-2026 04:32:50am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Gaulywood (Franch)/2011/The Prey/vv30WTTkdstFcOW82EigWQNBHik.jpg",
       "title": "The Prey",
       "detail_url": "http://103.203.93.2/video-details/1736762",
@@ -16171,12 +15463,6 @@
       "published_date": "20-Nov-2026 04:20:37am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Police (2025) Bengali HDTV-Rip 720p/MV5BMzA3MzBkZTctNjg0NS00ZDg0LWFmZjEtNWU3NGJhNWY5NmRiXkEyXkFqcGc@._V1_SX300.jpg",
-      "title": "Police (2025) Bengali HDTV-Rip 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746248",
-      "published_date": "20-Nov-2026 04:20:36am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2004/Resident Evil Apocalypse/yzNQSLlZb7NAkA4C5uADfNDJ7hm.jpg",
       "title": "Resident Evil Apocalypse",
       "detail_url": "http://103.203.93.2/video-details/1726287",
@@ -16261,12 +15547,6 @@
       "published_date": "20-Nov-2026 04:20:29am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Boonie Bears Time Twist 2024 Dual 720p HEVC/acyuwDMuqhupF9MqHfCW1gYY1yQ-185x278.jpg",
-      "title": "Boonie Bears Time Twist 2024 Dual 720p HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744683",
-      "published_date": "20-Nov-2026 04:20:28am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2025/Madam Sengupta (2025) WEB-DL [Bengali] ZEE5 720p HEVC ESub/MV5BMjE0ZTdkZTctODEyMi00MjJjLWIwOGUtZmZhNzVkNGVkYWY0XkEyXkFqcGc@._V1_.jpg",
       "title": "Madam Sengupta (2025) WEB-DL [Bengali] ZEE5 720p HEVC ESub",
       "detail_url": "http://103.203.93.2/video-details/1746142",
@@ -16325,12 +15605,6 @@
       "title": "Terminator Genisys",
       "detail_url": "http://103.203.93.2/video-details/1727364",
       "published_date": "20-Nov-2026 04:20:22am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Tu.Hai.Meri.Kiran.2026.720p.HQ.HDTC.Hindi.x264/jjlqHKzDTPJXDl0eb77Q20Aipuc-185x278.jpg",
-      "title": "Tu.Hai.Meri.Kiran.2026.720p.HQ.HDTC.Hindi.x264",
-      "detail_url": "http://103.203.93.2/video-details/1744538",
-      "published_date": "20-Nov-2026 04:20:21am"
     },
     {
       "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2020/Black (2015) WEB-DL [Bengali] NF 720p ESub/MV5BYjkxYzZkZjEtMDllYy00MmU0LTg4MGYtMDQ4YjM2ZTcyNGVkXkEyXkFqcGc@._V1_QL75_UY281_CR155,0,190,281_.jpg",
@@ -16439,12 +15713,6 @@
       "title": "Mirage (2025) WEB-DL [Bengali-Hindi] 720p HEVC ESub",
       "detail_url": "http://103.203.93.2/video-details/1743917",
       "published_date": "20-Nov-2026 04:20:13am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Facing.El.Chapo.2026.720p.WEB-DL.Hindi-English.ESub.x265/alpf5v4UqSFawPmG9RX03Or4BDk-185x278.jpg",
-      "title": "Facing.El.Chapo.2026.720p.WEB-DL.Hindi-English.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1727988",
-      "published_date": "20-Nov-2026 04:20:12am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/O' Romeo 2026 Hindi WEB-DL 720p HEVC/Apqc5JSXQtUJPcBGm6tBO6wQaoq-185x278.jpg",
@@ -16561,34 +15829,10 @@
       "published_date": "20-Nov-2026 04:20:02am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Malik (2026) Bengali Utshob 720p/malik-2026-bengali-utshob-web-_2MlujWpq.jpg",
-      "title": "Malik (2026) Bengali Utshob 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744945",
-      "published_date": "20-Nov-2026 04:20:01am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2016/Alice Through the Looking Glass/fanart.jpg",
       "title": "Alice Through the Looking Glass",
       "detail_url": "http://103.203.93.2/video-details/1731680",
       "published_date": "20-Nov-2026 04:20:00am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Dhrubor Aschorjo Jibon (2025)  Bengali Zee5 720p.mkv/dhrubor-aschorjo-jibon-2025-be_pCUK0YCi.jpg",
-      "title": "Dhrubor Aschorjo Jibon (2025)  Bengali Zee5 720p.mkv",
-      "detail_url": "http://103.203.93.2/video-details/1746219",
-      "published_date": "20-Nov-2026 04:19:59am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/The End of Oak Street 2026 V2 Hindi HDTC 720p/cjQhMndu9sQoUS9h11B0w02mWaL-185x278.jpg",
-      "title": "The End of Oak Street 2026 V2 Hindi HDTC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1728082",
-      "published_date": "20-Nov-2026 04:19:58am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The.Shallows.2025.720p.WEB-DL.HIN-CHI.x264/tTEvvi93axTduN31rpAeuCWXm4S-185x278.jpg",
-      "title": "The.Shallows.2025.720p.WEB-DL.HIN-CHI.x264",
-      "detail_url": "http://103.203.93.2/video-details/1736439",
-      "published_date": "20-Nov-2026 04:19:57am"
     },
     {
       "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2025/Ajob Karkhana (2022)/Capture.JPG",
@@ -16606,12 +15850,6 @@
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Blue.2026.Dual.720p.HEVC/7twlevJFJzq2icPbIgKCeIrS9TB-185x278.jpg",
       "title": "Blue.2026.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735760",
-      "published_date": "20-Nov-2026 04:19:56am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Island.Python.2025.Dual.720p.HEVC/yUPGig1XrF9OFZLkEp9pfoCJMc6-185x278.jpg",
-      "title": "Island.Python.2025.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1736407",
       "published_date": "20-Nov-2026 04:19:56am"
     },
     {
@@ -16667,12 +15905,6 @@
       "title": "Annabelle Hooper and the Ghosts of Nantucket",
       "detail_url": "http://103.203.93.2/video-details/1731692",
       "published_date": "20-Nov-2026 04:19:52am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Jallad The Warrior (2026) Bengali Klikk 720p/jallad-the-warrior-2026-bengal_6axvfjjO.jpg",
-      "title": "Jallad The Warrior (2026) Bengali Klikk 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746226",
-      "published_date": "20-Nov-2026 04:19:51am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2025/Paalam.Ligaya.2025.720p/Image-86-1-185x278.png",
@@ -16819,12 +16051,6 @@
       "published_date": "20-Nov-2026 04:19:42am"
     },
     {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Kung Fu Soccer (2026) HDTS Chinese 720p ESUB/5skHR1T8URubqb30fk14njyPcy4-185x278.jpg",
-      "title": "Kung Fu Soccer (2026) HDTS Chinese 720p ESUB",
-      "detail_url": "http://103.203.93.2/video-details/1728012",
-      "published_date": "20-Nov-2026 04:19:36am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2015/Awaken/fanart.jpg",
       "title": "Awaken",
       "detail_url": "http://103.203.93.2/video-details/1731488",
@@ -16835,12 +16061,6 @@
       "title": "1915",
       "detail_url": "http://103.203.93.2/video-details/1731458",
       "published_date": "20-Nov-2026 04:19:36am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Kung Fu Soccer (2026) HDTS Chinese 720p ESUB/5skHR1T8URubqb30fk14njyPcy4-185x278.jpg",
-      "title": "Kung Fu Soccer (2026) HDTS Chinese 720p ESUB",
-      "detail_url": "http://103.203.93.2/video-details/1736410",
-      "published_date": "20-Nov-2026 04:19:34am"
     },
     {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2019/Chhichhore 2019 WebRip Hindi 720p x264 AAC ESub -/wlhoqgco2ltfBtVU77qhHAHRQm0-185x278.jpg",
@@ -16879,12 +16099,6 @@
       "published_date": "20-Nov-2026 04:19:32am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Verity.2026.720p.WEB-DL.HIN-ENG.x264/zPHfsaiMZT1HNz1ZS55iyLKZkFG-185x278.jpg",
-      "title": "Verity.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1736042",
-      "published_date": "20-Nov-2026 04:19:31am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bangla Dubbed(Any Movie)/2026/Agadha (2026)  Bengali HQ Dubbed 720p.mkv/agadha-2026-bengali-hq-dubbed-_TkaVMyb4.jpg",
       "title": "Agadha (2026)  Bengali HQ Dubbed 720p.mkv",
       "detail_url": "http://103.203.93.2/video-details/1743970",
@@ -16919,12 +16133,6 @@
       "title": "100 Yards",
       "detail_url": "http://103.203.93.2/video-details/1733297",
       "published_date": "20-Nov-2026 04:19:30am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Dhoomakethu.2026.720p.DS4K.WEB-DL.Hindi-Malayalam.ESub.x265/kZCKwhUx7r9HRDqpGbavdMtd8f5-185x278.jpg",
-      "title": "Dhoomakethu.2026.720p.DS4K.WEB-DL.Hindi-Malayalam.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1738699",
-      "published_date": "20-Nov-2026 04:19:29am"
     },
     {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Bandar.2026.WEB-DL.720p.HEVC/MZ0PJeqQIFeRZtJvJ3chAexiJp-185x278.jpg",
@@ -17003,12 +16211,6 @@
       "title": "Game Changer",
       "detail_url": "http://103.203.93.2/video-details/1738491",
       "published_date": "20-Nov-2026 04:19:26am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Ka Kha Ga Gha (2018)  Bengali 720p/MV5BZmViYmI1NjItOWQwYi00N2IwLTlhYmMtNmY4NTUyMmVhNjFhXkEyXkFqcGc@._V1_SX300.jpg",
-      "title": "Ka Kha Ga Gha (2018)  Bengali 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746231",
-      "published_date": "20-Nov-2026 04:19:24am"
     },
     {
       "thumbnail": "http://103.203.93.6/Gaulywood (Franch)/2020/The.World.To.Come.2020.1080p.BluRay.x264.AAC5.1-/MV5BZDA3ZWZiNTgtYmMwYi00OWU4LWEyNjEtZjZhNWU0YmU0N2QwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
@@ -17101,22 +16303,10 @@
       "published_date": "20-Nov-2026 04:19:09am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Hope.2026.720p.Korean.AAC.HDTS/bcK5naYzzfY0JBCgrPrsrbV6NO1-185x278.jpg",
-      "title": "Hope.2026.720p.Korean.AAC.HDTS",
-      "detail_url": "http://103.203.93.2/video-details/1745101",
-      "published_date": "20-Nov-2026 04:19:07am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2016/Feast of the Body/fanart.jpg",
       "title": "Feast of the Body",
       "detail_url": "http://103.203.93.2/video-details/1731744",
       "published_date": "20-Nov-2026 04:19:07am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Toy.Story.5.2026.iNTERNAL.720p.10bit.HDRip.2CH.x265.HEVC/leOwJIJdqe3kpFxO0w53gjy6aut-185x278.jpg",
-      "title": "Toy.Story.5.2026.iNTERNAL.720p.10bit.HDRip.2CH.x265.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744710",
-      "published_date": "20-Nov-2026 04:19:06am"
     },
     {
       "thumbnail": "http://103.203.93.4/Bangla Dubbed(Any Movie)/2025/Vaaranam Aayiram-Dui Purush (2023) Bengali Dubbed ORG BongoBD 720p/Screenshot 2025-12-05 150142.jpg",
@@ -17293,12 +16483,6 @@
       "published_date": "20-Nov-2026 04:18:54am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/The.Furious.2026.WEB-DL.720p.HEVC/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ-185x278.jpg",
-      "title": "The.Furious.2026.WEB-DL.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745118",
-      "published_date": "20-Nov-2026 04:18:53am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2013/Sunflower Shopia Loren/poster.jpg",
       "title": "Sunflower Shopia Loren",
       "detail_url": "http://103.203.93.2/video-details/1731397",
@@ -17413,12 +16597,6 @@
       "published_date": "20-Nov-2026 04:18:40am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Strangers.Chapter.3.2026.720p.BluRay.HIN-ENG.x265/yPHwX78mcwJw3I6YOJ9qh2wQBFr-185x278.jpg",
-      "title": "The.Strangers.Chapter.3.2026.720p.BluRay.HIN-ENG.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736016",
-      "published_date": "20-Nov-2026 04:18:24am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Abhhiman (2026) Bengali HDTC H264 AAC 720p/MV5BMDhmMDMxMTEtY2ExZi00OGQyLTk2NmMtYzY0OGE3ZTlmOTYxXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
       "title": "Abhhiman (2026) Bengali HDTC H264 AAC 720p",
       "detail_url": "http://103.203.93.2/video-details/1746198",
@@ -17531,12 +16709,6 @@
       "title": "The Room",
       "detail_url": "http://103.203.93.2/video-details/1733932",
       "published_date": "20-Nov-2026 04:18:23am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/418.2026.720p.HDTC.Hindi.ORG.2.0.x265/thfU6DM9rFEWu9xiY9SXDunaMc3-185x278.jpg",
-      "title": "418.2026.720p.HDTC.Hindi.ORG.2.0.x265",
-      "detail_url": "http://103.203.93.2/video-details/1738648",
-      "published_date": "20-Nov-2026 04:18:22am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/23.000.Lives.2026.Dual.720p.HEVC/yHIuR7rTAbHXbELc9UqoaOIxXZx-185x278.jpg",
@@ -17767,12 +16939,6 @@
       "published_date": "20-Nov-2026 03:39:21am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Madraskaaran.2025.Dual.720p.HEVC/zw4imaAGB8cWa4mrwABxHiVS0KR-185x278.jpg",
-      "title": "Madraskaaran.2025.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738781",
-      "published_date": "20-Nov-2026 03:38:35am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Bank of Bhagyalakshmi (2025) Dual 720p HEVC/k3ZkowkAPpfLwhD8eV3OhFooYgo-185x278.jpg",
       "title": "Bank of Bhagyalakshmi (2025) Dual 720p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1727961",
@@ -17837,12 +17003,6 @@
       "title": "Mail (2021) Telugu HDRip 720p x264  AAC  1.4GB[MB]_1",
       "detail_url": "http://103.203.93.2/video-details/1737905",
       "published_date": "20-Nov-2026 03:29:50am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Godzilla.Minus.Zero.2026.PRE-HD.ENG.720p/hSmIJluOJmTWvJs4d7kHRxjc8s8-185x278.jpg",
-      "title": "Godzilla.Minus.Zero.2026.PRE-HD.ENG.720p",
-      "detail_url": "http://103.203.93.2/video-details/1736400",
-      "published_date": "20-Nov-2026 03:29:49am"
     },
     {
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2024/Batch 2003/MV5BYzlkOTRmMDUtNDg3OS00NjI4LTg4NGMtY2ZiYzBjYjYyOWI4XkEyXkFqcGdeQXVyMTE3MzczNTc4._V1_.jpg",
@@ -17939,12 +17099,6 @@
       "title": "1000.Men.And.Me.The.Bonnie.Blue.Story.2025.720p.WEBRip.x264",
       "detail_url": "http://103.203.93.2/video-details/1735463",
       "published_date": "20-Nov-2026 02:51:03am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/BB Bakshi (2026) Bengali Fridaay WEB-DL H264 AAC 720p/bb-bakshi-2026-bengali-fridaay_bIT4HbN5.jpg",
-      "title": "BB Bakshi (2026) Bengali Fridaay WEB-DL H264 AAC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746201",
-      "published_date": "20-Nov-2026 02:48:53am"
     },
     {
       "thumbnail": "http://103.203.93.6/Chinawood (China)/2023/Snakes 2018 Dual ORG 720p/wEuNPFWdGm4ks4vKUTPGsuHI5qp-185x278.jpg",
@@ -24743,12 +23897,6 @@
       "title": "Keep Watching",
       "detail_url": "http://103.203.93.2/video-details/1732909",
       "published_date": "20-Nov-2026 02:25:29am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The Grey Men 2 (2025) Dual Audio [Hindi ORG-Chinese] Amazon WEB-DL H264 AAC 720p/MV5BZDJlZDhiMTYtMmQxMy00NjlmLWFiNDYtZWVhY2FhMTUyNjM5XkEyXkFqcGc@._V1_SX300.jpg",
-      "title": "The Grey Men 2 (2025) Dual Audio [Hindi ORG-Chinese] Amazon WEB-DL H264 AAC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1736431",
-      "published_date": "20-Nov-2026 02:25:27am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2018/Lizzie/clearlogo.png",
@@ -40417,12 +39565,6 @@
       "published_date": "20-Nov-2026 01:50:29am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Mayar Jonjal (2026)  Bengali Chorki WEB-Rip 1080p/mayar-jonjal-2026-bengali-chor_DkgauR2k.jpg",
-      "title": "Mayar Jonjal (2026)  Bengali Chorki WEB-Rip 1080p",
-      "detail_url": "http://103.203.93.2/video-details/1746237",
-      "published_date": "20-Nov-2026 01:50:27am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2025/Shantilal O Projapoti Rohoshyo (2019) WEB-DL [Bengali] HC 720p ESub/MV5BYmMxMDdiNWUtN2JmNi00ZDkyLTg3ODQtZGU2NjAyZDI5ZjE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "title": "Shantilal O Projapoti Rohoshyo (2019) WEB-DL [Bengali] HC 720p ESub",
       "detail_url": "http://103.203.93.2/video-details/1746177",
@@ -45607,24 +44749,6 @@
       "published_date": "20-Nov-2026 01:41:22am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Creation.of.the.Gods.II.Demon.Force.2025.720p.WEB-DL.HIN-CHI.x265/1v5ZteB49M0RUGYrf9R37Mz8yo2-185x278.jpg",
-      "title": "Creation.of.the.Gods.II.Demon.Force.2025.720p.WEB-DL.HIN-CHI.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736387",
-      "published_date": "20-Nov-2026 01:41:21am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Golden.Kamuy.The.Abashiri.Prison.Raid.2026.Multi.720p.HEVC/kFIs85TGQrrUqOvyYuC1ezkRO8x-185x278.jpg",
-      "title": "Golden.Kamuy.The.Abashiri.Prison.Raid.2026.Multi.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1736401",
-      "published_date": "20-Nov-2026 01:41:21am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Shaolin Soccer (2001) Dual 720p/JxiBDG2TuahaVj9ODwQveWzlDv-185x278.jpg",
-      "title": "Shaolin Soccer (2001) Dual 720p",
-      "detail_url": "http://103.203.93.2/video-details/1736423",
-      "published_date": "20-Nov-2026 01:41:19am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2007/Big Brother/j7Kt4Yc4Do58YhgEW38EY9RSBvr.jpg",
       "title": "Big Brother",
       "detail_url": "http://103.203.93.2/video-details/1726311",
@@ -46453,18 +45577,6 @@
       "published_date": "20-Nov-2026 01:39:57am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point [S05E101-104]/Capture.JPG",
-      "title": "Bachelor Point [S05E101-104]",
-      "detail_url": "http://103.203.93.2/video-details/1744917",
-      "published_date": "20-Nov-2026 01:39:54am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Phool Pishi O Edward (2026)/Phool Pishi O Edward (2026) Bengali ORG 2.0 HDTC H264 AAC 720p.jpg",
-      "title": "Phool Pishi O Edward (2026)",
-      "detail_url": "http://103.203.93.2/video-details/1744954",
-      "published_date": "20-Nov-2026 01:39:54am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Direct Attack (2026) Bengali EW WEB-DL H264 AAC 720p/direct-attack-2026-bengali-ew-_IV0rOo3x.jpg",
       "title": "Direct Attack (2026) Bengali EW WEB-DL H264 AAC 720p",
       "detail_url": "http://103.203.93.2/video-details/1744930",
@@ -47045,12 +46157,6 @@
       "title": "Ninnu Kori 2017 Telugu 720p HDRip x264 AC3 5.1 1.4GB ESubs",
       "detail_url": "http://103.203.93.2/video-details/1737577",
       "published_date": "20-Nov-2026 01:38:28am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Im.Game.2026.Dual.720p.HEVC/80Ift3zuYFz3iDpI2TqytWMPHJe-185x278.jpg",
-      "title": "Im.Game.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738739",
-      "published_date": "20-Nov-2026 01:38:26am"
     },
     {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2017/Main Hi Raja Main Hi Mantri (2017) New Released Hindi Dubbed Full Movie _ Ra/",
@@ -47845,46 +46951,10 @@
       "published_date": "20-Nov-2026 01:36:59am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Demon.Slayer-Kimetsu.no.Yaiba.Infinity.Castle.2025.Dual.720p.HEVC/aFRDH3P7TX61FVGpaLhKr6QiOC1-185x278.jpg",
-      "title": "Demon.Slayer-Kimetsu.no.Yaiba.Infinity.Castle.2025.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744689",
-      "published_date": "20-Nov-2026 01:36:58am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2023/Hidimbha (2023) Dual ORG 1080p HEVC/QF19Vu8ZTU8sUVkSTKW4pC8uVa-185x278.jpg",
       "title": "Hidimbha (2023) Dual ORG 1080p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1738212",
       "published_date": "20-Nov-2026 01:36:58am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Monster Beach (2014)/Capture.JPG",
-      "title": "Monster Beach (2014)",
-      "detail_url": "http://103.203.93.2/video-details/1744700",
-      "published_date": "20-Nov-2026 01:36:55am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Avatar.Aang.The.Last.Airbender.2026.720p.10bit.WEBRip.6CH.x265.HEVC/AbUa37L0mRs4RtMLvSD6cWZcPJP-185x278.jpg",
-      "title": "Avatar.Aang.The.Last.Airbender.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744682",
-      "published_date": "20-Nov-2026 01:36:55am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Jujutsu.Kaisen.Hidden.Inventory.Premature.Death.The.Movie.2025.720p.BluRay.x265/kZkyr1sRzarENrxjtltPvmHRrTk-185x278.jpg",
-      "title": "Jujutsu.Kaisen.Hidden.Inventory.Premature.Death.The.Movie.2025.720p.BluRay.x265",
-      "detail_url": "http://103.203.93.2/video-details/1744695",
-      "published_date": "20-Nov-2026 01:36:55am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Liar Game S01E01 720p x265 10bit WEB-DL Multi Audio ESub/gbZmmfrAPhKw7buPq2IInJQRxPb-185x278.jpg",
-      "title": "Liar Game S01E01 720p x265 10bit WEB-DL Multi Audio ESub",
-      "detail_url": "http://103.203.93.2/video-details/1744696",
-      "published_date": "20-Nov-2026 01:36:55am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/New.Gods.Yang.Jian.2025.Dual.720p.HEVC/kNl7nL1y4Y4iVLVqEGzoe7rAlhH-185x278.jpg",
-      "title": "New.Gods.Yang.Jian.2025.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744702",
-      "published_date": "20-Nov-2026 01:36:54am"
     },
     {
       "thumbnail": "http://103.203.93.6/Gaulywood (Franch)/2002/Talk To Her/ePERgbqEI1sYTzSVIHDYD9MJ1IS.jpg",
@@ -51049,18 +50119,6 @@
       "published_date": "20-Nov-2026 01:30:53am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Boss.2025.720p.WEB-DL.HIN-KOR.x265/4gma4HLcqi8oDXwCj7txvfD2qAi-185x278.jpg",
-      "title": "Boss.2025.720p.WEB-DL.HIN-KOR.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745091",
-      "published_date": "20-Nov-2026 01:30:52am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Suddenly.in.the.Dark.1981.Dual.720p/dja37iYbxKLbjSGnkb1FKqeJbXX-185x278.jpg",
-      "title": "Suddenly.in.the.Dark.1981.Dual.720p",
-      "detail_url": "http://103.203.93.2/video-details/1745117",
-      "published_date": "20-Nov-2026 01:30:52am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Chinawood (China)/2025/Unstoppable (2025) Dual Audio [Hindi ORG-Chinese] WEB-DL 720p/l0Nw6v_4c.jpg",
       "title": "Unstoppable (2025) Dual Audio [Hindi ORG-Chinese] WEB-DL 720p",
       "detail_url": "http://103.203.93.2/video-details/1736378",
@@ -51071,18 +50129,6 @@
       "title": "Unstoppable (2025) WEB-DL [Hindi-Chinese] 720p ESub",
       "detail_url": "http://103.203.93.2/video-details/1736379",
       "published_date": "20-Nov-2026 01:30:52am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/CoIony 2026 720p WEB-DL x265/image-2026-05-25T152632.313-185x278.png",
-      "title": "CoIony 2026 720p WEB-DL x265",
-      "detail_url": "http://103.203.93.2/video-details/1745093",
-      "published_date": "20-Nov-2026 01:30:51am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Memories.of.Murder.2003.Dual.ORG.720p.HEVC/4MNdJUiZdyYWdV4PfG8VLnOgaim-185x278.jpg",
-      "title": "Memories.of.Murder.2003.Dual.ORG.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745103",
-      "published_date": "20-Nov-2026 01:30:50am"
     },
     {
       "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/The.Ugly.2025.Dual.720p.HEVC/5x9CfL9iGF7Dh5OQUm85wdp99Xo-185x278.jpg",
@@ -53263,12 +52309,6 @@
       "published_date": "20-Nov-2026 01:26:52am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Jongom (2023) Bengali Amazon 720p/Capture.JPG",
-      "title": "Jongom (2023) Bengali Amazon 720p",
-      "detail_url": "http://103.203.93.2/video-details/1744939",
-      "published_date": "20-Nov-2026 01:26:47am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2025/40.Acres.2024.Dual.720p.HEVC/pglzdFsz47RoX2kcvKRgrFG2uSz-185x278.jpg",
       "title": "40.Acres.2024.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1745310",
@@ -54949,12 +53989,6 @@
       "published_date": "20-Nov-2026 01:23:01am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Chhaya O Chhobi (2017) Bengali Amazon WEB-Rip 720p/MV5BZjU5MGI4NmQtM2E1OS00ZTdkLWI5ZWMtOWMwYmFhYjkyYjgwXkEyXkFqcGc@._V1_.jpg",
-      "title": "Chhaya O Chhobi (2017) Bengali Amazon WEB-Rip 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746215",
-      "published_date": "20-Nov-2026 01:22:59am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2025/Blue Lock The Movie (2024) BluRay [Hindi-English] 720p ESub/xp5g7uXgudbCzSkUe599901Xbdq.jpg",
       "title": "Blue Lock The Movie (2024) BluRay [Hindi-English] 720p ESub",
       "detail_url": "http://103.203.93.2/video-details/1744602",
@@ -54971,12 +54005,6 @@
       "title": "Pils Adventures (2021)",
       "detail_url": "http://103.203.93.2/video-details/1744645",
       "published_date": "20-Nov-2026 01:22:59am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/K Secret Eye (2017) Bengali Amazon WEB-Rip 720p/Capture.JPG",
-      "title": "K Secret Eye (2017) Bengali Amazon WEB-Rip 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746230",
-      "published_date": "20-Nov-2026 01:22:58am"
     },
     {
       "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2025/Ploey (2018) BluRay [Hindi-English] 720p ESub/ploey-you-never-fly-alone-2018-full-movie-watch-online-hd-print-free-download.jpg",
@@ -55831,12 +54859,6 @@
       "published_date": "20-Nov-2026 01:21:28am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Emperor vs Sarat Chandra (2026) Bengali HDTC 720p/smmca4zD32XDKGn0MFeorKw6kX2.jpg",
-      "title": "Emperor vs Sarat Chandra (2026) Bengali HDTC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746221",
-      "published_date": "20-Nov-2026 01:21:26am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2025/In Your Dreams (2025)  Dual Audio [Hindi ORG-English] NetFlix 720p/In-Your-Dreams-2025-Dual-Audio-Hindi-ORG-English-NetFlix-WEB-DL-H264-AAC-1080p-720p-480p-ESu-185x278.jpg",
       "title": "In Your Dreams (2025)  Dual Audio [Hindi ORG-English] NetFlix 720p",
       "detail_url": "http://103.203.93.2/video-details/1744620",
@@ -55999,28 +55021,10 @@
       "published_date": "20-Nov-2026 01:21:01am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Dont.Say.Good.Luck.2026.720p.WEB-DL.HIN-ENG.x264/w3NNwo7kImaJS7fL6YlBsJx0i6R-185x278.jpg",
-      "title": "Dont.Say.Good.Luck.2026.720p.WEB-DL.HIN-ENG.x264",
-      "detail_url": "http://103.203.93.2/video-details/1745680",
-      "published_date": "20-Nov-2026 01:21:00am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2011/Ko 2011 720p BluRay x264 Tamil AAC-ETRG/",
       "title": "Ko 2011 720p BluRay x264 Tamil AAC-ETRG",
       "detail_url": "http://103.203.93.2/video-details/1737183",
       "published_date": "20-Nov-2026 01:21:00am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Euphoria.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265/iaCy5uKh3KZoKUcshNWEQUtSY9U-185x278.jpg",
-      "title": "Euphoria.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745690",
-      "published_date": "20-Nov-2026 01:20:59am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/To.the.Max.2026.720p.WEB-DL.HIN-ENG-SPA.x264/xJc57uJHzsdr224J7jpZMqWNB98-185x278.jpg",
-      "title": "To.the.Max.2026.720p.WEB-DL.HIN-ENG-SPA.x264",
-      "detail_url": "http://103.203.93.2/video-details/1745916",
-      "published_date": "20-Nov-2026 01:20:59am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2024/Dont.Worry.Darling.2022.Dual.720p.HEVC/wjAJWfuE5OQm5zerlOAbTxdHFMV-185x278.jpg",
@@ -56189,12 +55193,6 @@
       "title": "Drishyam 3 (2026) Malayalam WEB-DL ESub 720p",
       "detail_url": "http://103.203.93.2/video-details/1738708",
       "published_date": "20-Nov-2026 01:20:33am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Green.Snake.2025.720p.WEB-DL.HIN-CHI.x265/20tTrpT0kMNFRLsSXaeabgnRw1M-185x278.jpg",
-      "title": "Green.Snake.2025.720p.WEB-DL.HIN-CHI.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736402",
-      "published_date": "20-Nov-2026 01:20:30am"
     },
     {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2024/Lonely Planet/sH7Orig1yqa6ojMLIzLDxA2GRkH-185x278.jpg",
@@ -56603,12 +55601,6 @@
       "title": "Mythri 2015 Malayalam 720p HD AVC x264",
       "detail_url": "http://103.203.93.2/video-details/1737391",
       "published_date": "20-Nov-2026 01:19:37am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Insidious-6.2026.720p.HDTC.Hindi-Multi.LiNE.HC-ESub.x265/4tTrW9dXCByS5wt2pXVWb58zNjz-185x278.jpg",
-      "title": "Insidious-6.2026.720p.HDTC.Hindi-Multi.LiNE.HC-ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745725",
-      "published_date": "20-Nov-2026 01:19:36am"
     },
     {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2025/Mrs.Deshpande.S01.720p.HEVC/ldBEaJS63CbRovaVG2jdbjuFBsN-185x278.jpg",
@@ -59131,12 +58123,6 @@
       "published_date": "20-Nov-2026 01:14:05am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Keu Bole Biplobi Keu Bole Dakat (2026)  Bengali Zee5 720p/MV5BMGE0YjViYzQtYmE5Mi00ZTNhLWJjNDctNmQzNGYxNzIzZGJiXkEyXkFqcGc@._V1_SX300.jpg",
-      "title": "Keu Bole Biplobi Keu Bole Dakat (2026)  Bengali Zee5 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746232",
-      "published_date": "20-Nov-2026 01:14:04am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2025/Valiyavan.2015.Dual.720p.HEVC/Image-33-2-185x278.png",
       "title": "Valiyavan.2015.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1738635",
@@ -60079,18 +59065,6 @@
       "published_date": "20-Nov-2026 01:12:39am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe (2026) 720p NF WEB-DL Multi Audio/6YkVpc9Dn1L2FHNlLOybpSKeGc7-185x278.jpg",
-      "title": "Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe (2026) 720p NF WEB-DL Multi Audio",
-      "detail_url": "http://103.203.93.2/video-details/1744699",
-      "published_date": "20-Nov-2026 01:12:38am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Sweet.Bodyguard.2022.720p.WEB-DL.HIN-CHI.x264/pqJTduvOw0P2mlPugu2MWn199FA-185x278.jpg",
-      "title": "Sweet.Bodyguard.2022.720p.WEB-DL.HIN-CHI.x264",
-      "detail_url": "http://103.203.93.2/video-details/1736428",
-      "published_date": "20-Nov-2026 01:12:38am"
-    },
-    {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2025/The Verdict (2025)/Capture.JPG1.JPG",
       "title": "The Verdict (2025)",
       "detail_url": "http://103.203.93.2/video-details/1738626",
@@ -60107,12 +59081,6 @@
       "title": "Ghatikachalam (2025)",
       "detail_url": "http://103.203.93.2/video-details/1738497",
       "published_date": "20-Nov-2026 01:12:38am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Salmokji.Whispering.Water.2026.720p.WEB-DL.Hindi-Korean.ESub.x265/5qjgrlLwYaoU0yjeC77QVE24vOY-185x278.jpg",
-      "title": "Salmokji.Whispering.Water.2026.720p.WEB-DL.Hindi-Korean.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745115",
-      "published_date": "20-Nov-2026 01:12:37am"
     },
     {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2025/Eleven 2025 Dual 720p HEVC/zrLStjPERNYWIESwlrfBPE3jsDb-185x278.jpg",
@@ -62659,18 +61627,6 @@
       "published_date": "20-Nov-2026 01:07:06am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Pehla.Pyaar.Doosri.Baar.2026.720p.HDTC.Hindi.Clean.x264/tGS4b47RIpF3DTAkezHBqfYNTm2-185x278.jpg",
-      "title": "Pehla.Pyaar.Doosri.Baar.2026.720p.HDTC.Hindi.Clean.x264",
-      "detail_url": "http://103.203.93.2/video-details/1744494",
-      "published_date": "20-Nov-2026 01:07:05am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Jeena Dil Se 2026 720p HEVC/pEsKzjFxuwvw67mBEfvQaH7yKP4-185x278.jpg",
-      "title": "Jeena Dil Se 2026 720p HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744447",
-      "published_date": "20-Nov-2026 01:07:05am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Aryabhatt Ka Zero 2026 WEB-DL 720p HEVC/hI5MZ78pj2aFuyEz1oOFMVsr8dM-185x278.jpg",
       "title": "Aryabhatt Ka Zero 2026 WEB-DL 720p HEVC",
       "detail_url": "http://103.203.93.2/video-details/1744359",
@@ -62695,22 +61651,10 @@
       "published_date": "20-Nov-2026 01:07:05am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Possible.Love.2026.720p.WEB-DL.HIN-ENG-KOR.x264/1ERGPNiKtnEcsvJS1ywsmqmcIDO-185x278.jpg",
-      "title": "Possible.Love.2026.720p.WEB-DL.HIN-ENG-KOR.x264",
-      "detail_url": "http://103.203.93.2/video-details/1745113",
-      "published_date": "20-Nov-2026 01:07:04am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Hokum.2026.720p.10bit.WEBRip.6CH.x265.HEVC/cTwCLrILmVKA72TF1NQXpn3vQM4-185x278.jpg",
       "title": "Hokum.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735826",
       "published_date": "20-Nov-2026 01:07:04am"
-    },
-    {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Resident.Evil.2026.720p.WEB-DL.Hindi.ORG-English.ESub.x265/oRHuTPN8f5POBWKMM7zWizqhN8E-185x278.jpg",
-      "title": "Resident.Evil.2026.720p.WEB-DL.Hindi.ORG-English.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1735922",
-      "published_date": "20-Nov-2026 01:07:02am"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Muthu.Alias.Kaattaan.S01.720p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-Tamil.5.1.ESub.x265/koXT0LCCwjfLosNyyFLdDJt67L9-185x278.jpg",
@@ -62731,34 +61675,10 @@
       "published_date": "20-Nov-2026 01:07:02am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Avarachan.and.Sons.2026.720p.WEB-DL.Hindi-Malayalam.ESub.x265/xFCMObAyeWE7iWFH30XNiOjcWsv-185x278.jpg",
-      "title": "Avarachan.and.Sons.2026.720p.WEB-DL.Hindi-Malayalam.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1738666",
-      "published_date": "20-Nov-2026 01:06:52am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Comrade.Kalyan.2026.Dual.720p.HEVC/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h-185x278.jpg",
-      "title": "Comrade.Kalyan.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738688",
-      "published_date": "20-Nov-2026 01:06:51am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Dont.Trouble.the.Trouble.2026.Dual.720p/A0uqqpeLhGfOsW6muky7xvLd8Qf-185x278.jpg",
-      "title": "Dont.Trouble.the.Trouble.2026.Dual.720p",
-      "detail_url": "http://103.203.93.2/video-details/1738700",
-      "published_date": "20-Nov-2026 01:06:48am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Bangla Dubbed(Any Movie)/2026/Ramarao on Duty (2026)  Bengali Dubbed ORG WEB-DL 720p/ramarao-on-duty-2026-bengali-d_zpeiDTsB.jpg",
       "title": "Ramarao on Duty (2026)  Bengali Dubbed ORG WEB-DL 720p",
       "detail_url": "http://103.203.93.2/video-details/1744025",
       "published_date": "20-Nov-2026 01:06:47am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Tarpan (2026) Bengali Fridaay WEB-DL H264 AAC 720p/tarpan-2026-bengali-fridaay-we_CHBUeNIA.jpg",
-      "title": "Tarpan (2026) Bengali Fridaay WEB-DL H264 AAC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1746265",
-      "published_date": "20-Nov-2026 01:06:46am"
     },
     {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Sigma.2026.Dual.720p.HEVC/18Lhkc3nf92bY1cacQomXIqihhN-185x278.jpg",
@@ -62767,28 +61687,10 @@
       "published_date": "20-Nov-2026 01:06:43am"
     },
     {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Runner.2026.720p.WEB-DL.Hindi.ORG-English.ESub.x265/yBKMAIj7clP42UkFejhGDBBoTpb-185x278.jpg",
-      "title": "Runner.2026.720p.WEB-DL.Hindi.ORG-English.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1735930",
-      "published_date": "20-Nov-2026 01:06:43am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2017/All Eyez on Me/clearlogo.png",
       "title": "All Eyez on Me",
       "detail_url": "http://103.203.93.2/video-details/1731991",
       "published_date": "20-Nov-2026 01:06:43am"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Jhaad Phoonk 2026 Hindi WEB-DL 720p HEVC/1YP2UfkYtZP1n9O5fMZtZhFxmrO-185x278.jpg",
-      "title": "Jhaad Phoonk 2026 Hindi WEB-DL 720p HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744449",
-      "published_date": "20-Nov-2026 01:06:42am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The.Butchers.Blade.2026.Dual.720p/8S3Tt4gQudJUsK9jKu5Gy1mDfvb-185x278.jpg",
-      "title": "The.Butchers.Blade.2026.Dual.720p",
-      "detail_url": "http://103.203.93.2/video-details/1736436",
-      "published_date": "20-Nov-2026 01:06:41am"
     },
     {
       "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Aasha.2026.Dual.720p/tPlPfH9dQLgm6utCw4BAQJnZ5ZZ-185x278.jpg",
@@ -62867,12 +61769,6 @@
       "title": "Jingle Bell Bride",
       "detail_url": "http://103.203.93.2/video-details/1734193",
       "published_date": "20-Nov-2026 01:06:40am"
-    },
-    {
-      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Beware.Boiuna.2026.720p.10bit.WEBRip.6CH.x265.HEVC/uW5YMPxJUzT9bkafrCKHXjPTCoQ-185x278.jpg",
-      "title": "Beware.Boiuna.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1735759",
-      "published_date": "20-Nov-2026 01:06:38am"
     },
     {
       "thumbnail": "http://103.203.93.19/War Movie/2016/Railroad Tigers/1aSkP9geZCbqIoxjF7Jy9dT8UfY.jpg",
@@ -64039,12 +62935,6 @@
       "published_date": "20-Nov-2026 01:03:46am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Winkle Twinkle (2026) Bengali Hoichoi 720p.mkv/winkle-twinkle-2026-bengali-ho_nEfpYLMF.jpg",
-      "title": "Winkle Twinkle (2026) Bengali Hoichoi 720p.mkv",
-      "detail_url": "http://103.203.93.2/video-details/1746275",
-      "published_date": "20-Nov-2026 01:03:46am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Marty.Supreme.2025.Dual.720p.HEVC/lYWEXbQgRTR4ZQleSXAgRbxAjvq-185x278.jpg",
       "title": "Marty.Supreme.2025.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1745765",
@@ -64165,12 +63055,6 @@
       "published_date": "20-Nov-2026 01:03:29am"
     },
     {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Meesaya.Murukku.2.2026.720p.WEB-DL.Hindi-Tamil.ESub.x265/qD1QwmInB9ezd2peVb5EbhaM4Mo-185x278.jpg",
-      "title": "Meesaya.Murukku.2.2026.720p.WEB-DL.Hindi-Tamil.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1738791",
-      "published_date": "20-Nov-2026 01:03:26am"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2016/The Perfect Weapon/8bFIPM8PatqvwtNO9ObjQ6PBDky.jpg",
       "title": "The Perfect Weapon",
       "detail_url": "http://103.203.93.2/video-details/1726793",
@@ -64187,12 +63071,6 @@
       "title": "The Sex Addict",
       "detail_url": "http://103.203.93.2/video-details/1732491",
       "published_date": "20-Nov-2026 01:03:21am"
-    },
-    {
-      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Cold.Call.(.2026.Dual.720p.HEVC/nARglbGFgqIwxxlsIZUrJCQI4lp-185x278.jpg",
-      "title": "Cold.Call.(.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1738687",
-      "published_date": "20-Nov-2026 01:03:20am"
     },
     {
       "thumbnail": "http://103.203.93.6/Chinawood (China)/2025/The Man Named Leopard.2019.Hi.720p/raZ9B7tD6NyHwsWNIh3U13slwCw-185x278.jpg",
@@ -64609,34 +63487,10 @@
       "published_date": "19-Nov-2026 11:55:57pm"
     },
     {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Snake 5 Monster City (2026) Dual 720p/zNylFqyrmXiCSQ8x62ezq702wsV-185x278.jpg",
-      "title": "Snake 5 Monster City (2026) Dual 720p",
-      "detail_url": "http://103.203.93.2/video-details/1728073",
-      "published_date": "19-Nov-2026 11:54:17pm"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Maa Inti Bangaram (2026) (Hindi + Telugu) Dual Audio UnCut South Movie HEVC 720p/v8JvcEmBfszcvEzwlB8FN1aPVaK-185x278.jpg",
-      "title": "Maa Inti Bangaram (2026) (Hindi + Telugu) Dual Audio UnCut South Movie HEVC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1728016",
-      "published_date": "19-Nov-2026 11:51:04pm"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2018/Johnny English Strikes Again/MV5BZDI1ZWVhZGYtMjVjNS00ZDFiLWIzYWMtOTQxNzdkOGYwNjk3XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
       "title": "Johnny English Strikes Again",
       "detail_url": "http://103.203.93.2/video-details/1727023",
       "published_date": "19-Nov-2026 11:50:11pm"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Maa Inti Bangaram (2026) (Hindi + Telugu) Dual Audio UnCut South Movie HEVC 720p/v8JvcEmBfszcvEzwlB8FN1aPVaK-185x278.jpg",
-      "title": "Maa Inti Bangaram (2026) (Hindi + Telugu) Dual Audio UnCut South Movie HEVC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1745759",
-      "published_date": "19-Nov-2026 11:49:40pm"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/DC.2026.720p.HDTC.Hindi-LiNE.x265/8NrZDCxr13X8sR1woUTIYDnb4E0-185x278.jpg",
-      "title": "DC.2026.720p.HDTC.Hindi-LiNE.x265",
-      "detail_url": "http://103.203.93.2/video-details/1727972",
-      "published_date": "19-Nov-2026 11:49:30pm"
     },
     {
       "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Obsession 2026 Dual ORG 720p HEVC/d1AMBt6gxy7Yoz8rHqyCQgvoAXw-185x278.jpg",
@@ -64723,22 +63577,10 @@
       "published_date": "19-Nov-2026 10:00:32pm"
     },
     {
-      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/The Paradise 2026 Dual ORG 720p HEVC/b77d08RzTAg26wKGu5f0Q073gc5-185x278.jpg",
-      "title": "The Paradise 2026 Dual ORG 720p HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1744521",
-      "published_date": "19-Nov-2026 10:00:03pm"
-    },
-    {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2015/Justice League Throne of Atlantis/wjD6lr6vi9DIwwyDZaOjGpIbulu.jpg",
       "title": "Justice League Throne of Atlantis",
       "detail_url": "http://103.203.93.2/video-details/1726598",
       "published_date": "19-Nov-2026 09:56:01pm"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/The.Death.of.Robin.Hood.2026.720p.WEB-DL.HIN-ENG.x265/wOszWFRpvF3zipqoNA9wURRQZEc-185x278.jpg",
-      "title": "The.Death.of.Robin.Hood.2026.720p.WEB-DL.HIN-ENG.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745886",
-      "published_date": "19-Nov-2026 09:54:27pm"
     },
     {
       "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Humint.2026.Dual.720p.HEVC (1)/82bX2GK4PhaJQtfkTnfmd2P7erG-185x278.jpg",
@@ -64829,12 +63671,6 @@
       "title": "The.wrecking.crew.2026.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1736025",
       "published_date": "19-Nov-2026 08:35:16pm"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Snake 5 Monster City (2026) Dual 720p/zNylFqyrmXiCSQ8x62ezq702wsV-185x278.jpg",
-      "title": "Snake 5 Monster City (2026) Dual 720p",
-      "detail_url": "http://103.203.93.2/video-details/1745863",
-      "published_date": "19-Nov-2026 08:34:53pm"
     },
     {
       "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2022/Gumnaami/Gumnaami_Poster.jpg",
@@ -64933,12 +63769,6 @@
       "published_date": "19-Nov-2026 07:22:36pm"
     },
     {
-      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The.Snake.Girl.2025.720p.WEB-DL.HIN-Ch.x265/eTeVgBuyecQH5A7VLxpVjGNqxBJ-185x278.jpg",
-      "title": "The.Snake.Girl.2025.720p.WEB-DL.HIN-Ch.x265",
-      "detail_url": "http://103.203.93.2/video-details/1736440",
-      "published_date": "19-Nov-2026 07:21:13pm"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2018/The Favourite/fanart.jpg",
       "title": "The Favourite",
       "detail_url": "http://103.203.93.2/video-details/1733139",
@@ -65015,12 +63845,6 @@
       "title": "Colony.2026.Multi.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735771",
       "published_date": "19-Nov-2026 05:01:11pm"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/The End of Oak Street 2026 V2 Hindi HDTC 720p/cjQhMndu9sQoUS9h11B0w02mWaL-185x278.jpg",
-      "title": "The End of Oak Street 2026 V2 Hindi HDTC 720p",
-      "detail_url": "http://103.203.93.2/video-details/1745880",
-      "published_date": "19-Nov-2026 04:51:16pm"
     },
     {
       "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2022/Momentum/rStxrJBaWs3oNQfnQn4LKzG1lQ9.jpg",
@@ -65147,12 +63971,6 @@
       "title": "Crossfire",
       "detail_url": "http://103.203.93.2/video-details/1727608",
       "published_date": "19-Nov-2026 03:33:29pm"
-    },
-    {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/LENiN.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265/image-2026-08-19T213128.803-185x278.png",
-      "title": "LENiN.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745747",
-      "published_date": "19-Nov-2026 03:20:06pm"
     },
     {
       "thumbnail": "http://103.203.93.19/War Movie/2023/Yaathisai/eFczmRIOQqsxgcihXxpPZYWMKog.jpg",
@@ -65737,12 +64555,6 @@
       "published_date": "19-Nov-2026 11:23:57am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Wrangler.2026.Dual.720p.HEVC/k580gLw5GJLBBfFSp2DrMfrziwF-185x278.jpg",
-      "title": "Wrangler.2026.Dual.720p.HEVC",
-      "detail_url": "http://103.203.93.2/video-details/1745121",
-      "published_date": "19-Nov-2026 11:23:43am"
-    },
-    {
       "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2025/Dark World (2024)/MV5BZTRiMGNmNWUtZDJlNS00NGFmLTk0MDktYWE5MzdlOTBiYzUzXkEyXkFqcGc@._V1_SX300.jpg",
       "title": "Dark World (2024)",
       "detail_url": "http://103.203.93.2/video-details/1744851",
@@ -66217,12 +65029,6 @@
       "published_date": "19-Nov-2026 07:56:06am"
     },
     {
-      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Facing.El.Chapo.2026.720p.WEB-DL.Hindi-English.ESub.x265/alpf5v4UqSFawPmG9RX03Or4BDk-185x278.jpg",
-      "title": "Facing.El.Chapo.2026.720p.WEB-DL.Hindi-English.ESub.x265",
-      "detail_url": "http://103.203.93.2/video-details/1745696",
-      "published_date": "19-Nov-2026 07:56:03am"
-    },
-    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2007/The Last Legion/k2jaEoOsTEMqSskBJm3gfcuxNEc.jpg",
       "title": "The Last Legion",
       "detail_url": "http://103.203.93.2/video-details/1731247",
@@ -66473,12 +65279,6 @@
       "title": "Protector.2025.Dual.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1728056",
       "published_date": "19-Nov-2026 07:52:37am"
-    },
-    {
-      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/In.the.Grey.2026.720p.BluRay.HIN-ENG.x265/dQgIcW6Th08kMRf2HBoYWoFE6OD-185x278.jpg",
-      "title": "In.the.Grey.2026.720p.BluRay.HIN-ENG.x265",
-      "detail_url": "http://103.203.93.2/video-details/1727998",
-      "published_date": "19-Nov-2026 07:52:35am"
     },
     {
       "thumbnail": "http://103.203.93.6/Gaulywood (Franch)/2002/The Dancer Upstairs/jG662jKzEf63fhcbbN3WiLlz5MX.jpg",
@@ -73105,6 +71905,12 @@
       "published_date": "12-Nov-2026 09:38:53pm"
     },
     {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point S05E129-134 Bengali BongoBD 720p/bachelor-point-2025-s05e129-13_DCbXqNVt.jpg",
+      "title": "Bachelor Point S05E129-134 Bengali BongoBD 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744915",
+      "published_date": "12-Nov-2026 09:36:47pm"
+    },
+    {
       "thumbnail": "http://103.203.93.3/Hollywood (English)/2025/Superman.2025.Dual.Hi-Clean.En.WEB-DL.720p.HEVC/4LTdA4KDk7t3atvb3bBTg4BC71j-185x278.jpg",
       "title": "Superman.2025.Dual.Hi-Clean.En.WEB-DL.720p.HEVC",
       "detail_url": "http://103.203.93.2/video-details/1735646",
@@ -73211,6 +72017,1205 @@
       "title": "Nobody 2 2025 TELESYNC English 720p",
       "detail_url": "http://103.203.93.2/video-details/1735597",
       "published_date": "09-Nov-2026 04:56:30pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Ramayana.2026.1080p.HEVC.HDTC.Hindi-LiNE.x265/hX94xNPYwazKOVGGqL1GiwMSNuY-185x278.jpg",
+      "title": "Ramayana.2026.1080p.HEVC.HDTC.Hindi-LiNE.x265",
+      "detail_url": "http://103.203.93.2/video-details/1744503",
+      "published_date": "09-Nov-2026 04:39:47pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Ka Kha Ga Gha (2018)  Bengali 720p/MV5BZmViYmI1NjItOWQwYi00N2IwLTlhYmMtNmY4NTUyMmVhNjFhXkEyXkFqcGc@._V1_SX300.jpg",
+      "title": "Ka Kha Ga Gha (2018)  Bengali 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746231",
+      "published_date": "09-Nov-2026 03:02:10pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Alaap (2024)  Bengali Hoichoi 720p/alaap-2024-bengali-hoichoi-web_GJZeFw87.jpg",
+      "title": "Alaap (2024)  Bengali Hoichoi 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746199",
+      "published_date": "09-Nov-2026 03:01:26pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Godzilla.Minus.Zero.2026.PRE-HD.ENG.720p/hSmIJluOJmTWvJs4d7kHRxjc8s8-185x278.jpg",
+      "title": "Godzilla.Minus.Zero.2026.PRE-HD.ENG.720p",
+      "detail_url": "http://103.203.93.2/video-details/1736400",
+      "published_date": "09-Nov-2026 02:45:14pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Godzilla.Minus.One.2023.Dual.720p.HEVC/2piGWfFpOAVnw8IVUGczYAOTKYk-185x278.jpg",
+      "title": "Godzilla.Minus.One.2023.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1736399",
+      "published_date": "09-Nov-2026 02:44:56pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Possible.Love.2026.720p.WEB-DL.HIN-ENG-KOR.x264/1ERGPNiKtnEcsvJS1ywsmqmcIDO-185x278.jpg",
+      "title": "Possible.Love.2026.720p.WEB-DL.HIN-ENG-KOR.x264",
+      "detail_url": "http://103.203.93.2/video-details/1745113",
+      "published_date": "09-Nov-2026 02:43:37pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Im.Game.2026.Dual.720p.HEVC/80Ift3zuYFz3iDpI2TqytWMPHJe-185x278.jpg",
+      "title": "Im.Game.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738739",
+      "published_date": "09-Nov-2026 02:41:55pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Racharikam.2025.Dual.720p.HEVC/pkFcU2Y3gEWPrm5QXCPlBE0PErq-185x278.jpg",
+      "title": "Racharikam.2025.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738832",
+      "published_date": "09-Nov-2026 02:41:37pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Mahendragiri.Vaaraahi.2026.Dual.720p.HEVC/hYfu1SIE1wViNVPT0zdlqTwpPeb-185x278.jpg",
+      "title": "Mahendragiri.Vaaraahi.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738785",
+      "published_date": "09-Nov-2026 02:41:22pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Oh.Sukumari.2026.Dual.720p.HEVC/jTJ7ML9wtt4AGaJHCNxFqwU4MJI-185x278.jpg",
+      "title": "Oh.Sukumari.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738810",
+      "published_date": "09-Nov-2026 02:41:07pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/The.100.2025.Dual.720p.HEVC/vY7OxwSmJdrdcNWVyimkly12ufe-185x278.jpg",
+      "title": "The.100.2025.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738867",
+      "published_date": "09-Nov-2026 02:40:50pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Anakapalli.2026.720p.WEB-DL.Hindi.ORG-Telugu.ESub.x265/ApPj1Gj7FhO10YUF3axKMhkjuTT-185x278.jpg",
+      "title": "Anakapalli.2026.720p.WEB-DL.Hindi.ORG-Telugu.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1738656",
+      "published_date": "09-Nov-2026 02:40:33pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/The.Dark.Heaven.2026.Dual.720p.HEVC/xFr0Q7j2JmOwBJnvImIgTAWBk4U-185x278.jpg",
+      "title": "The.Dark.Heaven.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738868",
+      "published_date": "09-Nov-2026 02:16:42pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Jailer-2.2026.720p.V2-HDTC.Hindi.x265/upwdEyhhYZ7pT2hD535fr2MGfpx-185x278.jpg",
+      "title": "Jailer-2.2026.720p.V2-HDTC.Hindi.x265",
+      "detail_url": "http://103.203.93.2/video-details/1738743",
+      "published_date": "09-Nov-2026 02:16:18pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Scene.2026.720p.HDTC.Tamil.Clean.x264/kfc4w3OX8QsFm8f9MPUdmGheNl3-185x278.jpg",
+      "title": "Scene.2026.720p.HDTC.Tamil.Clean.x264",
+      "detail_url": "http://103.203.93.2/video-details/1738849",
+      "published_date": "09-Nov-2026 02:15:55pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Madraskaaran.2025.Dual.720p.HEVC/zw4imaAGB8cWa4mrwABxHiVS0KR-185x278.jpg",
+      "title": "Madraskaaran.2025.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738781",
+      "published_date": "09-Nov-2026 02:15:36pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Nooru.Kodi.Vaanavil.2026.720p.WEB-DL.Hindi-Tamil.ESub.x265/gSJodOp12s5qFU3pO9Cz1sjQSYZ-185x278.jpg",
+      "title": "Nooru.Kodi.Vaanavil.2026.720p.WEB-DL.Hindi-Tamil.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1738807",
+      "published_date": "09-Nov-2026 02:15:19pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Meesaya.Murukku.2.2026.720p.WEB-DL.Hindi-Tamil.ESub.x265/qD1QwmInB9ezd2peVb5EbhaM4Mo-185x278.jpg",
+      "title": "Meesaya.Murukku.2.2026.720p.WEB-DL.Hindi-Tamil.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1738791",
+      "published_date": "09-Nov-2026 02:14:50pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Heart.of.the.Beast.2026.720p.DS4K.WEB-DL.Hindi-English.ESub.x265/6sYemVUn79UPKz1ZsSG6kPU4RVy-185x278.jpg",
+      "title": "Heart.of.the.Beast.2026.720p.DS4K.WEB-DL.Hindi-English.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1735822",
+      "published_date": "09-Nov-2026 02:07:08pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Godzilla.Minus.Zero.2026.PRE-HD.ENG.720p/hSmIJluOJmTWvJs4d7kHRxjc8s8-185x278.jpg",
+      "title": "Godzilla.Minus.Zero.2026.PRE-HD.ENG.720p",
+      "detail_url": "http://103.203.93.2/video-details/1735814",
+      "published_date": "09-Nov-2026 02:06:50pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Odyssey.2026.720p.iMAX.BluRay.HIN-Line-English.ORG.ESubs.x265/5rhTDKUhPYvpdQIijFIs5VoWsON-185x278.jpg",
+      "title": "The.Odyssey.2026.720p.iMAX.BluRay.HIN-Line-English.ORG.ESubs.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736007",
+      "published_date": "09-Nov-2026 02:06:27pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Frequency.of.Fear.2026.720p.WEB-DL.HIN-ENG.x264/zzxWBdkOWDzOhUD7BdpKKlylAMn-185x278.jpg",
+      "title": "Frequency.of.Fear.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1735809",
+      "published_date": "09-Nov-2026 02:05:30pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Mongoose.2026.720p.WEB-DL.HIN-ENG.x264/eSS5mvSG84UUuvtbHel5Yu3Wik4-185x278.jpg",
+      "title": "The.Mongoose.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1736005",
+      "published_date": "09-Nov-2026 02:03:56pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Primetime.2026.720p.10bit.WEBRip.6CH.x265.HEVC/lmrulvLbmaejTix1YaMxo1oGhH1-185x278.jpg",
+      "title": "Primetime.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1735907",
+      "published_date": "09-Nov-2026 02:03:31pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Sense.and.Sensibility.2026.720p.10bit.WEB-DL.ENG.x265/ySkfsMQxSVokn5zYavQByFDrzsy-185x278.jpg",
+      "title": "Sense.and.Sensibility.2026.720p.10bit.WEB-DL.ENG.x265",
+      "detail_url": "http://103.203.93.2/video-details/1735944",
+      "published_date": "09-Nov-2026 02:03:05pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Beware.Boiuna.2026.720p.10bit.WEBRip.6CH.x265.HEVC/uW5YMPxJUzT9bkafrCKHXjPTCoQ-185x278.jpg",
+      "title": "Beware.Boiuna.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1735759",
+      "published_date": "09-Nov-2026 02:02:45pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Your.Mother.Your.Mother.Your.Mother.2026.720p.10bit.WEBRip.6CH.x265.HEVC/4KaPZSKnInnArErTTgy9Oy14leR-185x278.jpg",
+      "title": "Your.Mother.Your.Mother.Your.Mother.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1736058",
+      "published_date": "09-Nov-2026 02:02:26pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Resident.Evil.2026.720p.WEB-DL.Hindi.ORG-English.ESub.x265/oRHuTPN8f5POBWKMM7zWizqhN8E-185x278.jpg",
+      "title": "Resident.Evil.2026.720p.WEB-DL.Hindi.ORG-English.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1735922",
+      "published_date": "09-Nov-2026 02:02:10pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Punisher-One.Last.Kill.2026.720p.DS4K.WEB-DL.Hindi.Studio-Dub-English.ESub.x265/gArZbIMADv6PIxwp3lQyvONAp3N-185x278.jpg",
+      "title": "The.Punisher-One.Last.Kill.2026.720p.DS4K.WEB-DL.Hindi.Studio-Dub-English.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736008",
+      "published_date": "09-Nov-2026 02:01:50pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Im.Game.2026.Dual.720p.HEVC/80Ift3zuYFz3iDpI2TqytWMPHJe-185x278.jpg",
+      "title": "Im.Game.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744444",
+      "published_date": "09-Nov-2026 01:56:27pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/The.Vvaan.2026.720p.DS4K.Hindi.WEB-DL.ESub..x265/zBkOqt65B1MPUCSa6t2d9IzmICN-185x278.jpg",
+      "title": "The.Vvaan.2026.720p.DS4K.Hindi.WEB-DL.ESub..x265",
+      "detail_url": "http://103.203.93.2/video-details/1744533",
+      "published_date": "09-Nov-2026 01:56:13pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Last.Man.In.Tower.2026.WEB-DL.720p.HEVC/hbsXYxMLJbMFgaCZ1deFpGiMUI1-185x278.jpg",
+      "title": "Last.Man.In.Tower.2026.WEB-DL.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744456",
+      "published_date": "09-Nov-2026 01:55:59pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Bhai Tera Star Hai 2026 WEB-DL 720p HEVC/qx7PVlFrbgrEihr7P6KQOgQnDTG-185x278.jpg",
+      "title": "Bhai Tera Star Hai 2026 WEB-DL 720p HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744375",
+      "published_date": "09-Nov-2026 01:55:44pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Dilwali.Diwali.2026.720p.NF.WEB-DL.Hindi.DDP2.0.H.265/cV31QO65DA6mk4Hd6S7QncVq85T-185x278.jpg",
+      "title": "Dilwali.Diwali.2026.720p.NF.WEB-DL.Hindi.DDP2.0.H.265",
+      "detail_url": "http://103.203.93.2/video-details/1744403",
+      "published_date": "09-Nov-2026 01:55:29pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Raas (2025)  Bengali WEB-DL 720p/MV5BMWNlY2E4ZmEtMTgwMy00YjZkLTgxNTQtZmU5NTc0MTJmNDAzXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "title": "Raas (2025)  Bengali WEB-DL 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746254",
+      "published_date": "03-Nov-2026 02:34:24pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Dhrubor Aschorjo Jibon (2025)  Bengali Zee5 720p.mkv/dhrubor-aschorjo-jibon-2025-be_pCUK0YCi.jpg",
+      "title": "Dhrubor Aschorjo Jibon (2025)  Bengali Zee5 720p.mkv",
+      "detail_url": "http://103.203.93.2/video-details/1746219",
+      "published_date": "03-Nov-2026 02:31:25pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Cafe Umbrella (2026) Bengali iScreen 720p/cafe-umbrella-2026-bengali-isc_5H1Qa8JR.jpg",
+      "title": "Cafe Umbrella (2026) Bengali iScreen 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744924",
+      "published_date": "02-Nov-2026 07:04:40pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Bohurupi The Golden Daku (2026) Bengali HDTC 720p.mkv/bohurupi-the-golden-daku-2026-_2udQLsfz.jpg",
+      "title": "Bohurupi The Golden Daku (2026) Bengali HDTC 720p.mkv",
+      "detail_url": "http://103.203.93.2/video-details/1746209",
+      "published_date": "02-Nov-2026 06:55:06pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Winkle Twinkle (2026) Bengali Hoichoi 720p.mkv/winkle-twinkle-2026-bengali-ho_nEfpYLMF.jpg",
+      "title": "Winkle Twinkle (2026) Bengali Hoichoi 720p.mkv",
+      "detail_url": "http://103.203.93.2/video-details/1746275",
+      "published_date": "02-Nov-2026 06:54:03pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Police (2025) Bengali HDTV-Rip 720p/MV5BMzA3MzBkZTctNjg0NS00ZDg0LWFmZjEtNWU3NGJhNWY5NmRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "title": "Police (2025) Bengali HDTV-Rip 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746248",
+      "published_date": "02-Nov-2026 06:53:18pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/DeSu7 (2026) Bengali HDTC 720p/MV5BZWYzNGY0YmEtNWYwNC00YzkyLTk4M2YtZDIxMTgxZWM3OGJmXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UY563_CR172,0,1000,563_.jpg",
+      "title": "DeSu7 (2026) Bengali HDTC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746218",
+      "published_date": "02-Nov-2026 06:52:43pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Emperor vs Sarat Chandra (2026) Bengali HDTC 720p/smmca4zD32XDKGn0MFeorKw6kX2.jpg",
+      "title": "Emperor vs Sarat Chandra (2026) Bengali HDTC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746221",
+      "published_date": "02-Nov-2026 06:52:06pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Haati Haati Paa Paa (2025) Bengali Zee5 720p/MV5BODhmMjc5NjUtNmIyMy00MjIzLWJhZGYtZDU2ZjcyM2ZmZjUyXkEyXkFqcGc@._V1_SX300.jpg",
+      "title": "Haati Haati Paa Paa (2025) Bengali Zee5 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746223",
+      "published_date": "02-Nov-2026 06:51:21pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/BB Bakshi (2026) Bengali Fridaay WEB-DL H264 AAC 720p/bb-bakshi-2026-bengali-fridaay_bIT4HbN5.jpg",
+      "title": "BB Bakshi (2026) Bengali Fridaay WEB-DL H264 AAC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746201",
+      "published_date": "02-Nov-2026 06:49:04pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Tarpan (2026) Bengali Fridaay WEB-DL H264 AAC 720p/tarpan-2026-bengali-fridaay-we_CHBUeNIA.jpg",
+      "title": "Tarpan (2026) Bengali Fridaay WEB-DL H264 AAC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746265",
+      "published_date": "02-Nov-2026 06:43:42pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Doraemon.New.Nobita.and.the.Castle.of.the.Undersea.Devil.2026.720p.BluRay.Hindi.LiNE-Japanese.x264/gdllrWFb9ffvGkCDQAflrdnTaAg-185x278.jpg",
+      "title": "Doraemon.New.Nobita.and.the.Castle.of.the.Undersea.Devil.2026.720p.BluRay.Hindi.LiNE-Japanese.x264",
+      "detail_url": "http://103.203.93.2/video-details/1744691",
+      "published_date": "02-Nov-2026 05:46:31pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Forgotten.Island.2026.720p.WEB-DL.HIN-ENG.x264/myd1K3gefdNAWFsGNRDdMeiK9Qg-185x278.jpg",
+      "title": "Forgotten.Island.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1744692",
+      "published_date": "02-Nov-2026 05:45:55pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/A.Love.Story.of.Assassin.2024.720p.WEB-DL.HIN.x265/a29kiriUqflbDlbcI1xd9s8aXZd-185x278.jpg",
+      "title": "A.Love.Story.of.Assassin.2024.720p.WEB-DL.HIN.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736380",
+      "published_date": "02-Nov-2026 05:34:05pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The.Shallows.2025.720p.WEB-DL.HIN-CHI.x264/tTEvvi93axTduN31rpAeuCWXm4S-185x278.jpg",
+      "title": "The.Shallows.2025.720p.WEB-DL.HIN-CHI.x264",
+      "detail_url": "http://103.203.93.2/video-details/1736439",
+      "published_date": "02-Nov-2026 05:33:48pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Avarachan.and.Sons.2026.720p.WEB-DL.Hindi-Malayalam.ESub.x265/xFCMObAyeWE7iWFH30XNiOjcWsv-185x278.jpg",
+      "title": "Avarachan.and.Sons.2026.720p.WEB-DL.Hindi-Malayalam.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1738666",
+      "published_date": "02-Nov-2026 05:30:29pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Dhoomakethu.2026.720p.DS4K.WEB-DL.Hindi-Malayalam.ESub.x265/kZCKwhUx7r9HRDqpGbavdMtd8f5-185x278.jpg",
+      "title": "Dhoomakethu.2026.720p.DS4K.WEB-DL.Hindi-Malayalam.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1738699",
+      "published_date": "02-Nov-2026 05:30:18pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Comrade.Kalyan.2026.Dual.720p.HEVC/pvRJWA4WnaoPeQ7Fs7G9P7EKu6h-185x278.jpg",
+      "title": "Comrade.Kalyan.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738688",
+      "published_date": "02-Nov-2026 05:30:02pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Dont.Trouble.the.Trouble.2026.Dual.720p/A0uqqpeLhGfOsW6muky7xvLd8Qf-185x278.jpg",
+      "title": "Dont.Trouble.the.Trouble.2026.Dual.720p",
+      "detail_url": "http://103.203.93.2/video-details/1738700",
+      "published_date": "02-Nov-2026 05:26:01pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/418.2026.720p.HDTC.Hindi.ORG.2.0.x265/thfU6DM9rFEWu9xiY9SXDunaMc3-185x278.jpg",
+      "title": "418.2026.720p.HDTC.Hindi.ORG.2.0.x265",
+      "detail_url": "http://103.203.93.2/video-details/1738648",
+      "published_date": "02-Nov-2026 05:25:28pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/The Paradise 2026 Dual ORG 720p HEVC/b77d08RzTAg26wKGu5f0Q073gc5-185x278.jpg",
+      "title": "The Paradise 2026 Dual ORG 720p HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738866",
+      "published_date": "02-Nov-2026 05:24:43pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Cocoons.2026.Dual.720p.HEVC/r0bpIupxdEk64Qm4kDbttQ8OQf8-185x278.jpg",
+      "title": "Cocoons.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738686",
+      "published_date": "02-Nov-2026 05:24:21pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Kollywood (Tamil)/2026/Cold.Call.(.2026.Dual.720p.HEVC/nARglbGFgqIwxxlsIZUrJCQI4lp-185x278.jpg",
+      "title": "Cold.Call.(.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1738687",
+      "published_date": "02-Nov-2026 05:23:53pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Apocalypse.Z.New.World.2026.720p.WEB-DL.HIN-ENG.x264/plu8tTviVZDO5jP7nzNXsDHLu8P-185x278.jpg",
+      "title": "Apocalypse.Z.New.World.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1735748",
+      "published_date": "02-Nov-2026 05:14:25pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Collision.Course.2026.720p.WEB-DL.HIN-ENG.x264/s2eAK0uiODjlNUSIiOBwdp3at2u-185x278.jpg",
+      "title": "Collision.Course.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1735770",
+      "published_date": "02-Nov-2026 05:13:10pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Strangers.Chapter.3.2026.720p.BluRay.HIN-ENG.x265/yPHwX78mcwJw3I6YOJ9qh2wQBFr-185x278.jpg",
+      "title": "The.Strangers.Chapter.3.2026.720p.BluRay.HIN-ENG.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736016",
+      "published_date": "02-Nov-2026 05:12:39pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/All.That.We.Never.Were.2026.720p.WEB-DL.HIN-SPA.x264/zqxIT48mWFsC4NSjGEHAcp1pjEo-185x278.jpg",
+      "title": "All.That.We.Never.Were.2026.720p.WEB-DL.HIN-SPA.x264",
+      "detail_url": "http://103.203.93.2/video-details/1735739",
+      "published_date": "02-Nov-2026 05:11:04pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Crawlers.2026.720p.BluRay.HIN-ENG.x264/lNXeEpg4yLSRwXwOeR5lbPgwbqL-185x278.jpg",
+      "title": "Crawlers.2026.720p.BluRay.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1735773",
+      "published_date": "02-Nov-2026 05:10:18pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Drive.-.The.Pretenders.2026.Dual.720p.HEVC/c6Gx7JTc8pYyW2WH7yLWj5Rx66I-185x278.jpg",
+      "title": "Drive.-.The.Pretenders.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1735789",
+      "published_date": "02-Nov-2026 05:09:57pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Runner.2026.720p.WEB-DL.Hindi.ORG-English.ESub.x265/yBKMAIj7clP42UkFejhGDBBoTpb-185x278.jpg",
+      "title": "Runner.2026.720p.WEB-DL.Hindi.ORG-English.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1735930",
+      "published_date": "02-Nov-2026 05:09:32pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/Verity.2026.720p.WEB-DL.HIN-ENG.x264/zPHfsaiMZT1HNz1ZS55iyLKZkFG-185x278.jpg",
+      "title": "Verity.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1736042",
+      "published_date": "02-Nov-2026 05:09:02pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.3/Hollywood (English)/2026/The.Dog.Stars.2026.720p.10bit.WEBRip.6CH.x265.HEVC/5O616X9vmRzQdB68PHzBewPittd-185x278.jpg",
+      "title": "The.Dog.Stars.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1735984",
+      "published_date": "02-Nov-2026 05:03:42pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Love.Story.Abhimanyu.Ki.2026.720p.HQ.HDTC.Hindi.x265/9Rvc5PqPJKOGv71Gg07TI7M1LD0-185x278.jpg",
+      "title": "Love.Story.Abhimanyu.Ki.2026.720p.HQ.HDTC.Hindi.x265",
+      "detail_url": "http://103.203.93.2/video-details/1744459",
+      "published_date": "02-Nov-2026 04:47:18pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Jhaad Phoonk 2026 Hindi WEB-DL 720p HEVC/1YP2UfkYtZP1n9O5fMZtZhFxmrO-185x278.jpg",
+      "title": "Jhaad Phoonk 2026 Hindi WEB-DL 720p HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744449",
+      "published_date": "02-Nov-2026 04:46:33pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/ZOMBEID.2026.WEB-DL.720p.HEVC/gy8Y1TELd0guAYcBP5QHnI7Xp6V-185x278.jpg",
+      "title": "ZOMBEID.2026.WEB-DL.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744549",
+      "published_date": "02-Nov-2026 04:46:01pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Nakhrewaalii (2026) Hindi HDTC 720p x265/oC8kSyOdioegcXl8OfcG6uctyK2-185x278.jpg",
+      "title": "Nakhrewaalii (2026) Hindi HDTC 720p x265",
+      "detail_url": "http://103.203.93.2/video-details/1744478",
+      "published_date": "02-Nov-2026 04:45:41pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Meethe.Mein.Kya.Hai.2026.720p.Hindi.WEB-DL.ESub.x265/xTJYIPjyuCbkc7zEtfAFJfVDSV5-185x278.jpg",
+      "title": "Meethe.Mein.Kya.Hai.2026.720p.Hindi.WEB-DL.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1744472",
+      "published_date": "02-Nov-2026 04:44:44pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Mirzapur.The.Movie.2026.WEB-DL.720p.HEVC/duaKd6Hx13P633GCmF9njjG0DfA-185x278.jpg",
+      "title": "Mirzapur.The.Movie.2026.WEB-DL.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744474",
+      "published_date": "02-Nov-2026 04:41:19pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Tum.Mere.Ho.2026.720p.HDTC.Hindi.x264/iQyd8w6xPjTrOeYImdt70EEQ0zv-185x278.jpg",
+      "title": "Tum.Mere.Ho.2026.720p.HDTC.Hindi.x264",
+      "detail_url": "http://103.203.93.2/video-details/1744541",
+      "published_date": "02-Nov-2026 04:37:25pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Tu.Hai.Meri.Kiran.2026.720p.HQ.HDTC.Hindi.x264/jjlqHKzDTPJXDl0eb77Q20Aipuc-185x278.jpg",
+      "title": "Tu.Hai.Meri.Kiran.2026.720p.HQ.HDTC.Hindi.x264",
+      "detail_url": "http://103.203.93.2/video-details/1744538",
+      "published_date": "02-Nov-2026 04:36:43pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Udta Teer (2026) Hindi HDTC 720p x265/tvICKypVlW7Iio4KVs7NousbSKi-185x278.jpg",
+      "title": "Udta Teer (2026) Hindi HDTC 720p x265",
+      "detail_url": "http://103.203.93.2/video-details/1744542",
+      "published_date": "02-Nov-2026 04:35:42pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Gajab.Raat.2026.720p.Hindi.WEB-DL.ESub.x265/e4N7M52cBbyi24xLga8yI6yt1u1-185x278.jpg",
+      "title": "Gajab.Raat.2026.720p.Hindi.WEB-DL.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1744417",
+      "published_date": "02-Nov-2026 04:35:20pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Pehla.Pyaar.Doosri.Baar.2026.720p.HDTC.Hindi.Clean.x264/tGS4b47RIpF3DTAkezHBqfYNTm2-185x278.jpg",
+      "title": "Pehla.Pyaar.Doosri.Baar.2026.720p.HDTC.Hindi.Clean.x264",
+      "detail_url": "http://103.203.93.2/video-details/1744494",
+      "published_date": "02-Nov-2026 04:31:20pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Sumo Didi 2023 720p HEVC/5OyBiBCntjiMYJTPAObvfeRWVzV-185x278.jpg",
+      "title": "Sumo Didi 2023 720p HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744510",
+      "published_date": "02-Nov-2026 04:16:19pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/Jeena Dil Se 2026 720p HEVC/pEsKzjFxuwvw67mBEfvQaH7yKP4-185x278.jpg",
+      "title": "Jeena Dil Se 2026 720p HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744447",
+      "published_date": "02-Nov-2026 04:15:51pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Bollywood (Hindi)/2026/The Paradise 2026 Dual ORG 720p HEVC/b77d08RzTAg26wKGu5f0Q073gc5-185x278.jpg",
+      "title": "The Paradise 2026 Dual ORG 720p HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744521",
+      "published_date": "02-Nov-2026 04:15:29pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point [S05E121-128]/98964ef3d8bcd886bdb6b41535242b77.jpg",
+      "title": "Bachelor Point [S05E121-128]",
+      "detail_url": "http://103.203.93.2/video-details/1744919",
+      "published_date": "20-Oct-2026 07:42:19pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Street Fighter (2026)/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+      "title": "Street Fighter (2026)",
+      "detail_url": "http://103.203.93.2/video-details/1745871",
+      "published_date": "19-Oct-2026 07:15:59pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Jailer-2.2026/upwdEyhhYZ7pT2hD535fr2MGfpx-185x278.jpg",
+      "title": "Jailer-2.2026",
+      "detail_url": "http://103.203.93.2/video-details/1745728",
+      "published_date": "16-Oct-2026 06:34:02pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/BB Bakshi (2026) Bengali Fridaay 720p/bb-bakshi-2026-bengali-fridaay_bIT4HbN5.jpg",
+      "title": "BB Bakshi (2026) Bengali Fridaay 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746200",
+      "published_date": "16-Oct-2026 06:28:30pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Vijaynagarer Hirey (2026) Bengali Hoichoi WEB-Rip 720p/MV5BM2VkNjEzOTUtYzJjYi00NjgyLWIyMjQtZWE3MGJmZDBjZjY1XkEyXkFqcGc@._V1_SX300.jpg",
+      "title": "Vijaynagarer Hirey (2026) Bengali Hoichoi WEB-Rip 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746273",
+      "published_date": "16-Oct-2026 06:27:55pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Fury.in.the.Shadows.2026.720p.WEB-DL.HIN-CHI.x264/emcP62P8kycuf5h3oovM3wwlt8n-185x278.jpg",
+      "title": "Fury.in.the.Shadows.2026.720p.WEB-DL.HIN-CHI.x264",
+      "detail_url": "http://103.203.93.2/video-details/1736398",
+      "published_date": "16-Oct-2026 06:13:44pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The.Butchers.Blade.2026.Dual.720p/8S3Tt4gQudJUsK9jKu5Gy1mDfvb-185x278.jpg",
+      "title": "The.Butchers.Blade.2026.Dual.720p",
+      "detail_url": "http://103.203.93.2/video-details/1736436",
+      "published_date": "16-Oct-2026 06:13:26pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Colony.2026.Multi.720p.HEVC/image-2026-05-25T152632.313-185x278.png",
+      "title": "Colony.2026.Multi.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745094",
+      "published_date": "16-Oct-2026 06:12:33pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Pressure Cooker (2026)  Bengali Hoichoi WEB-Rip 720p/pressure-cooker-2026-bengali-h_WUODsEYl.jpg",
+      "title": "Pressure Cooker (2026)  Bengali Hoichoi WEB-Rip 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744955",
+      "published_date": "09-Oct-2026 02:55:04pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Happily Married (2026)  Bengali Chorki WEB-Rip 720p/happily-married-2026-bengali-c_dyGNuRAe.jpg",
+      "title": "Happily Married (2026)  Bengali Chorki WEB-Rip 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744936",
+      "published_date": "09-Oct-2026 02:54:36pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Keu Bole Biplobi Keu Bole Dakat (2026)  Bengali Zee5 720p/MV5BMGE0YjViYzQtYmE5Mi00ZTNhLWJjNDctNmQzNGYxNzIzZGJiXkEyXkFqcGc@._V1_SX300.jpg",
+      "title": "Keu Bole Biplobi Keu Bole Dakat (2026)  Bengali Zee5 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746232",
+      "published_date": "09-Oct-2026 02:53:42pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Ip.Man.Kung.Fu.Legend.2026.720p.WEB-DL.Hindi-Chinese.ESub.x265/m3Low6jJrKXHSYFpXNkmYsG1Q6I-185x278.jpg",
+      "title": "Ip.Man.Kung.Fu.Legend.2026.720p.WEB-DL.Hindi-Chinese.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736406",
+      "published_date": "04-Oct-2026 05:53:07pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Mayar Jonjal (2026)  Bengali Chorki WEB-Rip 1080p/mayar-jonjal-2026-bengali-chor_DkgauR2k.jpg",
+      "title": "Mayar Jonjal (2026)  Bengali Chorki WEB-Rip 1080p",
+      "detail_url": "http://103.203.93.2/video-details/1746237",
+      "published_date": "04-Oct-2026 03:52:07pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Jallad The Warrior (2026) Bengali Klikk 720p/jallad-the-warrior-2026-bengal_6axvfjjO.jpg",
+      "title": "Jallad The Warrior (2026) Bengali Klikk 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746226",
+      "published_date": "04-Oct-2026 03:51:21pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Malik (2026)  Bengali Utshob WEB-Rip 1080p/malik-2026-bengali-utshob-web-_9i4k1IkO.jpg",
+      "title": "Malik (2026)  Bengali Utshob WEB-Rip 1080p",
+      "detail_url": "http://103.203.93.2/video-details/1744944",
+      "published_date": "04-Oct-2026 03:49:48pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/PAW.Patrol-The.Dino.Movie.2026.720p.WEB-DL.Hindi-English.ESub.x265/qnin56Syy5rbG7KCaxWY7SPuy6p-185x278.jpg",
+      "title": "PAW.Patrol-The.Dino.Movie.2026.720p.WEB-DL.Hindi-English.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1744704",
+      "published_date": "24-Sep-2026 04:42:38pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe (2026) 720p NF WEB-DL Multi Audio/6YkVpc9Dn1L2FHNlLOybpSKeGc7-185x278.jpg",
+      "title": "Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe (2026) 720p NF WEB-DL Multi Audio",
+      "detail_url": "http://103.203.93.2/video-details/1744699",
+      "published_date": "24-Sep-2026 04:41:58pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Boonie.Bears.The.Hidden.Protector.2026.720p.HEVC-AMZN.WEB-DL-[HIN-ENG]/sB9XfdUgWuqxMRUFtQ1m2HEpmZV-185x278.jpg",
+      "title": "Boonie.Bears.The.Hidden.Protector.2026.720p.HEVC-AMZN.WEB-DL-[HIN-ENG]",
+      "detail_url": "http://103.203.93.2/video-details/1744685",
+      "published_date": "24-Sep-2026 04:41:22pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Sweet.Bodyguard.2022.720p.WEB-DL.HIN-CHI.x264/pqJTduvOw0P2mlPugu2MWn199FA-185x278.jpg",
+      "title": "Sweet.Bodyguard.2022.720p.WEB-DL.HIN-CHI.x264",
+      "detail_url": "http://103.203.93.2/video-details/1736428",
+      "published_date": "24-Sep-2026 04:33:35pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The.Bodyguard.2024.720p.WEB-DL.HIN-ENG.x264/xbMFxU9EeAmOFAByonIGFYD9szx-185x278.jpg",
+      "title": "The.Bodyguard.2024.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1736435",
+      "published_date": "24-Sep-2026 04:33:18pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Matchless.Hero.Fang.Shiyu.2019.720p.10Bit.WEB-DL.Hindi-Chinese.HEVC.x265/wiYK5H7Ws9GA5iZ1jcl8gFecmMP-185x278.jpg",
+      "title": "Matchless.Hero.Fang.Shiyu.2019.720p.10Bit.WEB-DL.Hindi-Chinese.HEVC.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736411",
+      "published_date": "24-Sep-2026 04:33:02pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Hope.2026.720p.Korean.AAC.HDTS/bcK5naYzzfY0JBCgrPrsrbV6NO1-185x278.jpg",
+      "title": "Hope.2026.720p.Korean.AAC.HDTS",
+      "detail_url": "http://103.203.93.2/video-details/1745101",
+      "published_date": "24-Sep-2026 04:31:04pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Salmokji.Whispering.Water.2026.720p.WEB-DL.Hindi-Korean.ESub.x265/5qjgrlLwYaoU0yjeC77QVE24vOY-185x278.jpg",
+      "title": "Salmokji.Whispering.Water.2026.720p.WEB-DL.Hindi-Korean.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745115",
+      "published_date": "24-Sep-2026 04:30:45pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point [S05E113-120]/812255402_958026590015784_6384042262925488223_n-240x300.jpg",
+      "title": "Bachelor Point [S05E113-120]",
+      "detail_url": "http://103.203.93.2/video-details/1744918",
+      "published_date": "18-Sep-2026 12:41:40pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Ultorath (2026) Bengali Fridaay 720p/Capture.JPG",
+      "title": "Ultorath (2026) Bengali Fridaay 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746270",
+      "published_date": "24-Aug-2026 07:08:13pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/K Secret Eye (2017) Bengali Amazon WEB-Rip 720p/Capture.JPG",
+      "title": "K Secret Eye (2017) Bengali Amazon WEB-Rip 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746230",
+      "published_date": "24-Aug-2026 07:07:29pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Tollywood (Kolkata)/2026/Chhaya O Chhobi (2017) Bengali Amazon WEB-Rip 720p/MV5BZjU5MGI4NmQtM2E1OS00ZTdkLWI5ZWMtOWMwYmFhYjkyYjgwXkEyXkFqcGc@._V1_.jpg",
+      "title": "Chhaya O Chhobi (2017) Bengali Amazon WEB-Rip 720p",
+      "detail_url": "http://103.203.93.2/video-details/1746215",
+      "published_date": "24-Aug-2026 07:07:04pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Jongom (2023) Bengali Amazon 720p/Capture.JPG",
+      "title": "Jongom (2023) Bengali Amazon 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744939",
+      "published_date": "24-Aug-2026 07:05:26pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Insaaf (2025) Bengali Utshob 720p/insaaf-2025-bengali-utshob-web_LmOsNjPY.jpg",
+      "title": "Insaaf (2025) Bengali Utshob 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744938",
+      "published_date": "24-Aug-2026 07:04:18pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Green Card (2024) Bengali WEBRip 720p/MV5BZDcxMzQxZWItZmMxOS00YmQ0LWFkYzgtODM0ZWE2YTk5MmEzXkEyXkFqcGc@._V1_.jpg",
+      "title": "Green Card (2024) Bengali WEBRip 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744934",
+      "published_date": "24-Aug-2026 07:03:48pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/7 Dogs (2026) HIndi HDTC 720p x265/image-2026-08-22T165410.852-185x278.png",
+      "title": "7 Dogs (2026) HIndi HDTC 720p x265",
+      "detail_url": "http://103.203.93.2/video-details/1727952",
+      "published_date": "24-Aug-2026 06:54:57pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/LENiN.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265/image-2026-08-19T213128.803-185x278.png",
+      "title": "LENiN.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1728013",
+      "published_date": "24-Aug-2026 06:54:36pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Facing.El.Chapo.2026.720p.WEB-DL.Hindi-English.ESub.x265/alpf5v4UqSFawPmG9RX03Or4BDk-185x278.jpg",
+      "title": "Facing.El.Chapo.2026.720p.WEB-DL.Hindi-English.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1727988",
+      "published_date": "24-Aug-2026 06:54:17pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Welcome.to.The.Jungle.2026.Hindi.WEB-DL.720p.HEVC/1JlfUuvvX5xLP2LIDah4JhWUtTx-185x278.jpg",
+      "title": "Welcome.to.The.Jungle.2026.Hindi.WEB-DL.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1728109",
+      "published_date": "24-Aug-2026 06:54:03pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Snake 5 Monster City (2026) Dual 720p/zNylFqyrmXiCSQ8x62ezq702wsV-185x278.jpg",
+      "title": "Snake 5 Monster City (2026) Dual 720p",
+      "detail_url": "http://103.203.93.2/video-details/1728073",
+      "published_date": "24-Aug-2026 06:53:04pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Mutny.2026.720p.WEB-DL.x265/pu2VxGlpGwffOx292w18b1tv96j-185x278.jpg",
+      "title": "Mutny.2026.720p.WEB-DL.x265",
+      "detail_url": "http://103.203.93.2/video-details/1728037",
+      "published_date": "24-Aug-2026 06:51:16pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Batwara 1947 (2026) Hindi HDTC 720p x265/u4qctwtUwTEnA1gqQhM84MUygXp-185x278.jpg",
+      "title": "Batwara 1947 (2026) Hindi HDTC 720p x265",
+      "detail_url": "http://103.203.93.2/video-details/1727962",
+      "published_date": "24-Aug-2026 06:50:58pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Heartin.2026.720p.DS4K.WEB-DL.Hindi-Tamil.ESub.x265/7xvMocNLZov64aOU1X3BRWawjD7-185x278.jpg",
+      "title": "Heartin.2026.720p.DS4K.WEB-DL.Hindi-Tamil.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745715",
+      "published_date": "24-Aug-2026 06:45:45pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/The.Snake.Girl.2025.720p.WEB-DL.HIN-Ch.x265/eTeVgBuyecQH5A7VLxpVjGNqxBJ-185x278.jpg",
+      "title": "The.Snake.Girl.2025.720p.WEB-DL.HIN-Ch.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745907",
+      "published_date": "24-Aug-2026 06:39:29pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/7 Dogs (2026) HIndi HDTC 720p x265/image-2026-08-22T165410.852-185x278.png",
+      "title": "7 Dogs (2026) HIndi HDTC 720p x265",
+      "detail_url": "http://103.203.93.2/video-details/1745626",
+      "published_date": "24-Aug-2026 06:39:10pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Bury.The.Devil.2026.720p.WEB-DL.HIN-ENG.x264/oTwwCsmWvHxj2olhCB2VEGcDUXD-185x278.jpg",
+      "title": "Bury.The.Devil.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1745657",
+      "published_date": "24-Aug-2026 06:38:53pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Insidious-6.2026.720p.HDTC.Hindi-Multi.LiNE.HC-ESub.x265/4tTrW9dXCByS5wt2pXVWb58zNjz-185x278.jpg",
+      "title": "Insidious-6.2026.720p.HDTC.Hindi-Multi.LiNE.HC-ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745725",
+      "published_date": "24-Aug-2026 06:38:33pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/LENiN.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265/image-2026-08-19T213128.803-185x278.png",
+      "title": "LENiN.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745747",
+      "published_date": "24-Aug-2026 06:38:14pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Pyaar.Prema.Kalyanam.2026.Dual.720p.HEVC/image-2026-08-21T191612.968-185x240.png",
+      "title": "Pyaar.Prema.Kalyanam.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745827",
+      "published_date": "24-Aug-2026 06:37:27pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Facing.El.Chapo.2026.720p.WEB-DL.Hindi-English.ESub.x265/alpf5v4UqSFawPmG9RX03Or4BDk-185x278.jpg",
+      "title": "Facing.El.Chapo.2026.720p.WEB-DL.Hindi-English.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745696",
+      "published_date": "24-Aug-2026 06:37:11pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Chennai.Love.Story.2026.Dual.720p.HEVC/hACM25xigqIYeRgylB0epf34hmk-185x278.jpg",
+      "title": "Chennai.Love.Story.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745662",
+      "published_date": "24-Aug-2026 06:36:46pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Snake 5 Monster City (2026) Dual 720p/zNylFqyrmXiCSQ8x62ezq702wsV-185x278.jpg",
+      "title": "Snake 5 Monster City (2026) Dual 720p",
+      "detail_url": "http://103.203.93.2/video-details/1745863",
+      "published_date": "24-Aug-2026 06:36:28pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Srinivasa.Mangapuram.2026.Dual.720p.HEVC/7KnqSoNWrmPSSatvAnIGrTmJS3Q-185x278.jpg",
+      "title": "Srinivasa.Mangapuram.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745869",
+      "published_date": "24-Aug-2026 06:36:08pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Snake 5 Monster City (2026) Dual 720p/zNylFqyrmXiCSQ8x62ezq702wsV-185x278.jpg",
+      "title": "Snake 5 Monster City (2026) Dual 720p",
+      "detail_url": "http://103.203.93.2/video-details/1736425",
+      "published_date": "23-Aug-2026 05:47:47pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Somebody.2025.720p.WEB-DL.HIN-KOR.x264/9pNlDKn3TX67u8hHEZH4zkXPkTL-185x278.jpg",
+      "title": "Somebody.2025.720p.WEB-DL.HIN-KOR.x264",
+      "detail_url": "http://103.203.93.2/video-details/1745116",
+      "published_date": "23-Aug-2026 05:46:22pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point (2025) S05E105-112/Capture.JPG",
+      "title": "Bachelor Point (2025) S05E105-112",
+      "detail_url": "http://103.203.93.2/video-details/1744912",
+      "published_date": "21-Aug-2026 11:28:08am"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Monster Beach (2014)/Capture.JPG",
+      "title": "Monster Beach (2014)",
+      "detail_url": "http://103.203.93.2/video-details/1744700",
+      "published_date": "18-Aug-2026 02:40:19pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Malik (2026) Bengali Utshob 720p/malik-2026-bengali-utshob-web-_2MlujWpq.jpg",
+      "title": "Malik (2026) Bengali Utshob 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744945",
+      "published_date": "16-Aug-2026 07:32:23pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Kung Fu Soccer (2026) HDTS Chinese 720p ESUB/5skHR1T8URubqb30fk14njyPcy4-185x278.jpg",
+      "title": "Kung Fu Soccer (2026) HDTS Chinese 720p ESUB",
+      "detail_url": "http://103.203.93.2/video-details/1728012",
+      "published_date": "16-Aug-2026 07:28:37pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Johnny Jumper 2026 720p HEVC/vD6Q8CPglohe3KFj2DJRUHyp6Ql-185x278.jpg",
+      "title": "Johnny Jumper 2026 720p HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1728002",
+      "published_date": "16-Aug-2026 07:28:03pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/The.Death.of.Robin.Hood.2026.720p.WEB-DL.HIN-ENG.x265/wOszWFRpvF3zipqoNA9wURRQZEc-185x278.jpg",
+      "title": "The.Death.of.Robin.Hood.2026.720p.WEB-DL.HIN-ENG.x265",
+      "detail_url": "http://103.203.93.2/video-details/1728084",
+      "published_date": "16-Aug-2026 07:27:46pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Awarapan-2.2026.720p.HDTC.Hindi-LiNE.x265/image-2026-08-14T170926.338.png",
+      "title": "Awarapan-2.2026.720p.HDTC.Hindi-LiNE.x265",
+      "detail_url": "http://103.203.93.2/video-details/1727959",
+      "published_date": "16-Aug-2026 07:27:27pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/The End of Oak Street 2026 V2 Hindi HDTC 720p/cjQhMndu9sQoUS9h11B0w02mWaL-185x278.jpg",
+      "title": "The End of Oak Street 2026 V2 Hindi HDTC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1728082",
+      "published_date": "16-Aug-2026 07:26:36pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Maa Inti Bangaram (2026) (Hindi + Telugu) Dual Audio UnCut South Movie HEVC 720p/v8JvcEmBfszcvEzwlB8FN1aPVaK-185x278.jpg",
+      "title": "Maa Inti Bangaram (2026) (Hindi + Telugu) Dual Audio UnCut South Movie HEVC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1728016",
+      "published_date": "16-Aug-2026 07:26:25pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/SpiderMan-Brand.New.Day.2026.V3.HDTC.Dual.720p.HEVC/e5Tizwvtp6mTsnywfLOVyK34gCe-185x278.jpg",
+      "title": "SpiderMan-Brand.New.Day.2026.V3.HDTC.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1728077",
+      "published_date": "16-Aug-2026 07:26:13pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/DC.2026.720p.HDTC.Hindi-LiNE.x265/8NrZDCxr13X8sR1woUTIYDnb4E0-185x278.jpg",
+      "title": "DC.2026.720p.HDTC.Hindi-LiNE.x265",
+      "detail_url": "http://103.203.93.2/video-details/1727972",
+      "published_date": "16-Aug-2026 07:25:58pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Kattalan.2026.720p.DS4K.WEB-DL.Hindi.LiNE-Malayalam.ESub.x265/wT6qCmzLhYJ2ZZ4pxXRaTKxt1tu-185x278.jpg",
+      "title": "Kattalan.2026.720p.DS4K.WEB-DL.Hindi.LiNE-Malayalam.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1728009",
+      "published_date": "16-Aug-2026 07:25:43pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/In.the.Grey.2026.720p.BluRay.HIN-ENG.x265/dQgIcW6Th08kMRf2HBoYWoFE6OD-185x278.jpg",
+      "title": "In.the.Grey.2026.720p.BluRay.HIN-ENG.x265",
+      "detail_url": "http://103.203.93.2/video-details/1727998",
+      "published_date": "16-Aug-2026 07:25:01pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Beast.Race.aka.Corrida.Dos.Bichos.2026.720p.WEB-DL.HIN-ENG.x264/mwmfEqWXZG6HmAUuN5SjO8s7UNV-185x278.jpg",
+      "title": "Beast.Race.aka.Corrida.Dos.Bichos.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1727964",
+      "published_date": "16-Aug-2026 07:24:30pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Evil.Dead.Burn.720p.DS4K.WEB-DL.Hindi.LiNE-English.ESub.x265/snv0valEqljnwh0Su5qlH4fEbL-185x278.jpg",
+      "title": "Evil.Dead.Burn.720p.DS4K.WEB-DL.Hindi.LiNE-English.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1727985",
+      "published_date": "16-Aug-2026 07:23:56pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.19/Action Movie (Mixed)/2026/Beast.2026.Dual.720p.HEVC/7NrvUI3vnW8H3rD7ExKcTL7KRcQ-185x278.jpg",
+      "title": "Beast.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1727963",
+      "published_date": "16-Aug-2026 07:23:30pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/The.Death.of.Robin.Hood.2026.720p.WEB-DL.HIN-ENG.x265/wOszWFRpvF3zipqoNA9wURRQZEc-185x278.jpg",
+      "title": "The.Death.of.Robin.Hood.2026.720p.WEB-DL.HIN-ENG.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745886",
+      "published_date": "16-Aug-2026 07:10:33pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Euphoria.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265/iaCy5uKh3KZoKUcshNWEQUtSY9U-185x278.jpg",
+      "title": "Euphoria.2026.720p.DS4K.WEB-DL.Hindi.ORG-Telugu.ESub.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745690",
+      "published_date": "16-Aug-2026 07:10:14pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/The End of Oak Street 2026 V2 Hindi HDTC 720p/cjQhMndu9sQoUS9h11B0w02mWaL-185x278.jpg",
+      "title": "The End of Oak Street 2026 V2 Hindi HDTC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1745880",
+      "published_date": "16-Aug-2026 07:09:57pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/To.the.Max.2026.720p.WEB-DL.HIN-ENG-SPA.x264/xJc57uJHzsdr224J7jpZMqWNB98-185x278.jpg",
+      "title": "To.the.Max.2026.720p.WEB-DL.HIN-ENG-SPA.x264",
+      "detail_url": "http://103.203.93.2/video-details/1745916",
+      "published_date": "16-Aug-2026 07:09:37pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Dont.Say.Good.Luck.2026.720p.WEB-DL.HIN-ENG.x264/w3NNwo7kImaJS7fL6YlBsJx0i6R-185x278.jpg",
+      "title": "Dont.Say.Good.Luck.2026.720p.WEB-DL.HIN-ENG.x264",
+      "detail_url": "http://103.203.93.2/video-details/1745680",
+      "published_date": "16-Aug-2026 07:09:20pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Maa Inti Bangaram (2026) (Hindi + Telugu) Dual Audio UnCut South Movie HEVC 720p/v8JvcEmBfszcvEzwlB8FN1aPVaK-185x278.jpg",
+      "title": "Maa Inti Bangaram (2026) (Hindi + Telugu) Dual Audio UnCut South Movie HEVC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1745759",
+      "published_date": "16-Aug-2026 07:08:57pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hindi Dubbed Movies (All)/2026/Aroopi.2026.Dual.720p.HEVC/yLDuHm2QgsNHuENoBvOlDKRwMyF-185x278.jpg",
+      "title": "Aroopi.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745642",
+      "published_date": "16-Aug-2026 07:08:40pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Green.Snake.2025.720p.WEB-DL.HIN-CHI.x265/20tTrpT0kMNFRLsSXaeabgnRw1M-185x278.jpg",
+      "title": "Green.Snake.2025.720p.WEB-DL.HIN-CHI.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736402",
+      "published_date": "16-Aug-2026 05:27:01pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The.Snake.Girl.2025.720p.WEB-DL.HIN-Ch.x265/eTeVgBuyecQH5A7VLxpVjGNqxBJ-185x278.jpg",
+      "title": "The.Snake.Girl.2025.720p.WEB-DL.HIN-Ch.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736440",
+      "published_date": "16-Aug-2026 05:26:17pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Creation.of.the.Gods.II.Demon.Force.2025.720p.WEB-DL.HIN-CHI.x265/1v5ZteB49M0RUGYrf9R37Mz8yo2-185x278.jpg",
+      "title": "Creation.of.the.Gods.II.Demon.Force.2025.720p.WEB-DL.HIN-CHI.x265",
+      "detail_url": "http://103.203.93.2/video-details/1736387",
+      "published_date": "16-Aug-2026 05:25:56pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Creation.of.the.Gods.I.Kingdom.of.Storms.2023.Dual.720p.HEVC/dfUCs5HNtGu4fofh83uiE2Qcy3v-185x278.jpg",
+      "title": "Creation.of.the.Gods.I.Kingdom.of.Storms.2023.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1736386",
+      "published_date": "16-Aug-2026 05:25:35pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Island.Python.2025.Dual.720p.HEVC/yUPGig1XrF9OFZLkEp9pfoCJMc6-185x278.jpg",
+      "title": "Island.Python.2025.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1736407",
+      "published_date": "16-Aug-2026 05:25:14pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Kung Fu Soccer (2026) HDTS Chinese 720p ESUB/5skHR1T8URubqb30fk14njyPcy4-185x278.jpg",
+      "title": "Kung Fu Soccer (2026) HDTS Chinese 720p ESUB",
+      "detail_url": "http://103.203.93.2/video-details/1736410",
+      "published_date": "16-Aug-2026 05:24:56pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Shaolin Soccer (2001) Dual 720p/JxiBDG2TuahaVj9ODwQveWzlDv-185x278.jpg",
+      "title": "Shaolin Soccer (2001) Dual 720p",
+      "detail_url": "http://103.203.93.2/video-details/1736423",
+      "published_date": "16-Aug-2026 05:24:33pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Wrangler.2026.Dual.720p.HEVC/k580gLw5GJLBBfFSp2DrMfrziwF-185x278.jpg",
+      "title": "Wrangler.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745121",
+      "published_date": "16-Aug-2026 05:20:34pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Ghost.Mansion.2021.Dual.720p.HEVC/kxkgDPfk4cAR3EoFZOAGLve5nzm-185x278.jpg",
+      "title": "Ghost.Mansion.2021.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745097",
+      "published_date": "16-Aug-2026 05:20:16pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Yowayowa_Sensei-S01E01-720p-HEVC-Uncensored-[HIN-JAP]/tCiicc9WYg51bgR1kSpwgUq2hiE-185x278.jpg",
+      "title": "Yowayowa_Sensei-S01E01-720p-HEVC-Uncensored-[HIN-JAP]",
+      "detail_url": "http://103.203.93.2/video-details/1744711",
+      "published_date": "29-Jul-2026 02:38:48pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Demon.Slayer-Kimetsu.no.Yaiba.Infinity.Castle.2025.Dual.720p.HEVC/aFRDH3P7TX61FVGpaLhKr6QiOC1-185x278.jpg",
+      "title": "Demon.Slayer-Kimetsu.no.Yaiba.Infinity.Castle.2025.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744689",
+      "published_date": "29-Jul-2026 02:38:29pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Ghost Train (2024) Dual 720p/rOTXYy5ScOHdaC2YMQowVwQex5s-185x278.jpg",
+      "title": "Ghost Train (2024) Dual 720p",
+      "detail_url": "http://103.203.93.2/video-details/1745096",
+      "published_date": "28-Jul-2026 06:36:46pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Avatar.Aang.The.Last.Airbender.2026.720p.10bit.WEBRip.6CH.x265.HEVC/AbUa37L0mRs4RtMLvSD6cWZcPJP-185x278.jpg",
+      "title": "Avatar.Aang.The.Last.Airbender.2026.720p.10bit.WEBRip.6CH.x265.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744682",
+      "published_date": "26-Jul-2026 06:59:45pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/CoIony 2026 720p WEB-DL x265/image-2026-05-25T152632.313-185x278.png",
+      "title": "CoIony 2026 720p WEB-DL x265",
+      "detail_url": "http://103.203.93.2/video-details/1745093",
+      "published_date": "26-Jul-2026 06:48:20pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/The Grey Men 2 (2025) Dual Audio [Hindi ORG-Chinese] Amazon WEB-DL H264 AAC 720p/MV5BZDJlZDhiMTYtMmQxMy00NjlmLWFiNDYtZWVhY2FhMTUyNjM5XkEyXkFqcGc@._V1_SX300.jpg",
+      "title": "The Grey Men 2 (2025) Dual Audio [Hindi ORG-Chinese] Amazon WEB-DL H264 AAC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1736431",
+      "published_date": "20-Jul-2026 05:06:58pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Daimukti (2025)  Bengali EW WEB-DL 720p/Capture.JPG",
+      "title": "Daimukti (2025)  Bengali EW WEB-DL 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744928",
+      "published_date": "20-Jul-2026 05:05:05pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.6/Chinawood (China)/2026/Golden.Kamuy.The.Abashiri.Prison.Raid.2026.Multi.720p.HEVC/kFIs85TGQrrUqOvyYuC1ezkRO8x-185x278.jpg",
+      "title": "Golden.Kamuy.The.Abashiri.Prison.Raid.2026.Multi.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1736401",
+      "published_date": "20-Jul-2026 04:40:38pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point [S05E101-104]/Capture.JPG",
+      "title": "Bachelor Point [S05E101-104]",
+      "detail_url": "http://103.203.93.2/video-details/1744917",
+      "published_date": "18-Jul-2026 02:12:38pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Bachelor Point [S05E97-100]/727613483_1598578934963425_5427869328090750633_n-240x300.jpg",
+      "title": "Bachelor Point [S05E97-100]",
+      "detail_url": "http://103.203.93.2/video-details/1744921",
+      "published_date": "10-Jul-2026 01:30:50am"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/The.Furious.2026.WEB-DL.720p.HEVC/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ-185x278.jpg",
+      "title": "The.Furious.2026.WEB-DL.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745118",
+      "published_date": "08-Jul-2026 06:19:22pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Alal Dulal (2026)/Capture.JPG",
+      "title": "Alal Dulal (2026)",
+      "detail_url": "http://103.203.93.2/video-details/1744905",
+      "published_date": "07-Jul-2026 02:03:09pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Phool Pishi O Edward (2026)/Phool Pishi O Edward (2026) Bengali ORG 2.0 HDTC H264 AAC 720p.jpg",
+      "title": "Phool Pishi O Edward (2026)",
+      "detail_url": "http://103.203.93.2/video-details/1744954",
+      "published_date": "07-Jul-2026 02:00:48pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Toy.Story.5.2026.iNTERNAL.720p.10bit.HDRip.2CH.x265.HEVC/leOwJIJdqe3kpFxO0w53gjy6aut-185x278.jpg",
+      "title": "Toy.Story.5.2026.iNTERNAL.720p.10bit.HDRip.2CH.x265.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744710",
+      "published_date": "07-Jul-2026 01:50:09pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/A.Magnificent.Life.2025.Dual.720p/mnYryuWqCGPBggGDNHeY6dI6AWQ-185x278.jpg",
+      "title": "A.Magnificent.Life.2025.Dual.720p",
+      "detail_url": "http://103.203.93.2/video-details/1744680",
+      "published_date": "07-Jul-2026 01:49:39pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/DAVID.2025.Dual.720p.HEVC/ypNk8Dc0WY72y2qJHn6gshhrT44-185x278.jpg",
+      "title": "DAVID.2025.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744688",
+      "published_date": "07-Jul-2026 01:49:15pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Boonie.Bears.Future.Reborn.2025.Dual.720p.HEVC/2KQMmKP76xJs2aZyTQIJ1Xm2gny-185x278.jpg",
+      "title": "Boonie.Bears.Future.Reborn.2025.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744684",
+      "published_date": "07-Jul-2026 01:48:50pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Pilot.2024.Dual.720p.HEVC/lqyXcutZbbTsBrETstMl7XLMgOF-185x278.jpg",
+      "title": "Pilot.2024.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745112",
+      "published_date": "05-Jul-2026 02:06:11pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Omanush Holo Manush (2026) Bengali EW WEB-DL H264 AAC 720p/omanush-holo-manush-2026-benga_we6g0fwh.jpg",
+      "title": "Omanush Holo Manush (2026) Bengali EW WEB-DL H264 AAC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744951",
+      "published_date": "25-Jun-2026 02:28:00pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Lifeline (2026) Bengali Chorki WEB-DL H264 AAC 720p/lifeline-2026-bengali-chorki-w_3XibU9kL.jpg",
+      "title": "Lifeline (2026) Bengali Chorki WEB-DL H264 AAC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744942",
+      "published_date": "25-Jun-2026 02:27:31pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Dhallywood (Bangladeshi)/2026/Ashirbad (2026) Bengali EW WEB-DL H264 AAC 720p/ashirbad-2026-bengali-ew-web-d_I02b1KA1.jpg",
+      "title": "Ashirbad (2026) Bengali EW WEB-DL H264 AAC 720p",
+      "detail_url": "http://103.203.93.2/video-details/1744910",
+      "published_date": "25-Jun-2026 02:26:41pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Jujutsu.Kaisen.Hidden.Inventory.Premature.Death.The.Movie.2025.720p.BluRay.x265/kZkyr1sRzarENrxjtltPvmHRrTk-185x278.jpg",
+      "title": "Jujutsu.Kaisen.Hidden.Inventory.Premature.Death.The.Movie.2025.720p.BluRay.x265",
+      "detail_url": "http://103.203.93.2/video-details/1744695",
+      "published_date": "25-Jun-2026 02:08:52pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Boonie Bears Time Twist 2024 Dual 720p HEVC/acyuwDMuqhupF9MqHfCW1gYY1yQ-185x278.jpg",
+      "title": "Boonie Bears Time Twist 2024 Dual 720p HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744683",
+      "published_date": "12-Jun-2026 03:40:57pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Nameless.Gangster.Rules.of.the.Time.2012.Dual.720p.HEVC/RZSZwHXLdhZA3WmSVrSbqUmfq9-185x278.jpg",
+      "title": "Nameless.Gangster.Rules.of.the.Time.2012.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745107",
+      "published_date": "11-Jun-2026 05:24:08pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Milky.Subway.The.Galactic.Limited.Express.-.the.Movie.2026.Multi.720p.HEVC/2PzHbEOfCaC2fS8uCfeylySnaUG-185x278.jpg",
+      "title": "Milky.Subway.The.Galactic.Limited.Express.-.the.Movie.2026.Multi.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744698",
+      "published_date": "06-Jun-2026 03:30:54pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Boss.2025.720p.WEB-DL.HIN-KOR.x265/4gma4HLcqi8oDXwCj7txvfD2qAi-185x278.jpg",
+      "title": "Boss.2025.720p.WEB-DL.HIN-KOR.x265",
+      "detail_url": "http://103.203.93.2/video-details/1745091",
+      "published_date": "06-Jun-2026 03:01:21pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Memories.of.Murder.2003.Dual.ORG.720p.HEVC/4MNdJUiZdyYWdV4PfG8VLnOgaim-185x278.jpg",
+      "title": "Memories.of.Murder.2003.Dual.ORG.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745103",
+      "published_date": "06-Jun-2026 03:00:58pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Colony.Gunche.2026.KOR.PRE-HD.720p/image-2026-05-25T152632.313-185x278.png",
+      "title": "Colony.Gunche.2026.KOR.PRE-HD.720p",
+      "detail_url": "http://103.203.93.2/video-details/1745095",
+      "published_date": "06-Jun-2026 03:00:35pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Bring.It.On.Ghost.S01.Dual.720p.10bit.Hindi.Kor.HEVC/688EQM9Z4IPnditsRG4oAZdMa0b-185x278.jpg",
+      "title": "Bring.It.On.Ghost.S01.Dual.720p.10bit.Hindi.Kor.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1745092",
+      "published_date": "06-Jun-2026 03:00:13pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Little.Amelie.or.the.Character.of.Rain.2026.Dual.720p.HEVC/qoqDvTUVPoZJWw24AjGDt3J4tZN-185x278.jpg",
+      "title": "Little.Amelie.or.the.Character.of.Rain.2026.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744697",
+      "published_date": "06-Jun-2026 02:12:31pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Suddenly.in.the.Dark.1981.Dual.720p/dja37iYbxKLbjSGnkb1FKqeJbXX-185x278.jpg",
+      "title": "Suddenly.in.the.Dark.1981.Dual.720p",
+      "detail_url": "http://103.203.93.2/video-details/1745117",
+      "published_date": "19-May-2026 01:42:42pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/NIPPON.SANGOKU-The.Three.Nations.of.the.Crimson.Sun.S01E01.720p.HIN-ENG.JAP/hjihUw4UPndUxklecJxz1qCbcjT-185x278.jpg",
+      "title": "NIPPON.SANGOKU-The.Three.Nations.of.the.Crimson.Sun.S01E01.720p.HIN-ENG.JAP",
+      "detail_url": "http://103.203.93.2/video-details/1744701",
+      "published_date": "18-May-2026 03:45:03pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/New.Gods.Yang.Jian.2025.Dual.720p.HEVC/kNl7nL1y4Y4iVLVqEGzoe7rAlhH-185x278.jpg",
+      "title": "New.Gods.Yang.Jian.2025.Dual.720p.HEVC",
+      "detail_url": "http://103.203.93.2/video-details/1744702",
+      "published_date": "18-May-2026 03:44:40pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Cartoon Animation (Mixed)/2026/Liar Game S01E01 720p x265 10bit WEB-DL Multi Audio ESub/gbZmmfrAPhKw7buPq2IInJQRxPb-185x278.jpg",
+      "title": "Liar Game S01E01 720p x265 10bit WEB-DL Multi Audio ESub",
+      "detail_url": "http://103.203.93.2/video-details/1744696",
+      "published_date": "18-May-2026 03:44:17pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Absolute.Value.of.Romance/qi2VEZXNKMWmJTHOklkNZFmThpw-185x278.jpg",
+      "title": "Absolute.Value.of.Romance",
+      "detail_url": "http://103.203.93.2/video-details/1745089",
+      "published_date": "18-May-2026 03:21:18pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/The.WONDERfools/pO8ePeDVLZDoSRaZoFuUV5hjeTp-185x278.jpg",
+      "title": "The.WONDERfools",
+      "detail_url": "http://103.203.93.2/video-details/1745120",
+      "published_date": "18-May-2026 03:20:47pm"
+    },
+    {
+      "thumbnail": "http://103.203.93.4/Hallywood (Korean)/2026/Gold.Land/ixBHQ96ryMa8Q0uIOFdUCjqRyy8-185x278.jpg",
+      "title": "Gold.Land",
+      "detail_url": "http://103.203.93.2/video-details/1745099",
+      "published_date": "18-May-2026 03:20:38pm"
     }
-  ]
+  ],
+  "published_date_source_url": "http://103.203.93.2/",
+  "published_date_match_method": "movie ID in homepage card detail URL",
+  "published_dates_refreshed_from_homepage": 200,
+  "published_dates_preserved_from_previous_list": 12000,
+  "homepage_dates_synced_at_utc": "2026-11-20T01:26:48+00:00"
 }
