@@ -164,7 +164,8 @@ def parse_movies(
     return records
 
 
-def scrape_all() -> tuple[list[dict[str, str]], int, int]:
+def scrape_all() -> tuple[list[dict[str, str]], int, int, int, int]:
+    previous_dates = load_previous_publication_dates()
     home_dates = homepage_publication_dates(fetch_url(HOME_URL))
     _, first_page = fetch_page(1)
     total_pages = max_page_from(first_page)
@@ -201,12 +202,18 @@ def scrape_all() -> tuple[list[dict[str, str]], int, int]:
     movies = sorted(movies_by_url.values(), key=publication_time, reverse=True)
     if not movies:
         raise RuntimeError("No movie cards were found; output was not changed.")
-    return movies, total_pages, len(home_dates)
+    refreshed_count = sum(1 for movie in movies if movie_id_from_url(movie["detail_url"]) in home_dates)
+    preserved_count = sum(
+        1 for movie in movies
+        if movie_id_from_url(movie["detail_url"]) not in home_dates
+        and movie_id_from_url(movie["detail_url"]) in previous_dates
+    )
+    return movies, total_pages, len(home_dates), refreshed_count, preserved_count
 
 
 def main() -> int:
     try:
-        movies, pages_scanned, homepage_date_count = scrape_all()
+        movies, pages_scanned, homepage_date_count, refreshed_count, preserved_count = scrape_all()
         result = {
             "title": f"Complete Movie List | {len(movies)} items collected",
             "description": (
@@ -219,7 +226,7 @@ def main() -> int:
             "source_url": MOVIES_URL,
             "published_date_source_url": HOME_URL,
             "published_date_match_method": "movie ID in homepage card detail URL",
-            "homepage_dated_cards": refreshed_count,
+            "homepage_dated_cards": homepage_date_count,
             "published_dates_refreshed_from_homepage": refreshed_count,
             "published_dates_preserved_from_previous_list": preserved_count,
             "pages_scanned": pages_scanned,
